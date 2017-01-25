@@ -197,6 +197,7 @@
     <Content Include="Content\bootstrap.css.map" />
     <Content Include="Content\Pitch-to-Administrators-2015-October.pdf" />
     <None Include="Properties\PublishProfiles\AwpbsWebApp2.pubxml" />
+    <None Include="Properties\PublishProfiles\webapp.pubxml" />
     <None Include="Properties\PublishProfiles\WebAppAws.pubxml" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Icon.png" />

@@ -312,6 +312,7 @@
     <Content Include="ApplicationInsights.config" />
     <None Include="Properties\PublishProfiles\AwpbsWebApi - Production.pubxml" />
     <None Include="Properties\PublishProfiles\AwpbsWebApi - Development.pubxml" />
+    <None Include="Properties\PublishProfiles\AWS webapi.pubxml" />
     <None Include="Properties\PublishProfiles\aws-api.pubxml" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
