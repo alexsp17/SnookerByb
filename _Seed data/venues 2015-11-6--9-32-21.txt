@@ -1,0 +1,6 @@
+ID	Snooker	Name	Country	Latitude	Longitude	10' tables	12' tables	Address	Phone number	Website	POI id
+2008	1	Biliardo KN klubas	LTU	54.6871555	25.2796514			Gedimino pr. 28, Vilnius 01104, Lithuania	(8-5) 260 8926	http://www.fuksas.lt/	ChIJheAxsQ-U3UYR6A7islD3m5E	
+2009	1	Cue Club	LTU	54.697362	25.2986619			Lithuania	(8-5) 279 5577	http://cueclub.lt/kontaktai/	ChIJsfDNraCW3UYRWawTzH3GLOI	
+2010	1	Amerigo	LTU	54.708043	25.227629			Viršuliškių g. 40, Vilnius 05112, Lithuania	(8-5) 249 0707	http://www.amerigo.lt/vilnius	ChIJT-YRT9mT3UYRCYzYN8Zt1U8	
+2011	1	Entry	LTU	54.895792	23.9090291			Kęstučio g. 71, Kaunas 44300, Lithuania	(8-37) 225430	http://www.entry.lt/	ChIJDwspbHMi50YRM4Na6rV569M	
+2012	1	Neo Kaunas	LTU	54.9241879	23.9640399			Savanorių pr. 350, Kaunas 49385, Lithuania	(8-37) 311114	http://www.neokaunas.lt/	ChIJN1luUg4i50YR9IaTy0Vqbfs	

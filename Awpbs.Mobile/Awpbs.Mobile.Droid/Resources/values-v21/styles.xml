@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+
+<resources>
+  <style name="BybTheme" parent="BybTheme.Base">
+    <!--If you are using MasterDetailPage you will want to set these, else you can leave them out-->
+    <!--<item name="android:windowDrawsSystemBarBackgrounds">true</item>
+    <item name="android:statusBarColor">@android:color/transparent</item>-->
+    <item name="android:textAppearanceButton">@style/textAppearanceButton</item>
+    <item name="android:textAppearance">@style/CustomTextAppearance</item>
+  </style>
+
+  <style name="textAppearanceButton" parent="@android:style/TextAppearance.Material.Widget.Button">
+      <item name="android:textAllCaps">false</item>
+  </style>
+
+  <style name="CustomTextAppearance">
+      <item name="android:typeface">monospace</item>
+  </style>
+</resources>

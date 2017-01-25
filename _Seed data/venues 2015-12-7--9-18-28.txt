@@ -1,0 +1,144 @@
+ID	Snooker	Name	Country	Latitude	Longitude	10' tables	12' tables	Address	Phone number	Website	POI id
+2325	1	Billard Sport Zentrum	DEU	48.811796	9.1660367		1	Bludenzer Str. 7, 70469 Stuttgart, Germany	0711 852049	http://www.7ap-billard.de/	ChIJZVCJvunamUcRHhWSH6EFl-o	
+2326	1	Billard- Cafe Caprice	DEU	48.9083827	9.1507387		1	Lembergstraße 17, 71679 Asperg, Germany	07141 9742130	http://www.bc-ludwigsburg.eu/	ChIJC5-iqGW_pUcRyx6beRsdY70	
+2327	1	Sportcafé Markthalle Ludwigsburg	DEU	48.8946112	9.1799939		2	Martin-Luther-Straße 36, 71636 Ludwigsburg, Germany	07141 7029466	http://markthalle.sportcafe.eu/Impressum	ChIJw6uLaaPRmUcRfB_WsKGK4nw	
+2328	1	BC Stuttgart Abt. Snooker	DEU	48.8883519	9.2093353		5	Breslauer Str. 2, 71638 Ludwigsburg, Germany	07141 6854875	http://www.billard-stuttgart.de/	ChIJQ1Dfv9vRmUcRCuFPzx0RO54	
+2329	1	Flamingo Island	DEU	48.9041526	9.0981157		1	Schulze-Delitzsch-Straße 21, 71706 Markgröningen, Germany	07145 26798	 	ChIJb_-pZMDWmUcRZJKLrcIuDhU	
+2330	1	Spielothek Flamingo	DEU	48.9041526	9.0981157		1	Schulze-Delitzsch-Straße 21, 71706 Markgröningen, Germany	07145 26798	 	ChIJb_-pZMDWmUcRZJKLrcIuDhU	
+2331	1	River Side Bowling	DEU	48.52085	9.08119		1	Bismarckstraße 128, 72072 Tübingen, Germany	07071 91980	http://www.riverside-bowling.de/	ChIJSQwsW7P6mUcR5ljXDNxii1c	
+2332	1	Kings Park	DEU	48.29153	9.09817		1	Jahnstraße 1, 72393 Burladingen, Germany	07475 955216	 	ChIJgYhfVGwcmkcRm52akKD3f7E	
+2333	1	Doc Holiday	DEU	48.21179	9.011		1	Schillerstraße 133, 72458 Albstadt Ebingen, Germany	07431 55985	 	ChIJ73jhFa8amkcRBlbV0vAyZB4	
+2334	1	Spielraum Billard- & Sportsbar	DEU	48.4882127	9.2189642		3	Albstraße 38, 72764 Reutlingen, Germany	07121 1390804	 	ChIJKaK-VkDymUcRqwPvjyxcVjU	
+2335	1	Billard Sport-Center Shooters	DEU	48.47374	9.22637		1	Max-Eyth-Straße 7, 72793 Pfullingen, Germany	0172 7444422	 	ChIJXbYUOVLymUcRBxPONQBUBNU	
+2336	1	Billard-Center Göppingen	DEU	48.6976385	9.6689767		1	Maybachstraße 19, 73037 Göppingen, Germany	07161 68750	http://www.billard-gp.de/	ChIJP5hdWuCjmUcRbrYRjOSSnfI	
+2337	1	Sportsbar Kalaluna	DEU	48.80779	9.54071		1	Hammerschlag 26, 73614 Schorndorf, Germany	07181 64477	http://www.kalaluna.de/	ChIJLc70_ne6mUcRRD6EqtEidEw	
+2338	1	Paradies Billard	DEU	48.7993014	9.594448		2	Jakob-Schüle-Straße 29, 73655 Plüderhausen, Germany	 	 	ChIJI35GOam6mUcR6IrubV761Bo	
+2339	1	Billard- und Dartsportcenter	DEU	48.741166	9.298788		1	Kollwitzstraße 1, 73728 Esslingen am Neckar, Germany	0711 5502560	http://www.metropolitan-esslingen.de/	ChIJb88PHzbBmUcRCrkqvPvhdXo	
+2340	1	Sphinx Billard	DEU	48.6957	9.33325		1	Robert-Bosch-Straße 45, 73770 Denkendorf, Germany	0711 344946	http://splitter.ndsplitter.com/?r=4&f=DH5&mid=6&domain=sphinx-billard.de&erc=ab	ChIJYxU1Bl3AmUcR-dpbQNyyPgQ	
+2341	1	Billardcafe Fireball	DEU	48.9571864	9.0868405		1	Siemensstraße 33, 74343 Sachsenheim, Germany	07147 12525	http://billard-fireball.de/	ChIJ4xWAslLUmUcRb9DywyXmUpQ	
+2342	1	Spielhalle Play In	DEU	49.10385	9.70674		1	Daimlerstraße 20, 74523 Schwäbisch Hall, Germany	0791 54961	 	ChIJdbNl-uFPmEcRjtiqIruGvn4	
+2343	1	City Royal	DEU	49.35939	9.14941		2	Hauptstraße 105, 74821 Mosbach, Germany	06261 6744192	 	ChIJKwWA1m_1l0cRBeEuLLNuoOY	
+2344	1	Tom´s Spielclub	DEU	49.34345	9.13195		2	Pfalzgraf-Otto-Straße 42, 74821 Mosbach, Germany	06261 2677	 	ChIJb1Vh8Tj1l0cRx8SLpCj6FJQ	
+2345	1	Casino Sinsheim	DEU	49.2373796	8.901382		3	Dörntelsberg 7, 74889 Sinsheim, Germany	07261 657501	http://www.casino-sinsheim.de	ChIJ3cPwoMWRl0cRb0ZK3VUl0Zg	
+2346	1	Billardverein Pforzheim e.V. - Vereinsheim	DEU	48.89351	8.68419		3	Maximilianstraße 46, 75172 Pforzheim, Germany	07231 8005328	http://www.bv-pforzheim.de/	ChIJZWf1_BRyl0cR_os5xUhH_k0	
+2347	1	Arena	DEU	49.0272356	8.3552572		1	Daimlerstraße 13, 76185 Karlsruhe, Germany	0721 60953113	http://www.europa-arena.com/	ChIJwbn0ICQHl0cRlbyncoU7u3w	
+2348	1	Billard Factory	DEU	48.7068072	8.7621331		1	Bauknecht Areal, Tübinger Straße 1, 75365 Calw, Germany	07051 953810	http://billard-factory.de/	ChIJ-TESv1ddl0cRZjYtJlSOk2E	
+2349	1	Gerst	DEU	49.0226048	8.7600351		1	Marktstraße 38, 75438 Knittlingen, Germany	 	http://www.gerst-ingenieure.de/	ChIJfe1CNwV2l0cRguedQQ4PXmY	
+2350	1	Snookerfreunde Karlsruhe e. V.	DEU	49.0231209	8.3536772		4	Gablonzer Str. 8, 76185 Karlsruhe, Germany	0721 3814104	http://www.snookerclub147.de/	ChIJITUqfwYHl0cRq0sGnaErULs	
+2351	1	funsportsbar XL	DEU	49.0445742	8.3909748		1	Am Sandfeld 1, 76149 Karlsruhe, Germany	0721 7815413	http://funsportsbar-xl.de/	ChIJaT0MP3QHl0cRdRmW1m3hleI	
+2352	1	Snookerclub 147 Karlsruhe e. V.	DEU	49.0231209	8.3536772		6	Gablonzer Str. 8, 76185 Karlsruhe, Germany	0721 3814104	http://www.snookerclub147.de/	ChIJITUqfwYHl0cRq0sGnaErULs	
+2353	1	Vereinsheim City Club Karlsruhe e. V.	DEU	49.022148	8.355568		3	Gablonzer Str. 2, 76185 Karlsruhe, Germany	 	http://www.cityclub-karlsruhe.de/	ChIJB88sYCcHl0cRK6lS14nC9Hw	
+2354	1	Billard-Sportpark Bruchsal	DEU	49.14004	8.55907		2	Molzaustraße 5, 76646 Bruchsal, Germany	07251 18487	http://www.billard-sportpark.de/	ChIJ6azXrRCkl0cRcYrRcAeFmRI	
+2355	1	Play Land	DEU	49.204391	8.1172977		1	Zeppelinstraße 33, 76829 Landau in der Pfalz, Germany	06341 84698	 	ChIJ4b0x1FhQlkcRekFyy6LM4uo	
+2356	1	Billardcafe Tropical Landau	DEU	49.1905811	8.1188188		1	Cornichonstraße 16, 76829 Landau in der Pfalz, Germany	06341 2671500	http://amici-landau.de/	ChIJ4wmp8-9QlkcRpdSAGi2wswk	
+2357	1	Snookerclub Offenburg (DJK)	DEU	48.4596	7.94904		2	Zähringerstraße 40, 77652 Offenburg, Germany	 	http://www.djk-offenburg-ev.de/	ChIJ7b_eVc8okUcRldOWhsakSvk	
+2358	1	Spielothek Jack - Pot	DEU	48.28398	8.16353		1	Hauptstraße 82, 77756 Hausach, Germany	07831 82125	 	ChIJK33EcI7QkEcRZgKIEiT9Ez0	
+2359	1	Triangel	DEU	48.2831877	8.1732377		1	Hauptstraße 28, 77756 Hausach, Germany	07831 1052	http://www.triangel-hausach.de/?action=bistro&cathegorie=bistro&language=DE&menue_id=3	ChIJKfnUD4rQkEcRMfdj8YoxpaE	
+2360	1	Niner s Billard & Lounge	DEU	48.0671698	8.457614		4	Vockenhauser Str. 2, 78048 Villingen-Schwenningen, Germany	07721 6807420	http://www.bvvs-online.de/	ChIJcYFGNnWWkEcRNPy1ptszfBc	
+2361	1	Kegelstube Schützen	DEU	48.1262692	8.2953537		1	Am Schützen 2, 78112 St. Georgen, Germany	07724 1641	http://www.bsc-sanktgeorgen.de/	ChIJfcSh6JbBkEcRVjFsvWNwBeA	
+2362	1	Exil	DEU	47.75821	8.83619		1	Hauptstraße 8, 78224 Singen (Hohentwiel), Germany	07731 67564	http://www.exil-singen.de/	ChIJ03LX70B9mkcRusiD3vCljJY	
+2363	1	Spielodrom	DEU	47.6741	9.15674		1	Reichenaustraße 206, 78467 Konstanz, Germany	07531 455300	 	ChIJZ_-tjfX2mkcR0ltDGkJph2A	
+2364	1	Merkur Spielothek	DEU	47.9925911	7.8543183		1	Schwabentorring 2, 79098 Freiburg im Breisgau, Germany	0761 272819	http://www.merkur-spielothek.de/	ChIJR38UOZgckUcRcVCJ2Yeh3h4	
+2365	1	Billardcenter Jack & Daniel´s	DEU	47.99298	7.79021		2	Rimsinger Weg 16, 79111 Freiburg im Breisgau, Germany	0761 4763829	http://www.bscfrkaiserstuhl.de/	ChIJw_YHit4akUcRHd-GExgFuPg	
+2366	1	Shooters	DEU	48.049	7.85926		1	Industriestraße 61, 79194 Gundelfingen, Germany	0761 582155	http://www.shooters-online.de/	ChIJ7yzqdAAckUcRhQOslTA4_QY	
+2367	1	Bombastik	DEU	47.80963	7.60622		1	Eisenbahnstraße 3, 79379 Müllheim, Germany	07631 172513	http://bombastic-muellheim.de/	ChIJY7Uy6kmnkUcR4NAOFSKGl0I	
+2368	1	Deep Space 9	DEU	47.532851	7.610012		2	Freilager-Platz 9, 4142 Münchenstein / Basel, Switzerland	061 283 60 50	http://www.hek.ch	ChIJMRk6xSK4kUcRLB0g2ewsbnA	
+2369	1	PIK AS - Spielothek	DEU	47.6159	8.18642		1	Bleiche 1, 79761 Waldshut-Tiengen, Germany	07751 4073	 	ChIJwdwyattCkEcRmwAUzOuvzLw	
+2370	1	Billard Park Freimann	DEU	48.19963	11.62586		5	Josef-Wirth-Weg 21, 80939 München, Germany	089 32455972	 	ChIJnWh4sGJ0nkcRQxlt6KvX-Cw	
+2371	1	Billard Star	DEU	48.09394	11.50778		2	Kistlerhofstraße 243, 81379 München, Germany	089 78005822	http://www.pool-brothers.de/	ChIJbxfWVCLZnUcRJLLBDobe5fs	
+2372	1	Bella Billard Center	DEU	48.1133407	11.5762286		2	Martin-Luther-Straße 22, 81539 München, Germany	089 6928080	http://www.bellabillard.de/	ChIJxa3UwxLfnUcRMXWz5jFH2Zs	
+2373	1	Gymnas Billardpark	DEU	48.1222798	11.6713392		3	Schmuckerweg 3, 81825 München, Germany	089 429366	http://www.gymnas.de/	ChIJE13GAB_gnUcRbnzVfscKdqI	
+2374	1	Banxx Billard	DEU	48.0412137	11.5242603		1	Schloßstraße 14A, 82031 Grünwald, Germany	089 6414758	http://www.banxx.de/	ChIJpdKXmRLcnUcR8xOqX0o6qvw	
+2375	1	Happy Billard	DEU	48.1089197	11.451958		1	Fraunhoferstraße 6, 82152 Planegg, Germany	089 8562078	http://www.happybillard.de/	ChIJBTBgoDPYnUcRES-rPfF1WjE	
+2376	1	Skorpion	DEU	48.1092285	11.2899694		2	Carl-Benz-Straße 16, 82205 Gilching, Germany	08105 22065	http://www.automaten-strunz.de/ucando/www/menu/Spielotheken/menu/Gilching	ChIJTaQ9r1zUnUcR3omfqByxtwc	
+2377	1	Billard Saloon Fohlenhof	DEU	48.19583	11.24816		1	Am Fohlenhof 2B, 82256 Fürstenfeldbruck, Germany	08141 44855	 	ChIJY2FV6XCAnkcR5Qt82mWpFBg	
+2378	1	BSV Playhouse FFB	DEU	48.1947547	11.2499146		4	Hasenheide 6, 82256 Fürstenfeldbruck, Germany	08141 50304	http://www.playhouse-ffb.de/	ChIJjyC-K3GAnkcRLL8_xnwuweI	
+2379	1	Joker	DEU	48.08995	11.50311		1	Drygalski-Allee 41, 81477 München, Germany	089 75090281	http://www.skischule-joker.de/	ChIJsRl9nBTZnUcRVP1Kp2RNHRE	
+2380	1	Merkur Spielothek	DEU	47.8504673	12.0924766		1	Grubholzer Str. 4, 83026 Rosenheim, Germany	08031 233571	http://www.spielothek.de/	ChIJq7jFRcMbdkcR1MyImF6u8l8	
+2381	1	1. Billardverein Rosenheim	DEU	47.8484234	12.1173701		2	Klepperstraße 18 b, 83026 Rosenheim, Germany	08031 73302	http://www.billardverein-rosenheim.de/	ChIJc0JCGi4adkcRns8DFDZ3SCU	
+2382	1	Karo Castle	DEU	47.844285	12.0640253		2	Carl-Jordan-Straße 18, 83059 Kolbermoor, Germany	08031 920363	http://www.karo-castle.com/	ChIJZTu2C_4bdkcR_8plarjS6fE	
+2383	1	Spiel Sport Center	DEU	47.75782	12.64957		1	Brander Str. 1, 83324 Ruhpolding, Germany	08663 1396	 	ChIJf-XOGMpmdkcRUIZdqlx0xo8	
+2384	1	KARO LA	DEU	48.56378	12.16139		3	Industriestraße 16, 84030 Ergolding, Germany	0871 77737	 	ChIJDdO246sonkcRCMgbhwORQh0	
+2385	1	wash & fun Spielothek DVD-Verleih Waschsalon	DEU	48.5362	12.14519		1	Luitpoldstraße 7, 84034 Landshut, Germany	0871 4306454	 	ChIJRxzCwXUmnkcRf00ieqtLHQw	
+2386	1	TSV Vilsbiburg Abtl. Billard	DEU	48.4509202	12.3525868		1	Brückenstraße 15, 84137 Vilsbiburg, Germany	08741 3406	http://www.tsv-vilsbiburg.de/	ChIJY43jOSNsCUERvFQ2O_Lc6GY	
+2387	1	Gamefactory	DEU	48.4026762	12.7405127		1	Landshuter Str. 126, 84307 Eggenfelden, Germany	08721 508460	 	ChIJc53dck65dUcRDPS9Lhu27uw	
+2388	1	Breakers Billard	DEU	48.17498	12.82411		1	Burgkirchener Str. 22, 84489 Burghausen, Germany	08677 911350	 	ChIJmQRm2xbOdUcR9bYXyAOS1pA	
+2389	1	M3	DEU	48.24308	12.70663		2	Lohgerberstraße 13, 84524 Neuötting, Germany	08671 927299	 	ChIJG2-BdjHEdUcRftwv7t0kWWc	
+2390	1	Merkur Spielothek	DEU	48.77326	11.3884336		2	Am Westpark 6, 85057 Ingolstadt, Germany	0841 9316688	http://www.merkur-spielothek.de/	ChIJkSW3LXH-nkcRfiJMi605AFg	
+2391	1	Billardpark Ingolstadt	DEU	48.7460166	11.4701343		4	Manchinger Str. 107, 85053 Ingolstadt, Germany	0841 9816387	http://www.billardpark-in.de/	ChIJcaZhtnv_nkcRod3hgPvAUJQ	
+2392	1	Merkur Spielothek	DEU	48.78047	11.36361		2	Ochsenmühlstraße 1, 85049 Ingolstadt, Germany	0841 9812887	http://www.merkur-spielothek.de/	ChIJV5tjA8H9nkcRKUiPwRFtGIU	
+2393	1	EURO-BAR	DEU	48.88199	11.2001		1	Industriestraße 18C, 85072 Eichstätt, Germany	08421 904408	 	ChIJDzvQsKIen0cRdvvHp3YnWu4	
+2394	1	m´s BILLARD	DEU	48.25649	11.43288		1	Brunngartenstraße 5, 85221 Dachau, Germany	08131 84703	http://www.triple-b-dachau.de/	ChIJQWKg27N7nkcRZCbE_CS_I-4	
+2395	1	TWENTY NINE (1. PBC Freising)	DEU	48.3962471	11.754367		1	Erdinger Str. 29, 85356 Freising, Germany	08161 885892	http://www.twentynine.biz/	ChIJFarWdClrnkcRRqOnLQkU6ZE	
+2396	1	Big Valley	DEU	48.2983793	11.6212063		1	Heidestraße 3, 85386 Eching, Germany	089 3195373	http://web131.webbaukasten.de/	ChIJA85pWPltnkcRMExdRRwP_8s	
+2397	1	Vereinsheim 1. Münchner Snooker Club e. V.	DEU	48.30461	11.61644		8	Breslauer Str. 3, 85386 Eching, Germany	0176 58526691	http://www.erster-muenchner-sc.de/	ChIJ_f5zzAlunkcRAtXnuJKhBn4	
+2398	1	Billard Cafe Neumaier	DEU	48.3046518	11.9096542		1	Geheimrat-Irl-Straße 4, 85435 Erding, Germany	08122 42356	http://www.billard-erding.de/	ChIJ_WAc1PQQnkcRB32UIJUaJXo	
+2399	1	POOL CiTY	DEU	48.3656729	10.8942662		3	Hermanstraße 11, 86150 Augsburg, Germany	0821 3195636	 	ChIJZeJZEIwSCUERTu48w3XASBU	
+2400	1	Bella Pool-Billard-Center	DEU	48.3818312	10.8591784		4	Geschwister-Scholl-Straße 1, 86156 Augsburg, Germany	0821 441305	http://www.bellabillard.de/	ChIJtTyIsyC9nkcRNnXGI3S0-Qg	
+2401	1	Cafe BBISS	DEU	48.4242503	10.876347		1	Augsburger Str. 16, 86368 Gersthofen, Germany	0821 5406280	 	ChIJR6_D0rW9nkcRH1H6rwA5uUY	
+2402	1	BSC Kissing e. V.	DEU	48.3053309	10.9637253		4	Kornstraße 1, 86438 Kissing, Germany	08233 2593560	http://www.bsc-kissing.de/	ChIJpaM_7W2ZnkcRsjyUCsydEVA	
+2403	1	Instroke	DEU	48.29974	10.963095		3	Industriestraße 5, 86438 Kissing, Germany	08233 60393	http://www.instroke-live.de/	ChIJZ3Hq3WuZnkcRdlg3WjKmTxI	
+2404	1	Billard Club Krumbach e. V.	DEU	48.3123149	10.4532457		1	Hauptstraße 30, 86505 Münsterhausen, Germany	 	 	ChIJv2weerBUmUcR9feuA-o_b5s	
+2405	1	Bella Billard Center	DEU	48.04614	10.88535		8	Weilheimer Str. 9, 86899 Landsberg am Lech, Germany	08191 22531	http://www.bellabillard.de/	ChIJ7b90DqoknEcRmRiC5uEkHi0	
+2406	1	1. SnookerClub Lechbruck e.V.	DEU	47.6990721	10.7938167		3	Floßbinderweg 3, 86983 Lechbruck am See, Germany	 	 	ChIJkVS-VwNbnEcRu3LRSidgUpU	
+2407	1	Billard- und Snookerpark Kempten	DEU	47.718621	10.313424		8	Haubenschloßstraße 4a, 87435 Kempten (Allgäu), Germany	0831 2006585	https://www.facebook.com/Billard-Arena-249563965239846/	ChIJ1-LxHth6CEERLxMAt9RPonw	
+2408	1	Josi´s Billard- & Snookercenter	DEU	47.52331	10.26277		1	Illerstraße 10, 87527 Sonthofen, Germany	08321 788777	http://www.josis-billard.de/	ChIJvXB3_eyDnEcRJZT3B3Opx04	
+2409	1	Billard und Snookercenter Sonthofen	DEU	47.52331	10.26277		1	Illerstraße 10, 87527 Sonthofen, Germany	08321 788777	http://www.josis-billard.de/	ChIJvXB3_eyDnEcRJZT3B3Opx04	
+2410	1	Billard und Snooker Sport-Center KÖ	DEU	47.5681528	10.676615		3	Kemptener Str. 87, 87629 Füssen, Germany	08362 940582	http://www.koe-fuessen.com/	ChIJNXoir-z1nEcRgYWmJG13zIA	
+2411	1	Snooker Club Memmingen e.V.	DEU	47.9908987	10.1820211		4	Saarlandstraße 12, 87700 Memmingen, Germany	08331 2627	http://www.pbc-memmingen.de/	ChIJtyCxXFfym0cR4W2SXxUkelo	
+2412	1	1. Billard-Club Ravensburg e. V.	DEU	47.78357	9.6045009		1	Escher-Wyss-Straße 9, 88212 Ravensburg, Germany	0751 32861	http://www.ravensburger-billardclub.de/	ChIJuSDDyuWum0cRY8jiMl6yPOc	
+2413	1	Billard-Center	DEU	47.78357	9.6045009		1	Escher-Wyss-Straße 9, 88212 Ravensburg, Germany	0751 32861	http://www.ravensburger-billardclub.de/	ChIJuSDDyuWum0cRY8jiMl6yPOc	
+2414	1	BC Weingarten Vereinsheim	DEU	47.798764	9.621899		2	Hähnlehofstraße 5, 88250 Weingarten, Germany	0751 1897567	http://www.billardclub-weingarten.de/	ChIJ7zgaBKuvm0cRN9ovXLqhtpM	
+2415	1	Merkur Spielothek	DEU	48.3974868	10.0048529		1	Augsburger-Tor-Platz 1, 89231 Neu-Ulm, Germany	0731 2076343	http://www.merkur-spielothek.de/	ChIJHUmpxYxmmUcRYlaHaP9OvUM	
+2416	1	EXIT	DEU	48.2768085	10.0791608		1	Memminger Str. 11, 89269 Vöhringen, Germany	07306 359941	http://www.cityhotelvoehringen.de/	ChIJ4SyQASjgm0cRh31e4KNuESo	
+2417	1	PBC EightBall Lauingen e. V.	DEU	48.575263	10.43266		2	Schabringer Straße 15, 1. Stock, 89415 Lauingen, Germany	09072 6166	http://pbclauingen.de/	ChIJQf4lYSI2mUcRRo5W5XX9Pqc	
+2418	1	Merkur Spielothek	DEU	49.449102	11.0873543		2	Königstorgraben 9, 90402 Nürnberg, Germany	0911 2355086	http://www.merkur-spielothek.de/	ChIJlUKUJaFXn0cRlwO-kOTnJSk	
+2419	1	Billard Cafe Fantasy	DEU	49.465171	11.0992749		1	Praunstraße 20, 90489 Nürnberg, Germany	0911 5675741	http://www.fantasybarundrestaurant.de/	ChIJ8eEqL-tXn0cR4Yipo1sIQVc	
+2420	1	Billard-Cafe Karussell	DEU	49.44707	11.069903		1	Frauentorgraben 61, 90443 Nürnberg, Germany	0911 226608	https://www.facebook.com/CafeKarussell	ChIJuWIh36lXn0cRpDTfoiwStko	
+2421	1	Billard House Nürnberg	DEU	49.4565623	11.0347239		2	Adam-Klein-Straße 150, 90431 Nürnberg, Germany	0911 225007	http://www.billardhouse-nbg.de/	ChIJg4K4kQtXn0cRPUkNcl_pFKY	
+2422	1	P1-hall	DEU	49.4770026	11.115675		2	Klingenhofstraße 70, 90411 Nürnberg, Germany	0911 4088880	http://www.p1hall.de/	ChIJ-_H-Os9Zn0cRjhMq8n37Ujw	
+2423	1	Merkur Spielothek	DEU	49.5830561	10.9662008		1	Gundstraße 2, 91056 Erlangen, Germany	09131 9959343	http://www.merkur-spielothek.de/	ChIJLTKnj634oUcRqByATYFE6Zg	
+2424	1	Billard-Cafe Impact	DEU	49.4712514	10.9874447		1	Schwabacher Str. 62, 90762 Fürth, Germany	01577 2089077	http://impactsportcafe.wix.com/impactsportcafe62	ChIJ8WbJOL9Vn0cRArIadhnwI2s	
+2425	1	Vereinsheim des SSC-Fürth	DEU	49.4600407	11.0240814		6	Fürther Str. 301-303, 90429 Nürnberg, Germany	0911 32237282	http://www.ballroom-nuernberg.de/	ChIJY3xQ73pWn0cR6ljGXPUBXvE	
+2426	1	Sportland Erlangen	DEU	49.59965	10.99976		4	Münchener Str. 55-57, 91054 Erlangen, Germany	09131 9788922	http://www.sportland-erlangen.de/	ChIJb5gW2-f4oUcRMDgwbQDBfKQ	
+2427	1	BC 97 Herzogenaurach	DEU	49.57806	10.9016301		1	Zeppelinstraße 4, 91074 Herzogenaurach, Germany	09132 630954	http://www.bc-97.de/	ChIJkQp1XoMBokcRlVKO_A9z69M	
+2428	1	Casina	DEU	49.33547	11.02086		1	Nürnberger Str. 43, 91126 Schwabach, Germany	09122 693336	http://www.casina.de/	ChIJ41nMUCxQn0cRf5Mi9_4Ih-A	
+2429	1	ELDORADO	DEU	49.23913	11.29352		1	Reckenstetten 1, 90584 Allersberg, Germany	09176 995755	http://www.eldorado-pferdesport.de/	ChIJge8HjJhpn0cRZVSSQm7aLN0	
+2430	1	TSG 08 Roth e.V. Abteilung Billard	DEU	49.2532039	11.1061075		2	Ostring 28, 91154 Roth, Germany	09171 63569	http://www.tsg08-roth.de/	ChIJPe58ADpEn0cR9-Kl7s6NlRM	
+2431	1	Billard Las Vegas	DEU	49.4077	11.10066		1	Herpersdorfer Str. 1C, 90469 Nürnberg, Germany	 	 	ChIJJ2u9CP5Zn0cRe_R37Agj2As	
+2432	1	Spielodrom	DEU	49.5830517	10.9691032		1	Am Hafen 7A, 91056 Erlangen, Germany	09131 6873452	http://www.spielodrom-casino-gaming.de/	ChIJkdUrVLL4oUcRFnyNdoSkDi8	
+2433	1	Poolbreakers Ansbach	DEU	49.3004246	10.5719357		2	Merckstraße 7, 91522 Ansbach, Germany	0981 17122	 	ChIJubNrkM27mEcRgamzgnXJYxc	
+2434	1	Billardstube Rothenburg o. d. T.	DEU	49.3761249	10.1934477		2	Ansbacher Str. 69, 91541 Rothenburg ob der Tauber, Germany	09861 2551	 	ChIJv2-rJrqPmEcRcnd0e58LuAY	
+2435	1	Das Billard Cafe	DEU	49.4651887	12.3994527		1	Industriegebiet West 10, 92526 Oberviechtach, Germany	09671 3057457	https://www.facebook.com/pages/Tu-Das/182427311831681	ChIJj_zXXgUboEcRsvRQzNKmDQs	
+2436	1	Dali Musikcafe	DEU	49.45371	12.19585		1	Schulstraße 14, 92507 Nabburg, Germany	09433 2024111	http://www.musikcafe-dali.de/	ChIJFaa6Y_YhoEcRQJXPsqrPb24	
+2437	1	Musikcafe Hemingway	DEU	49.6581944	12.1469237		1	Regensburger Str. 55, 92637 Weiden in der Oberpfalz, Germany	0961 7172	http://www.musikcafe-hemingway.de/	ChIJWTExowU5oEcRykaFDFBNWc0	
+2438	1	Tiffany Spielothek	DEU	49.013864	12.133627		1	Belgrader Str. 2, 93055 Regensburg, Germany	0941 78039823	http://www.magic-casino.de/	ChIJNyaPnYDBn0cRXIX-C9aMeg4	
+2439	1	Super Bowl	DEU	49.0312181	12.1298116		4	Im Gewerbepark 44, 93059 Regensburg, Germany	0941 401077	http://www.superbowl.de/	ChIJb9osJI3Bn0cRBbvhEbAwWyg	
+2440	1	Sporthotel Krüger	DEU	48.8873089	12.6314192		1	Dornierstraße 49-51, 94315 Straubing, Germany	09421 98090	http://www.sportkrueger.de/	ChIJRWwacWNvdUcR4JtazWPIc2I	
+2441	1	Moskito Play	DEU	48.85224	12.96035		2	Graflinger Str. 147, 94469 Deggendorf, Germany	0991 26534	 	ChIJk6LFAWwRdUcRMg4LKIiQv9c	
+2442	1	Revanche Billard Café	DEU	48.63064	13.18786		1	Furtgasse 4, 94474 Vilshofen an der Donau, Germany	08541 9034695	 	ChIJZ2kze8H_dEcRw9obK5Kr0Ck	
+2443	1	Spieloase	DEU	48.85782	13.38838		1	Zur Schleif 5, 94481 Grafenau, Germany	08552 973860	 	ChIJ1SGYDs3mdEcRFuZnsPIrV_I	
+2444	1	1. Billard Club Selb e. V.	DEU	50.171311	12.1339323		2	Ludwigstraße 6, 95100 Selb, Germany	09287 883178	http://www.selb-live.de/	ChIJZ2R9VAf9oEcRmnd9j9ftlI4	
+2445	1	Jasmin´s	DEU	50.1065817	11.4511648		1	Pestalozzistraße 5, 95326 Kulmbach, Germany	09221 2131	 	ChIJ8T1ZYo-doUcRIKBeYMhBfW4	
+2446	1	Magic 8	DEU	49.86879	12.34509		1	Einsteinstraße 8, 95643 Tirschenreuth, Germany	09631 70260	http://www.zehendner.de/	ChIJocZKPCddoEcRLCrPlJXZ0ms	
+2447	1	Playworld Spielothek	DEU	49.900912	10.9206599		1	Pödeldorfer Str. 146, 96050 Bamberg, Germany	0951 12147	 	ChIJiR4hk5sjokcR8CHubhqodMI	
+2448	1	Fun World Spielothek	DEU	49.91286	10.86678		1	Heganger 23, 96103 Hallstadt, Germany	0951 4076767	 	ChIJv1I-TFIjokcRi8afoSdWX14	
+2449	1	Playworld Bamberg	DEU	49.900912	10.9206599		1	Pödeldorfer Str. 146, 96050 Bamberg, Germany	0951 12147	 	ChIJiR4hk5sjokcR8CHubhqodMI	
+2450	1	TSV Windeck Burgebrach Abt. Snooker	DEU	49.8284324	10.7510226		3	Bamberger Str. 40, 96138 Burgebrach, Germany	09546 1522	http://www.tsv-burgebrach.de/	ChIJSex57GoWokcR3Kgw9Zfb4ag	
+2451	1	Spielkiste	DEU	50.1465	11.06075		1	Zweigstraße 4, 96215 Lichtenfels, Germany	09571 72119	 	ChIJExa_f6ksokcR2zbYBfLLaN4	
+2452	1	Spielothek Fly	DEU	50.1925332	11.2659163		2	Lessingstraße 9, 96328 Küps, Germany	09264 968747	 	ChIJLb37Gu1-oUcRJraFQE6CUpM	
+2453	1	Players Point	DEU	50.26845	10.96817		1	Vorderer Floßanger 2D, 96450 Coburg, Germany	09561 51086	 	ChIJM7iEQ0HOo0cRSNyRwsj_35g	
+2454	1	Merkur Spielothek	DEU	50.24738	10.97071		1	Ketschendorfer Str. 82, 96450 Coburg, Germany	09561 239701	http://www.merkur-spielothek.de/	ChIJ3XQ1rgvOo0cREkED7WGO9qk	
+2455	1	PBC Sonneberg	DEU	50.36272	11.17461		1	Rosengasse 8, 96515 Sonneberg, Germany	03675 706211	http://www.fotopriller.de/	ChIJzdansm3Zo0cRK5f6pZXcjfw	
+2456	1	Billard Café Q	DEU	50.2705282	10.9698965		1	Vorderer Floßanger 31, 96450 Coburg, Germany	09561 69777	 	ChIJf9-UzkbOo0cR_Yj1siwim_w	
+2457	1	Merkur Spielothek	DEU	49.7960116	9.9803741		2	Nürnberger Str. 90, 97076 Würzburg, Germany	0931 2008590	http://www.merkur-spielothek.de/	ChIJt3WuHEuOokcRG1lWETTKYfg	
+2458	1	Lucky No. 7	DEU	50.256682	10.197493		1	Untere Au 7, 97702 Münnerstadt, Germany	09733 7830851	http://www.lucky-no7.de/	ChIJlU45oUACo0cRXM2CT9DKgvQ	
+2459	1	Free Town	DEU	49.85427	9.60738		1	Nordring 8, 97828 Marktheidenfeld, Germany	09391 507411	http://www.freetown.cc/	ChIJcWzMdc-7okcRswKU3q-MaWc	
+2460	1	CityTreff	DEU	49.49079	9.77478		1	Burgstraße 22, 97980 Bad Mergentheim, Germany	07931 990150	 	ChIJv8DAkA9xmEcRhgBwrsNfOqU	
+2461	1	Slick Willys - Billardcenter Suhl	DEU	50.61408	10.69626		1	Lauwetter 23, 98527 Suhl, Germany	03681 804060	 	ChIJ5YxOmKiQo0cRY2sV3DZCa6I	
+2462	1	Bajazzo	DEU	50.6845762	10.9132452		1	Str. des Friedens 17, 98693 Ilmenau, Germany	03677 893159	 	ChIJOWRdFGqNo0cRfCx4atCMo0c	
+2463	1	DOMONGO Spielhallen und Gaststättenbetriebs GmbH	DEU	50.9927904	11.0251415		1	Magdeburger Allee 89, 99086 Erfurt, Germany	0361 7313613	 	ChIJXVqQcp1ypEcRBxZwPEFflPU	
+2464	1	Spieloase Weimar	DEU	51.0262	11.51298		1	Schillerstraße 17, 99510 Apolda, Germany	03644 562224	 	ChIJlULUT-EdpEcRfQh2zJzKc30	
+2465	1	Fun City Center	DEU	51.0260095	11.5155495		1	Schillerstraße 24, 99510 Apolda, Germany	03644 652517	 	ChIJBcEjReEdpEcRCNY9hLnANFk	
+2466	1	Billardcafe Queue	DEU	50.97853	10.32179		1	Goethestraße 25, 99817 Eisenach, Germany	03691 882319	https://billardqueue.wordpress.com/	ChIJbwxsc4GbpEcRA-PafBy81KI	
+2467	1	Spiel- und Freizeitcenter Astra 1	DEU	50.9602564	10.7078755		1	Langensalzaer Str. 47, 99867 Gotha, Germany	03621 510965	 	ChIJ2b6-Mwt8pEcRphugUWXpLPE	

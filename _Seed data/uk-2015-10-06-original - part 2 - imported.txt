@@ -1,0 +1,119 @@
+ID	Snooker	Name	Country	Latitude	Longitude	10' tables	12' tables	Address	Phone number	Website	POI id
+1778	1	Halifax Snooker Club	GBR	53.7204823	-1.8606626	0	21	70 Commercial St, Halifax HX1 1HJ, United Kingdom	01422 360913	http://electricbowl.net/	ChIJUXmsJFXde0gRp1eBRwBLbjY	
+1779	1	Flush Snooker Centre	GBR	53.7092041	-1.6823617	0	9	Wakefield Rd, Liversedge, West Yorkshire WF15 6AU, United Kingdom	01924 400802	 	ChIJ8ToAEsTfe0gR6DBTwxY-0uU	
+1780	1	Pot Black Snooker	GBR	53.7963314	-1.7595156	0	5	Westgate, Bradford BD1 2RD, United Kingdom	01274 722670	 	ChIJYXhz6Uzhe0gR5m6FN8RjSN8	
+1781	1	Five Leisure Snooker & Amusement Centre	GBR	53.805445	-1.7719073	0	9	61-67 Carlisle Rd, Bradford BD8 8BE, United Kingdom	01274 491079	 	ChIJC7muK6nme0gRfswm88f0ty8	
+1782	1	Melton Snooker Club	GBR	52.7643935	-0.8861964	0	5	29A, Market Place, Melton Mowbray, Leciestershire LE13 1XD, United Kingdom	01664 500041	http://www.meltonsnookerclub.com/	ChIJYUZRQx_UeUgRsM4mmdGkb3s	
+1783	1	Breakers	GBR	52.6405185	-1.129764	0	8	Belgrave Gate, Leicester, Leicester LE1 3HS, United Kingdom	0116 253 8006	 	ChIJ2cXMChxhd0gRlDdT-ci7P1I	
+1784	1	The First Break Snooker Club	GBR	52.5987229	-1.090138	0	10	6 Pomeroy Dr, Oadby, Leicester LE2 5NE, United Kingdom	0116 271 0594	 	ChIJixwAjaZmd0gR1-uSmgYzsZ8	
+1785	1	The Grosvenor Snooker Club	GBR	52.6999064	-1.0709451	0	10	1269 Melton Rd, Syston, Leicester LE7 2EN, United Kingdom	0116 260 2503	http://www.grosvenorcasinos.com/local-casinos/leicester/fooddrink/91/	ChIJIUvqMKfYeUgREQ7QW1vz7Qc	
+1786	1	Top Spot 97 Club	GBR	52.6513647	-1.2031486	0	18	Station Rd, Leicester LE3 8BQ, United Kingdom	0116 231 4215	 	ChIJWXfGCzNed0gRuRUNbouqDCY	
+1787	1	Boston Snooker Centre	GBR	52.9776343	-0.0188303	0	10	Artillery Row, Boston, Lincolnshire PE21 6TY, United Kingdom	01205 369018	http://www.bostonsnookerleague.co.uk/	ChIJaZSldxQKeEgRj0bs_F8bBxM	
+1788	1	Grove Mill Snooker Ltd	GBR	53.3223676	-0.9345059	0	9	Raglan Rd, Retford DN22 6LN, United Kingdom	01777 704948	http://www.grovemillsnooker.co.uk/	ChIJMbD3pWqpeUgRQcgFpbCXZ7c	
+1789	1	Wallasey Snooker Centre	GBR	53.4209346	-3.029052	0	9	96 King St, Wallasey CH44 8AN, United Kingdom	0151 638 1570	http://pot-shots.co.uk/	ChIJZ4r3tJUme0gRZ9COotJClkM	
+1790	1	Rhos Snooker Club	GBR	53.0101062	-3.058034	0	8	26 Market St, Rhosllanerchrugog, Wrexham, Clwyd LL14 1AF, United Kingdom	01978 843223	 	ChIJC79RP_7HekgR3dTc1l-V2g8	
+1791	1	On Cue Snooker Club	GBR	53.2796504	-2.8989301	0	7	53A Whitby Rd, Ellesmere Port CH65 8AB, United Kingdom	0151 356 0509	 	ChIJ-fQ_9w3eekgRJNH_5uPuf88	
+1792	1	City Snooker Club High St	GBR	53.2247294	-4.1282482	0	2	128 High St, Bangor LL57 1NT, United Kingdom	07706 157842	 	ChIJFzHCVEgHZUgRUhKbgOI_S64	
+1793	1	Cues	GBR	53.303529	-3.537631	0	2	Towyn Road, Towyn, Abergele, Clwyd LL22 9EN, United Kingdom	01745 343989	 	ChIJJdMoKLQnZUgRm3_QKIb4DR4	
+1794	1	The George Scott Snooker Club	GBR	53.4155935	-2.9144839	0	25	29 Derby Ln, Liverpool L13 6QA, United Kingdom	0151 228 5864	http://www.scottiessnooker.com/	ChIJWXtWI8Ehe0gRo4ppGI3TUnI	
+1795	1	The New World Snooker Club	GBR	51.5602135	0.0740852	0	11	1-10 Opal Mews, Ilford IG1 4BZ, United Kingdom	020 8514 6054	http://www.newworldsnooker.com/	ChIJaaEaqYum2EcR5_1j0sc7WCE	
+1796	1	Knights Snooker Hall	GBR	51.5626024	0.2199321	0	10	127-133 High St, Hornchurch RM11 1TX, United Kingdom	01708 443966	http://knightssnooker.com/	ChIJ946WjRu72EcRQFVslEBmD_c	
+1797	1	Erith Snooker Centre	GBR	51.4801193	0.1790998	0	7	5 Pier Rd, Erith DA8 1TA, United Kingdom	01322 337081	http://www.snookergames.co.uk/	ChIJYwiosdGv2EcR57AV_PMFTP8	
+1798	1	Enfield Snooker Club	GBR	51.6523279	-0.0830734	0	4	4A Market Chambers, Enfield Town, Middlesex EN2 6AA, United Kingdom	020 8363 7268	https://www.facebook.com/enfield.snooker	ChIJ58HZBTAfdkgRI7ADCk0b7aA	
+1799	1	Harringey Snooker Club	GBR	51.58469	-0.1001844	0	7	1 - 5, Salisbury Promenade, Green Lanes, London N8 0RX, United Kingdom	020 8802 6259	http://www.haringeysnooker.co.uk/	ChIJif6It_AbdkgR18Mkkv9y95Q	
+1800	1	Mile End American Pool & Snooker	GBR	51.5222787	-0.044973	0	3	229 Mile End Rd, London E1 4AA, United Kingdom	020 7265 8506	http://www.mileendsnooker.co.uk/	ChIJ2bYGyCkddkgRbk2cGQ533B0	
+1801	1	Hurricane Room Tooting	GBR	51.4330687	-0.1628981	0	7	2A Lynwood Rd, London SW17 8SB, United Kingdom	020 8672 2697	http://www.hurricaneroom.co.uk/	ChIJQR07vd8FdkgRy6WpnSL1pJU	
+1802	1	Whetstone Snooker Club	GBR	51.6320441	-0.1754955	0	10	1314 High Rd, London N20 9HJ, United Kingdom	020 8446 7375	https://www.facebook.com/pages/Whetstone-Snooker-Club/164068516971321	ChIJretKkc8ZdkgRrn9HvU64uZE	
+1803	1	Petts Wood Snooker	GBR	51.3898104	0.0717009	0	11	Queensway, Orpington, Kent BR5 1DB, United Kingdom	01689 829957	http://www.pettswoodsnooker.co.uk/	ChIJg275hnWr2EcREp3NTGo7cD4	
+1804	1	Leighton Buzzard Snooker Club	GBR	51.9152533	-0.6582847	0	9	6 Dudley St, Leighton Buzzard, Bedford LU7 1SE, United Kingdom	01525 383113	http://www.snookergames.co.uk/clubs4.html	ChIJwUFx3UdRdkgRwZc5WQX9pDk	
+1805	1	Rainbow Snooker Club	GBR	53.4741578	-2.2442858	0	11	35-37 Whitworth St W, Manchester M1 5NG, United Kingdom	0161 228 7967	 	ChIJN-M42Ouxe0gRgPHlJNlFMsA	
+1806	1	Swinton Leisure Centre	GBR	53.511616	-2.3373198	0	11	1 Wellington Rd, Swinton, Manchester M27 4BR, United Kingdom	0161 794 0672	http://www.swintonleisure.co.uk/	ChIJj_ZGfjqye0gREfyT9X-XdW0	
+1807	1	Hillbillies	GBR	53.5470204	-2.0895524	0	9	Hill Stores, Huddersfield Rd, Oldham OL4 2RD, United Kingdom	0161 624 0881	http://hillbilliessnooker.co.uk/wordpress/contact-us-4	ChIJbZ6wXiC4e0gRQp7T4H-15No	
+1808	1	Hyde Snooker Club	GBR	53.452584	-2.087717	0	8	13 Manchester Rd, Hyde SK14 1BA, United Kingdom	0161 368 3777	 	ChIJU3GOy921e0gRcGNsPx5lNvI	
+1809	1	147 Snooker Club	GBR	53.3953482	-2.5911271	0	7	Evans House, Norman St, Warrington WA2 7HW, United Kingdom	01925 411170	http://www.normanstreet.co.uk/	ChIJC-24mDACe0gRd-iT5W_B-lA	
+1810	1	Crucible Snooker Club	GBR	53.4063015	-2.1558109	0	13	2A Edward St, Stockport SK1 3DQ, United Kingdom	0161 477 2298	http://www.the-stockport-open.co.uk/crucible-stockport/	ChIJU-V3B32ze0gRS8THeZH0dVE	
+1811	1	Queensway Snooker Club	GBR	53.6026242	-2.1477219	0	8	Plattings Lane, Rochdale OL11 2LS, United Kingdom	01706 631030	http://queenswaysnookerclub.co.uk/	ChIJoXMmPmy5e0gRW6vUQZPcTCI	
+1812	1	Regent Snooker Club	GBR	53.6230327	-2.1510492	0	10	Lisle St/Off Regent St, Rochdale OL12 0HQ, United Kingdom	01706 630466	 	ChIJNY5j1E65e0gRsJbs7mqZPXU	
+1813	1	Sam's Snooker & American Pool	GBR	54.6823925	-1.2222424	0	10	76 Park Rd, Hartlepool, Cleveland TS26 9HU, United Kingdom	01429 278347	http://samssnooker.co.uk	ChIJayCagYTzfkgRVXAGa6vuv9U	
+1814	1	Spot White Snooker Club	GBR	54.9725745	-1.6199813	0	5	14-18 Stowell St, Newcastle upon Tyne, Tyne and Wear NE1 4XQ, United Kingdom	0191 261 9253	http://www.spotwhite.com/	ChIJu8bXqspwfkgRpJ0aUNlQiRs	
+1815	1	Gateshead Snooker Club	GBR	54.9490826	-1.59865	0	7	187-193 Durham Rd, Gateshead NE9 5EF, United Kingdom	0191 420 5252	 	ChIJ_d11jAl6fkgRyD7SBo6VEIw	
+1816	1	Birtley Snooker Club	GBR	54.8951117	-1.5776083	0	11	Durham Rd, Birtley, County Durham DH3 2PS, United Kingdom	0191 410 8750	http://www.birtleysnooker.co.uk/	ChIJ5XAML298fkgRmpvMhjvnNaQ	
+1817	1	Portland Snooker Club	GBR	54.8830508	-2.9314681	0	15	Currock Rd, Carlisle, Cumbria CA2 4AS, United Kingdom	01228 598147	 	ChIJ0URr5iwafUgRZQR0L-CG39k	
+1818	1	Whitley Lodge Snooker Centre	GBR	55.0544355	-1.4619357	0	11	Claremont Cres, Whitley Bay, Tyne and Wear NE26 3HL, United Kingdom	0191 251 1997	 	ChIJLZClwsxtfkgRb9U7n9PR5bM	
+1819	1	Redz Snooker Club	GBR	51.6462571	-3.0216204	0	17	6 Oldbury Rd, Cwmbran NP44 3JU, United Kingdom	01633 483437	http://www.redzsnookerclub.co.uk/	ChIJD7lOCwLecUgRLI8hDaAsGcw	
+1820	1	Red Triangle Snooker Club	GBR	51.6232849	-3.1270936	0	6	High St, Crosskeys, Newport NP11 7FN, United Kingdom	01495 271991	 	ChIJt_zwoOkfbkgRid4lBNUyBZc	
+1821	1	Kingsthorpe Snooker Club	GBR	52.2632533	-0.9023566	0	9	93 High St, Northampton NN2 6QF, United Kingdom	01604 717118	 	ChIJ_xvrNpgOd0gRTG3o3612PSc	
+1822	1	Overstone Road Snooker Club	GBR	52.2434527	-0.8890665	0	8	1-9 Overstone Rd, Northampton NN1 3JL, United Kingdom	01604 602426	 	ChIJqeKzJcILd0gRYztUPHRx2Ac	
+1823	1	Corby Snooker Pool & Social Club	GBR	52.4030441	-0.7142957	0	7	12 Edmund St, Kettering NN16 0HU, United Kingdom	01536 503880	http://www.ketteringsnookerandpool.co.uk/	ChIJfYYJBOKed0gRqJvMzmf5qdM	
+1824	1	Thetford Snooker Centre	GBR	52.4149523	0.7503404	0	6	Oddfellows Hall, Earls Street, Thetford, Norfolk IP24 2AD, United Kingdom	01842 765811	 	ChIJaYRDKu802EcRetoTdGFL_JE	
+1825	1	Dereham Snooker Club	GBR	52.6649846	0.9512966	0	12	18-19 Bertie Ward Way, Dereham NR19 1TE, United Kingdom	01362 692502	http://derehamsnookerclub.co.uk/	ChIJHSg2bqXX2UcR4MgFAepmMT4	
+1826	1	Broadland Snooker Centre	GBR	52.664789	1.2631681	0	11	Reepham Rd, Norwich, Norfolk NR6 5NX, United Kingdom	01603 415171	 	ChIJS-hAKZjh2UcRnHj2_vbP-oA	
+1827	1	Clarke's Billiards Club	GBR	52.640264	1.2830186	0	10	85 Barker St, Norwich NR2 4TN, United Kingdom	01603 622427	http://www.clarkes.org.uk/	ChIJ3YJJq2Ph2UcRCqUBQ35OS4Q	
+1828	1	West End Cue Club	GBR	52.6586518	1.2077566	0	5	20 W End, Costessey, Norwich NR8 5AG, United Kingdom	01603 747876	http://www.westendcueclub.co.uk/	ChIJoQDrKWHg2UcREzQQuuiMS2c	
+1829	1	Woodside Snooker Centre	GBR	52.6428145	1.3422008	0	4	125-129 Woodside Rd, Norwich NR7 9HA, United Kingdom	01603 300200	 	ChIJpQQ6Egbj2UcRmtdI1En6658	
+1830	1	Grantham Billiard Club	GBR	52.9098766	-0.6407192	0	13	23D St Peter's Hill, Grantham NG31 6PY, United Kingdom	01476 564525	 	ChIJEZQFdFQweEgR8ZxxtMV-_sE	
+1831	1	Phoenix Snooker Club	GBR	53.0189384	-1.3080693	0	7	24 Mansfield Rd, Eastwood, Nottingham NG16 3AQ, United Kingdom	01773 760459	http://www.phoenixcuesports.com/	ChIJ0xbbtqHseUgR-MDdFmuNqU4	
+1832	1	Potters Snooker Club & Bar	GBR	53.119269	-1.101684	0	4	Kirklington Rd, Mansfield NG21 0JR, United Kingdom	01623 797975	http://www.eastwoodhallhotel.co.uk/	ChIJW_9b96y-eUgRBloXNx0j4uc	
+1833	1	Stapleford Cue Club	GBR	52.9261875	-1.2802295	0	6	148 Derby Rd, Stapleford, Nottingham NG9 7AY, United Kingdom	0115 939 4504	http://nottinghamsnooker.com/where-to-play/stapleford-cue-club/	ChIJsTpPpj7peUgRF2s9JsDDv0U	
+1834	1	Witney Snooker Club	GBR	51.7832775	-1.4871191	0	6	Units 2/4, Eagle Industrial Estate, Church Green, Witney, Oxfordshire OX28 4YR, United Kingdom	01993 779078	http://www.witneysnooker.co.uk/	ChIJEyCQ6F7MdkgR_qtR6Yfcdso	
+1835	1	Edgcliff Club	GBR	50.4159607	-5.0751712	0	2	40 Cliff Rd, Newquay TR7 2ND, United Kingdom	01637 878732	http://www.edgcliff.co.uk/	ChIJHU01YjAOa0gRF-NeLXscRT4	
+1836	1	Belgrave Snooker Club	GBR	50.3822641	-4.1340203	0	10	2 Belgrave Rd, Plymouth, Mutley Plain PL4 7DP, United Kingdom	01752 662423	http://www.snookergames.co.uk/clubs4.html	ChIJFbSYAMzsbEgRg_ISbK6BavU	
+1837	1	Copnor Snooker Club	GBR	50.8147905	-1.0649733	0	10	137 Copnor Rd, Portsmouth PO3 5BS, United Kingdom	023 9266 3038	http://www.portsmouthsnooker.co.uk/contact.htm	ChIJaeUY-h1ddEgRg22RxjG5nhM	
+1838	1	Fareham Snooker Club	GBR	50.8590705	-1.1719104	0	12	Broadcut, Fareham PO16, United Kingdom	01329 221759	http://www.farehamsnooker.co.uk/	ChIJRTs2Z41odEgRcX3WPqm543w	
+1839	1	Top Spot Snooker Club	GBR	50.866425	-0.9840501	0	10	37 Park Parade, Havant PO9 5AA, United Kingdom	023 9247 2040	 	ChIJF57FHuZEdEgRw36khXYinkk	
+1840	1	Mayfair Snooker Club	GBR	50.7928951	-1.1351511	0	9	131 Stoke Rd, Gosport PO12 1SD, United Kingdom	023 9252 0711	 	ChIJm8SKlwxndEgR7vTKswg4pFo	
+1841	1	Stoke snooker club	GBR	50.7943387	-1.1297971	0	10	15-17 Stoke Rd, Gosport PO12 1LT, United Kingdom	023 9252 7912	http://www.stokesnookerclub.co.uk/	ChIJa3PFZnRndEgRy2AGz-HWWc8	
+1842	1	Elite Snooker Club	GBR	53.7256855	-2.6960397	0	8	Lostock Hall PR5 5JD, United Kingdom	01772 312135	http://www.elitesnookerclub.co.uk/	ChIJfYfBH71ye0gRaa5sMHq_bOM	
+1843	1	Colours Sports Club & Bar	GBR	51.4633593	-0.9823112	0	10	10 Cremyll Rd, Reading, West Berkshire RG1 8NQ, United Kingdom	0118 950 0860	 	ChIJ0ycKqQSbdkgRFXqbC4c9IzU	
+1844	1	Central Snooker Club	GBR	53.4305665	-1.3558835	0	11	2 High St, Rotherham S60 1PP, United Kingdom	01709 363193	 	ChIJz9L3G_R2eUgRTCxB2l5luvA	
+1845	1	Allied Snooker Centres	GBR	53.344999	-1.4260738	0	9	960 Gleadless Rd, Sheffield S12 2LL, United Kingdom	0114 254 4111	http://www.alliedsnooker.co.uk/	ChIJ8_sBeNOCeUgRul3ujTQMzJQ	
+1846	1	Cue Ball	GBR	53.4627595	-1.4650906	0	14	19 Station Rd, Sheffield S35 2XE, United Kingdom	0114 245 5133	http://thecueball.co.uk/cuesports-clubs/yorkshire-a-humberside/192-cue-ball.html	ChIJGz-91Ih5eUgRpq94bpWyMlQ	
+1847	1	Dinnington Snooker Club Ltd	GBR	53.3681674	-1.2105805	0	5	32 Laughton Rd, Sheffield S25 2PS, United Kingdom	01909 565284	 	ChIJZxJr6RugeUgR3tuV6GeSAMs	
+1848	1	Spot On Snooker Club	GBR	53.3939052	-1.4871787	0	5	4-12 Langsett Rd, Sheffield S6 2UA, United Kingdom	0114 233 9609	 	ChIJLb6IpI94eUgRV4YbILCFni0	
+1849	1	Breakers Snooker Pool & Social Club	GBR	53.3040505	-1.125845	0	6	25 Newcastle Ave, Worksop S80 1EY, United Kingdom	01909 472192	 	ChIJIWYp8lmheUgRscscONkZsYw	
+1850	1	North East Derbyshire Snooker Centre	GBR	53.1730564	-1.4166748	0	21	Derby Rd, Chesterfield, Clay Cross, Derbyshire S45 9AG, United Kingdom	01246 866364	http://www.northeastderbyshiresnookercentre.co.uk/services	ChIJMV3VgtaPeUgRPs_-uc2FFLE	
+1851	1	Alfreton Snooker Club	GBR	53.097704	-1.388402	0	6	First Floor 55 - 57 High Street, Alfreton, Derbyshire DE55 7DR, United Kingdom	01773 836359	http://www.alfretonsnooker.co.uk/	ChIJXyTkwmuSeUgRbU-vmNrLYnQ	
+1852	1	Racks Snooker & Pool Bar	GBR	51.547748	-0.810229	0	8	63-67 High St, Maidenhead, West Berkshire SL6 1JT, United Kingdom	01628 627732	 	ChIJJQHgBNBidkgRYrTZJ3h6I10	
+1853	1	Woking Snooker Centre	GBR	51.3078711	-0.5577717	0	20	Kingfield Rd, Woking, surrey GU22 9AA, United Kingdom	01483 762754	http://www.wokingsnooker.co.uk/	ChIJcbtS-yzYdUgRlZKGbIsiWk4	
+1854	1	Uxbridge Snooker Centre	GBR	51.5441828	-0.4743411	0	2	233 High St, Uxbridge UB8 1LD, United Kingdom	01895 713183	http://www.escapepoolbar.co.uk/	ChIJvVBfo3dudkgReS5piuolCDs	
+1855	1	Salisbury Snooker Club	GBR	51.0655766	-1.78513	0	12	Tollgate Rd, Salisbury, Wiltshire SP1 2JJ, United Kingdom	01722 323923	http://www.salisburysnookerclub.co.uk/	ChIJU1EZHArsc0gRXdPM7gFvUXs	
+1856	1	Chandlers Ford Snooker Club	GBR	50.9824727	-1.3825935	0	10	17A & 18A The Central Precinct, Chandler's Ford, Eastleigh, Hampshire SO53 2GB, United Kingdom	023 8025 4834	http://www.cfordsnooker.co.uk/	ChIJY1d3EWpzdEgRfFxE6gFhwAg	
+1857	1	Royal Snooker Club	GBR	51.224676	1.4039541	0	9	King St, Deal CT14 6HX, United Kingdom	01304 363984	 	ChIJ34rAx8-u3kcR9obfodRqVts	
+1858	1	Pockets	GBR	51.5334454	0.7191663	0	6	Lucy Rd, Southend-on-Sea, Essex SS1 2AU, United Kingdom	01702 468890	http://www.pocketssportsbar.co.uk/	ChIJYzKt3TfY2EcRJVtksW8t8ic	
+1859	1	Pockets Snooker Club	GBR	53.1912831	-2.5277782	0	6	8-2 Jubilee Way, Winsford CW7 1BG, United Kingdom	01606 558807	http://pocketswinsford.co.uk/about.html	ChIJE3sCAGD3ekgRO_Ms83-jO_8	
+1860	1	Longton Snooker Club	GBR	52.9855536	-2.1321585	0	6	37 Normacot Road Stoke-on-Trent ST3 1PL, United Kingdom	01782 321670	http://www.longtonsnooker.co.uk/	ChIJ0WQ13YJpekgRDvFxn3_ezOY	
+1861	1	The Green Baize Pool & Snooker Club	GBR	53.0248383	-2.1749024	0	10	Tontine Snooker Bldg, Tontine St, Stoke-on-Trent ST1 1LY, United Kingdom	01782 268149	http://www.greenbaizepoolclub.co.uk/page.php?option=clubdetails	ChIJf57XR9VpekgR4aZb3UazpRo	
+1862	1	Lumley Snooker & Social Club	GBR	54.837485	-1.541034	0	5	Front Street, Great Lumley, Chester le Street, County Durham DH3 4JB, United Kingdom	0191 389 2004	http://www.lumleysnooker.co.uk/	ChIJ6_SWtu18fkgRFCw47DUTd6c	
+1863	1	Green Baize	GBR	54.9713374	-1.4385445	0	3	1 Tyne Terrace, South Shields NE34 0NF, United Kingdom	0191 454 5565	 	ChIJaX-5rm1vfkgRl5hmwc7YVt0	
+1864	1	Shield Snooker Centre Ltd	GBR	54.9871709	-1.4307131	0	15	48-50 Chichester Rd, South Shields NE33 4AF, United Kingdom	0191 456 7097	 	ChIJ6Y4PaRhvfkgRODBUdNfr1jA	
+1865	1	Washington Snooker Club	GBR	54.8933116	-1.5102451	0	9	Oxclose Road, Columbia, Washington NE38 7EJ, United Kingdom	0191 417 5529	 	ChIJ7-cvkDF7fkgRh1LNXiqxUBA	
+1866	1	Betws Snooker Club	GBR	51.7847111	-3.9863347	0	4	52 Betws Rd, Ammanford, Dyfed SA18 2HE, United Kingdom	01269 596070	 	ChIJi-M35K75bkgRXDB1fVgHA-A	
+1867	1	Chippenham Royal Snooker Club	GBR	51.4592709	-2.1207544	0	7	Unit F, Ivy Road Industrial Estate, Ivy Rd, Chippenham SN15 1SB, United Kingdom	01249 650017	 	ChIJDaE0Btp6cUgRrgS9LUKwNEo	
+1868	1	Jesters Snooker Hall	GBR	51.5653079	-1.7530083	0	22	Greenbridge Rd, Swindon, Wiltshire SN3 3JD, United Kingdom	01793 420660	http://www.jesterssnooker.co.uk/	ChIJuSNbx8BFcUgRzhH1zzcaj9A	
+1869	1	Midlands Snooker Club	GBR	52.5617172	-2.0601359	0	15	Building 3 - 4, Keys Industrial Estate, Oxford St, Bilston, West Midlands WV14 7DW, United Kingdom	01902 493641	 	ChIJ1dDcRHOZcEgRphJleGYmLH8	
+1870	1	Thorne Snooker Centre	GBR	53.6133269	-0.9702684	0	10	3 Lock Ln, Thorne, Doncaster DN8, United Kingdom	01405 814550	http://www.thorneinfo.com/	ChIJ3X3rylIaeUgRer1C2UkLOBU	
+1871	1	Scarborough Snooker Centre	GBR	54.2839447	-0.3987877	0	8	Queen St, Scarborough, North Yorkshire YO11 1HQ, United Kingdom	01723 352515	 	ChIJbXBQv5NHf0gRsZ9n5p7ze94	
+1872	1	Rileys Aberdeen	GBR	57.1446024	-2.1017811	0	6	9 Bridge Pl, Aberdeen, Aberdeen AB11 6HZ, United Kingdom	01224 591542	http://www.rileys.co.uk/clubs/1-rileys-sports-bar-bingo-club-aberdeen	ChIJgbxxuSQOhEgRwC16yH1LC-A	
+1873	1	Rileys Birmingham	GBR	52.4719788	-1.8957581	0	5	21-22 Essex St, Birmingham, West Midlands B5 4TR, United Kingdom	0121 666 6811	http://www.rileys.co.uk/clubs/13-rileys-sports-bar-bingo-club-birmingham	ChIJyfOQBWK8cEgRF2ZS9i-feQQ	
+1874	1	Rileys Chester	GBR	53.1958419	-2.892885	0	6	Centurion Point, Victoria Road, Blacon, Chester, Cheshire CH2 2AX, United Kingdom	01244 397113	http://www.rileys.co.uk/club/358/Chester	ChIJb4ygrUfdekgRzeCsafOM1SI	
+1875	1	Rileys Chorlton	GBR	53.43693	-2.2732748	0	12	302b Barlow Moor Rd, Manchester, Chorlton Cum Hardy M21 8AY, United Kingdom	0161 860 4960	http://www.rileys.co.uk/clubs/30-rileys-sports-bar-bingo-club-chorlton	ChIJiUkqmvKte0gRROr_jkLZIIw	
+1876	1	Rileys Coventry	GBR	52.406041	-1.5230207	0	8	Hertford Place Sporting Centre, Butts Rd, Coventry, West Midlands CV1 3JZ, United Kingdom	024 7622 9916	http://www.rileys.co.uk/clubs/37-rileys-sports-bar-bingo-club-coventry	ChIJrdpPB6ZLd0gRdDMngCWaHdY	
+1877	1	Rileys Croydon	GBR	51.374031	-0.1021781	0	5	1, 63 Frith Rd, Croydon, Surrey CR0 1TB, United Kingdom	020 8649 7788	http://www.rileys.co.uk/clubs/39-rileys-sports-bar-bingo-club-croydon	ChIJtTV3JzEHdkgRM2AZfSPocak	
+1878	1	Rileys Gillingham	GBR	51.386248	0.547013	0	8	Green St, Gillingham, Kent ME7 1XA, United Kingdom	01634 856235	http://www.rileys.co.uk/club/365/Gillingham	ChIJxXJeC3bN2EcRA3tjjkfGER8	
+1879	1	Rileys Grays	GBR	51.4777514	0.3293688	0	7	142 Clarence Rd, Grays RM17 6RD, United Kingdom	01375 384085	http://www.rileys.co.uk/club/59/Grays	ChIJLf7YAaq32EcRR357pYbL0CM	
+1880	1	Rileys Greenock	GBR	55.9549081	-4.7674196	0	10	11 Brougham St, Greenock, East Renfrewshire PA16 8AB, United Kingdom	01475 786225	http://www.rileys.co.uk/clubs/61-rileys-sports-bar-bingo-club-greenock	ChIJ6dU-jTWuiUgR-dWL5o6dcmA	
+1881	1	Rileys Harlow	GBR	51.768471	0.0940205	0	8	Town Centre, Cross St, Harlow, Essex CM20 1LS, United Kingdom	01279 430302	http://www.rileys.co.uk/clubs/63-rileys-sports-bar-bingo-club-harlow	ChIJ_68oCgCc2EcRc6MiiIx6ass	
+1882	1	Rileys Ipswich	GBR	52.0567921	1.1519736	0	5	52 Buttermarket, Ipswich IP1 1BT, United Kingdom	01473 231212	http://www.rileyandriley.co.uk/	ChIJ09TCXSug2UcRR26OI2HOKMs	
+1883	1	Rileys Leicester	GBR	52.629239	-1.136278	0	3	Deacon St, Leicester LE2 7EE, United Kingdom	0116 254 9944	http://www.rileys.co.uk/club/76/Leicester,%20Deacon%20Street	ChIJk9LGK99gd0gR3emqsimwCT0	
+1884	1	Rileys Lincoln	GBR	53.2299779	-0.5385829	0	4	40 Silver St, Lincoln LN2 1EH, United Kingdom	01522 535257	http://www.rileys.co.uk/club/83/Lincoln,%20Silver%20Street	ChIJ3YGT0DpbeEgRy1IcUwwlWW4	
+1885	1	Rileys Norwich	GBR	52.6360676	1.2967163	0	6	77-87 Magdalen St, Norwich NR3 1AA, United Kingdom	01603 617456	http://www.rileys.co.uk/club/352/Norwich	ChIJjWazmtzj2UcRygvWf8_THsU	
+1886	1	Rileys Nottingham	GBR	52.9527601	-1.1522385	0	4	17A St James's St, Nottingham NG1 6FH, United Kingdom	0115 947 0620	http://www.rileys.co.uk/club/101/Nottingham	ChIJAQkQ9CrCeUgR4UMaNYNS89A	
+1887	1	Rileys Oxford	GBR	51.7330419	-1.2127138	0	6	The County Club, Between Towns Rd, Oxford OX4 3LZ, United Kingdom	01865 749147	http://www.rileys.co.uk/	ChIJ70DqPRHBdkgR2Jk_ZoC4Nc0	
+1888	1	Rileys Sheffield	GBR	53.3667828	-1.4982984	0	11	Lescar Buildings, Lescar Ln, Sheffield, South Yorkshire S11 8XQ, United Kingdom	0114 266 6266	http://www.rileys.co.uk/club/122/Sheffield,%20Hunters%20Bar	ChIJu57d92yCeUgRU_rwQ9d_qog	
+1889	1	Rileys Solihull	GBR	52.4449458	-1.7844844	0	10	Hobs Moat Rd, Solihull, West Midlands B92 8JN, United Kingdom	0121 742 6068	http://www.rileys.co.uk/club/129/Solihull	ChIJeY9iygi6cEgRWf2OxjpUytk	
+1890	1	Rileys Southend	GBR	51.5398492	0.7106376	0	2	12 London Rd, Southend-on-Sea SS1 1NT, United Kingdom	01702 396666	http://www.rileys.co.uk/club/241/Southend%20(Route%2066)	ChIJV9xHu0zY2EcR9h8nwfcbYAc	
+1891	1	Rileys Swansea	GBR	51.62087	-3.9417102	0	5	30-34 Castle St, Swansea SA1 1HZ, United Kingdom	01792 463015	http://www.rileys.co.uk/club/148/Swansea	ChIJGQj1QUr1bkgRWCYWo4cY1XU	
+1892	1	Rileys Twickenham	GBR	51.445335	-0.330345	0	8	1 Heath Rd, Twickenham TW1 4AW, United Kingdom	020 8892 0136	http://www.rileys.co.uk/club/152/Twickenham	ChIJf5IPk4kMdkgRdkxR6jO3U1Q	
+1893	1	Rileys Victoria	GBR	51.4919684	-0.1500188	0	4	16 Semley Pl, London SW1W 9QJ, United Kingdom	020 7824 8261	http://www.rileys.co.uk/club/153/Victoria%20(IQ)	ChIJ_aqqRBgFdkgRrmbevVECoxg	
+1894	1	Rileys Watford	GBR	51.6578635	-0.3992325	0	4	65-73 The Parade, Watford WD17 1LJ, United Kingdom	01923 242029	http://www.rileys.co.uk/club/162/Watford,%20The%20Parade	ChIJn_-wLyRAdkgRLyuLjH_Lrwo	
+1895	1	Rileys Wolvenhampton	GBR	52.5872453	-2.1248949	0	7	Amar House, Broad St, Wolverhampton, West Midlands WV1 1HP, United Kingdom	01902 310521	http://www.rileys.co.uk/club/168/Wolverhampton	ChIJy-Vr35GbcEgRahfufKKUwrE	

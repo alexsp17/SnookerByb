@@ -1,0 +1,54 @@
+﻿@{
+    ViewBag.Title = "Snooker Scoreboard";
+}
+
+@section SocialMetaData
+{
+    <meta property="og:title" content="Snooker scoreboard - Snooker Byb" />
+    <meta property="og:description" content="A scoreboard that runs on iOS and Android devices." />
+    <meta property="og:type" content="article" />
+    <meta property="og:image" content="http://www.snookerbyb.com/images/scoreboard.png" />
+    <!-- documentation: https://developers.facebook.com/docs/sharing/webmasters#markup-->
+}
+
+<div class="container text-center" style="background-color:transparent">
+    <div class="row">
+
+        <h1>Mobile App Snooker Scoreboard</h1>
+
+        <div class="addthis_sharing_toolbox"></div>
+
+        <p>Snooker Byb mobile app includes an easy to use snooker scoreboard. Watch the <a href="#video">video</a> below.</p>
+        <p>Download the app to use the scoreboard while playing snooker with your mates.</p>
+    </div>
+</div>
+
+<hr>
+
+<div class="container" style="background-color:transparent">
+    @Html.Partial("_MobileAppsPartial")
+</div>
+
+<hr />
+
+<div class="container text-center" style="background-color:transparent">
+    <div class="row">
+        <img class="img-responsive" src="~/Images/scoreboard.png" alt="Snooker scoreboard - Snooker Byb" />
+    </div>
+</div>
+
+<hr />
+
+<div class="container text-center" style="background-color:transparent">
+    <div class="row">
+        <p>Watch this 30-second video on how the scoreboard operates.</p>
+
+        <div class="addthis_sharing_toolbox"></div>
+
+        <div class="videoWrapper">
+            <iframe id="video" width="1000" height="600" src="https://www.youtube.com/embed/K9EswtYq_zw?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+        </div>
+
+        <p>Snooker Byb is improving. Bear with us. We are planning on publishing an improved video soon.</p>
+    </div>
+</div>

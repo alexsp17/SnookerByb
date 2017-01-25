@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+
+<!--- These colors correspond to the colors from Config.cs
+  RGB decimal values are converted into hex.
+
+  Those three basic colors are used by Android Material Design theme.
+  We override them with our own:
+      primary:     ColorBackground = Color.FromRgb(37, 36, 36);
+      primaryDark: ColorBackgroundLogo = Color.FromRgb(50, 50, 50);
+      accent:      ColorRedBackground = Color.FromRgb(219, 54, 56);
+
+  It might be better to set them at run time in onCreate instead, 
+  so that they are only defined in one place - Config.cs
+
+  This is just for experiment, I set the button background color at runtime
+  in FacebookActivity. 
+      byb_button_red:  ColorRedBackground = Color.FromRgb(219, 54, 56);
+-->
+<resources>
+  <color name="primary">#252424</color>
+  <color name="primaryDark">#323232</color>
+  <color name="accent">#DB3638</color>
+  <color name="window_background">#000000</color>
+
+  <color name="byb_button_red">#DB3638</color>
+</resources>

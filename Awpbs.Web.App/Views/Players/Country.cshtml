@@ -1,0 +1,89 @@
+﻿@model Awpbs.Web.App.Models.PlayersInCountryModel
+
+@{
+    ViewBag.Title = "Snooker Players in " + Model.Country.Name;
+}
+
+@section SocialMetaData
+{
+<meta property="og:title" content="@ViewBag.Title" />
+}
+
+<div class="container text-center" style="background-color:transparent">
+    <div class="row">
+        <h1>@ViewBag.Title</h1>
+
+        <div class="container text-center" style="margin-top:10px;margin-bottom:10px;">
+            <div class="addthis_sharing_toolbox"></div>
+        </div>
+
+        <p>Download Snooker Byb on your mobile to find <strong>amateur snooker players</strong> in @Model.Country.Name and in your city. Invite them for a snooker match, schedule games.</p>
+
+        @if (Model.Players.Count > 0)
+        {
+            <p>Some of the players on Snooker Byb:</p>
+        }
+
+        @for (int row = 0; ; ++row)
+        {
+            int index1 = row * 2 + 0;
+            int index2 = row * 2 + 1;
+
+            Awpbs.PersonBasicWebModel person1 = null;
+            Awpbs.PersonBasicWebModel person2 = null;
+            if (index1 < Model.Players.Count)
+            {
+                person1 = Model.Players[index1];
+            }
+            if (index2 < Model.Players.Count)
+            {
+                person2 = Model.Players[index2];
+            }
+
+            if (person1 == null && person2 == null)
+            {
+                break;
+            }
+
+            <div class="row">
+                @if (person1 != null)
+                {
+                    <div class="col-sm-6 col-md-6">
+                        @{Html.RenderPartial("MiniSnookerProfile2", person1);}
+                    </div>
+                }
+
+                @if (person2 != null)
+                {
+                    <div class="col-sm-6 col-md-6">
+                        @{Html.RenderPartial("MiniSnookerProfile2", person2); }
+                    </div>
+                }
+            </div>
+        }
+
+        @if (Model.Players.Count > 5)
+        {
+            <p>Download Snooker Byb on your mobile to find amateur snooker players in your area. Invite them for a snooker match, schedule games.</p>
+        }
+    </div>
+</div>
+
+<hr />
+
+<div class="container text-center" style="background-color:transparent">
+    <div class="row">
+        @Html.Partial("~/Views/Home/_MobileAppsPartial.cshtml")
+    </div>
+</div>
+
+<hr />
+
+<div class="container text-center">
+    <div class="row">
+        <h1>Example player profile in the app</h1>
+        <img src="~/Images/screengrab1.png" style="width:400px" />
+    </div>
+
+</div>
+

@@ -1,0 +1,47 @@
+ID	Snooker	Name	Country	Latitude	Longitude	10' tables	12' tables	Address	Phone number	Website	POI id
+1732	1	Enniskillen Snooker Hall	GBR	54.3446546	-7.6505376	0	9	Old Henry St, Enniskillen, Fermanagh BT74 7JX, United Kingdom	028 6632 5585	http://www.zodiacbingoenniskillen.co.uk/	ChIJ36WxDUBGXkgR4i7sEgXB_2E	
+1733	1	Lisnaskea Snooker Hall	GBR	54.2542982	-7.4450283	0	8	Main St, Enniskillen BT92 0JD, United Kingdom	028 6772 1568	 	ChIJ9Z2Y7Is-XkgRzEazXCn2VCI	
+1734	1	Fairgreen Snooker Club	GBR	54.4210378	-6.4473823	0	12	2A Shillington St, Portadown, Craigavon BT62 3PF, United Kingdom	028 3835 1190	 	ChIJD3vc4cXvYEgRsNPcOirv6pU	
+1735	1	Crumlin Snooker Club	GBR	54.6204608	-6.213889	0	5	13 Main St, Crumlin BT29 4UP, United Kingdom	028 9445 3945	 	ChIJ9z5IhwEAYUgRW2kEAqWbdQI	
+1736	1	West Heath Snooker Club	GBR	52.3945143	-1.9596456	0	10	Alvechurch Road Lightning Way, Birmingham Area, Birmingham B31 3PH, United Kingdom	0121 475 8437	http://www.westheathsnooker.com/	ChIJRZ1_mjG-cEgRqi9SZskIKw8	
+1737	1	Tamworth Cue Sports Leisure Club	GBR	52.6358231	-1.6887517	0	13	32 Victoria Rd, Tamworth B79 7HS, United Kingdom	01827 57995	http://thecueball.co.uk/cuesports-clubs/west-midlands/819-tamworth-cue-sports-leisure-club.html	ChIJN90KiWKpcEgRP9Tk8XrUCQI	
+1738	1	Strategy 147	GBR	53.9139511	-2.188815	0	1	13-15 Manchester Rd, Barnoldswick BB18 5NZ, United Kingdom	01282 816943	 	ChIJQw1oa96Ne0gR1AEwXD9f2iY	
+1739	1	Alexandra Snooker Club	GBR	53.8365932	-2.2127458	0	8	5 Holme St, Nelson BB9 9SS, United Kingdom	01282 696837	 	ChIJW-tQl3KRe0gRGxvH0sxyTas	
+1740	1	Frame 3 Snooker Club	GBR	53.5637238	-2.4432334	0	12	Unit 3 Swan Lane Mill, Higher Swan Lane, Bolton, Lancashire BL3 3BJ, United Kingdom	01204 653242	http://frame3.co.uk/	ChIJ50LMvrene0gRGJKGeA-QuXs	
+1741	1	Central Snooker Club	GBR	53.5619063	-2.3308724	0	6	Abden St, Radcliffe, Manchester M26 3AT, United Kingdom	0161 723 1237	 	ChIJ8wHVrJile0gRYou1Q1Ek5eM	
+1742	1	The Snooker Club	GBR	50.7150069	-1.9904758	0	12	Quay West Marina, 23 W Quay Rd, Poole BH15 1HX, United Kingdom	01202 777399	http://ambassadorsnooker.com/	ChIJ8SJ3EfCmc0gRUMVDJjDozTY	
+1743	1	Martock Snooker Centre	GBR	50.9797849	-2.7662287	0	5	Stapleton Rd, Martock TA12 6HH, United Kingdom	01935 826122	http://martocksnooker.com/	ChIJJxYGNUsTckgRI2UUUGuCYfw	
+1744	1	147 Snooker Centre	GBR	52.329352	-0.1834993	0	13	12-14 St. Benedicts Court, Huntingdon PE29 3PN, United Kingdom	01480 411641	 	ChIJxYJBJDDdd0gRHvQ3jyta4kE	
+1745	1	Penarth Snooker Club	GBR	51.4620987	-3.1940573	0	8	Marriot House, Penarth Rd, Cardiff, South Glamorgan CF11 8TT, United Kingdom	029 2070 2783	http://www.penarthroadsnookerclub.co.uk/	ChIJz3_-a6gEbkgR-BxEMEAlh2Q	
+1746	1	South Wales Snooker Centre	GBR	51.4908797	-3.1439107	0	10	Clydesmuir Industrial Estate, Clydesmuir Rd, Cardiff CF24 2QS, United Kingdom	029 2049 5213	http://cardiffsnooker.org.uk/	ChIJm5jpjSAdbkgRdtxjG1gybrQ	
+1747	1	Brackla Snooker Centre	GBR	51.5167889	-3.5602432	0	16	18 Coytrahene Clo, Brackla Industrial estate, Bridgend CF31 2AX, United Kingdom	01656 657900	http://www.bracklasnooker.webs.com/	ChIJZQh3EltsbkgReKiV60Ku2h8	
+1748	1	Cue Snooker Club	GBR	51.7025714	-3.4276919	0	8	Cardiff Rd, Aberdare CF44 6RD, United Kingdom	01685 883544	 	ChIJ8QH74aQ-bkgR6Nqr3m0Fjqo	
+1749	1	The Sportsman Snooker Club	GBR	51.8763836	0.5676077	0	7	Chapel Hill, Braintree CM7 3QZ, United Kingdom	01376 344160	 	ChIJeZHQ9HPw2EcR3Y1z5R_4wYE	
+1750	1	Harlow War Memorial Institute	GBR	51.7845004	0.1348004	0	6	15 Garden Terrace Rd, Harlow CM17 0AT, United Kingdom	01279 866242	 	ChIJK9q6O8mb2EcRNFrNv0gBkT4	
+1751	1	Halstead Snooker Centre	GBR	51.9393371	0.6570367	0	4	5 Second Ave, Halstead CO9 2SU, United Kingdom	01787 476960	 	ChIJv9krmln52EcR69QOYQ6Wk4A	
+1752	1	Hinckley Snooker Club	GBR	52.5392044	-1.3753575	0	13	9 Waterloo Rd, Hinckley LE10 0QJ, United Kingdom	01455 251041	 	ChIJfT7OHKRad0gRFGJVWJGHAKY	
+1753	1	Attleborough Snooker & Social	GBR	52.5143097	-1.4544623	0	8	57 Highfield Rd, Nuneaton CV11 4PW, United Kingdom	024 7637 1713	 	ChIJVxh3jiJOd0gRWGmf9sS-w9o	
+1754	1	Hotshot Snooker Club	GBR	52.5271052	-2.0718246	0	6	Phoenix House, Castle St, Tipton DY4 8HP, United Kingdom	0121 522 3516	 	ChIJnZ3Ry--ZcEgR3VvpGqSJITY	
+1755	1	Dibdale Snooker Club	GBR	52.518998	-2.116177	0	9	Dibdale Rd, Dudley DY1 2TF, United Kingdom	01384 451905	 	ChIJj3CUGgmacEgRv9Xa5iIwzrg	
+1756	1	Pockets Snooker Club	GBR	52.3888688	-2.2496635	0	11	9 Church St, Kidderminster DY10 2AD, United Kingdom	01562 740291	http://pocketsnookerclub.co.uk/	ChIJs0y0zl2McEgRW5CQQlq0R_Q	
+1757	1	The Hot Shots Snooker Club	GBR	52.4904618	-2.0014526	0	7	100 Crosswells Rd, Oldbury B68 8HH, United Kingdom	0121 544 7172	http://www.hotshotssnookerclub.co.uk/	ChIJpzUXAMGXcEgR1J-mhxORU-w	
+1758	1	147 Snooker Club	GBR	56.0401884	-3.4217479	0	3	157 Queensferry Rd, Rosyth, Dunfermline KY11 2PP, United Kingdom	01383 428700	 	ChIJsawhoyDOh0gRVvlBdZ5KH4g	
+1759	1	Shandon Snooker Services	GBR	55.9338535	-3.2340758	0	3	99 Slateford Rd, Edinburgh EH11 1QY, United Kingdom	0131 313 2069	 	ChIJgV2Scv7Gh0gRUGlvF70H2c8	
+1760	1	Crescent Snooker Club	GBR	55.8271142	-3.2228801	0	8	11 Jackson St, Penicuik EH26 9BQ, United Kingdom	01968 674530	 	ChIJZZaXYbXBh0gRA2v_fxA9Pyo	
+1761	1	Top O. The Toon	GBR	55.8795505	-3.1508785	0	4	11A Clerk St, Loanhead EH20 9DP, United Kingdom	0131 440 4452	 	ChIJpe3Ah0S_h0gR5WX1qXWGs4s	
+1762	1	Chatham Pool & Snooker Club	GBR	51.3836892	0.5239487	0	2	7A Military Rd, Chatham ME4 4JA, United Kingdom	01634 813152	 	ChIJ83ChlQbN2EcR6-bPiXA7mOg	
+1763	1	The Victoria Snooker Centre	GBR	51.1346653	0.2670296	0	9	7 Camden Rd, Tunbridge Wells TN1 2PS, United Kingdom	01892 525833	 	ChIJAy5ugC1E30cR9yyVp32Bp8Q	
+1764	1	The Master's Snooker Club	GBR	55.7735352	-3.9211095	0	8	3-7 Russell St, Wishaw ML2 7AL, United Kingdom	01698 350767	 	ChIJRzeZqygTiEgRFGespxVg494	
+1765	1	The Davis Snooker Club	GBR	55.4703828	-4.6280133	0	18	57 New Rd, Ayr KA8 8DA, United Kingdom	01292 284758	 	ChIJm03t4p_WiUgRWH2OHwjEIjg	
+1766	1	Lucky Break	GBR	55.8996608	-4.4056239	0	15	26-30 Glasgow Rd, Clydebank, Dunbartonshire G81 1SE, United Kingdom	0141 941 2052	 	ChIJBdYNJQBPiEgR1d0V1Ba13q8	
+1767	1	Reardon Snooker Centre	GBR	55.858959	-4.258763	0	12	24 Hope St, Glasgow G2 1AA, United Kingdom	0141 221 4646	http://www.reardonsnookerandpool.com/index.php?option=com_content&task=view&id=31&Itemid=41	ChIJAwmCf55GiEgRhoFnUvaTNng	
+1768	1	Cue World	GBR	53.5701688	-0.0819072	0	10	Bridge House, 225 Victoria St S, Grimsby, South Humberside DN31 1BD, United Kingdom	01472 311002	http://www.cueworld.co.uk/	ChIJrX8kELOceEgRrx1LcGVvLgI	
+1769	1	Ray Edmonds Snooker Centre	GBR	53.5722529	-0.0736217	0	19	1st Floor, 84 Freeman St, Grimsby DN32 7AG, United Kingdom	01472 362300	http://www.rayedmondssnooker.co.uk/	ChIJ9w-xQsiceEgREzG2YCDxSYQ	
+1770	1	Folkestone Snooker Club	GBR	51.0799059	1.1814545	0	3	Rendezvous St, Folkestone, Kent CT20, United Kingdom	01303 223364	http://www.folkestonesnookerclub.co.uk/	ChIJNwyw6M--3kcRkZycp-kcE0U	
+1771	1	Jeff Cundy Snooker Centre	GBR	53.5906449	-0.6566481	0	5	1 Pavilion Row, Scunthorpe, South Humberside DN15 7RD, United Kingdom	01724 865750	 	ChIJA9ZIaBzleEgR9F2cvFbhbXw	
+1772	1	Felixstowe Snooker Club	GBR	51.9535775	1.3401699	0	13	Sea Rd, Felixstowe IP11 2DH, United Kingdom	01394 276012	 	ChIJ-06xHGZ32UcRH8e4Jzq9Vts	
+1773	1	Shooters Pool & Lounge Bar	GBR	53.6827522	-1.4945263	0	2	20A Kirkgate, Wakefield WF1 1SP, United Kingdom	01924 375594	 	ChIJAY7FTv5meUgRypjeI4O4xpU	
+1774	1	St.Michaels Snooker Club	GBR	53.6795744	-1.513208	0	13	1A Alverthorpe Rd, Wakefield WF2 9NW, United Kingdom	01924 290402	 	ChIJYyozROFmeUgR07PzTcW_x40	
+1775	1	East Leeds Snooker Centre	GBR	53.808427	-1.42894	0	16	Sandleas Way, Leeds LS15 8AW, United Kingdom	0113 232 6046	http://www.eastleedssnookerclub.co.uk/	ChIJ5d23lFtDeUgR5svKp0upMog	
+1776	1	International Morley Snooker Centre	GBR	53.7455224	-1.5995493	0	5	Snooker Centre/Commercial St, Morley, Leeds, West Yorkshire LS27 9BU, United Kingdom	0113 252 3351	 	ChIJ5es19zReeUgRxOAYTsvfn6E	
+1777	1	Northern Snooker Centre	GBR	53.8007016	-1.5658882	0	28	92 Kirkstall Rd, Leeds LS3 1LT, United Kingdom	0113 243 3015	http://www.northernsnookercentre.co.uk/	ChIJTbv4xLpeeUgRYptwDTnbKyw	

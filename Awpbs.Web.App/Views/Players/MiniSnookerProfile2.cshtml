@@ -1,0 +1,10 @@
+﻿@model Awpbs.PersonBasicWebModel
+
+<div class="thumbnail">
+    <img src="@Awpbs.ImageUrlHelper.MakeUrlForWebProfile(Model.Picture)" alt="@Model.Name" style="width:150px;height:150px">
+    <div class="caption">
+        <h3>@Model.Name</h3>
+        <p>@Model.Metro</p>
+        <p><a href="~/Players/SnookerPlayer?athleteid=@Model.ID" class="btn btn-primary" role="button">Profile</a>
+    </div>
+</div>

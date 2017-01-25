@@ -1,0 +1,104 @@
+﻿@model Awpbs.Web.App.Models.CommunityVenuesModel
+@{
+    ViewBag.Title = "Snooker venues in " + Model.Country.Name;
+    if (BybUrlHelper.IsInIFrame == true)
+    {
+        Layout = "~/Views/Shared/_LayoutIFrame.cshtml";
+    }
+}
+
+@{ Html.RenderPartial("HeaderPartial", Model); }
+
+<div id="topContainer" class="container">
+    <div style="margin-bottom:20px;margin-top:20px;">
+        @if (Model.Country.IsUSA)
+        {
+            <p>There are around 100 snooker venues in our database for the U.S. All have been verified - someone has recently played in them or talked to them over the phone.</p>
+        }
+        else if (Model.Country.IsBritain)
+        {
+            <p>There are close to 200 snooker venues in our database for the UK. All have been verified - someone has recently played in them or talked to them over the phone.</p>
+        }
+    </div>
+    
+
+    <a style="float:right;margin-top:20px;" href="#list">go to list</a>
+    <h2>Map</h2>
+</div>
+
+<div id="map-canvas" style="min-width:200px;height:400px;margin-top:5px;margin-bottom:5px"></div>
+
+<div id="list" class="container">
+    <h2>List</h2>
+
+    <div class="row" style="margin-bottom:20px;margin-top:20px;">
+
+        @for (int index = 0; index < Model.Venues.Count; index += 2)
+        {
+            if (true)
+            {
+                <div class="col-sm-6 col-md-6">
+                    @{Html.RenderPartial("MiniVenueProfilePartial", Model.Venues[index]);}
+                </div>
+            }
+
+            if (index + 1 < Model.Venues.Count)
+            {
+                <div class="col-sm-6 col-md-6">
+                    @{Html.RenderPartial("MiniVenueProfilePartial", Model.Venues[index + 1]);}
+                </div>
+            }
+        }
+
+        @if (Model.Venues.Count() == 0)
+        {
+            <p>No known snooker venues in @Model.CommunityName.</p>
+        }
+
+        @if (Model.Metro != null)
+        {
+            <p><a href="~/@Model.Country.UrlName/venues">See venues in all of @Model.Country.LocalizedName</a></p>
+        }
+    </div>
+</div>
+
+<hr />
+
+<div class="container">
+    @Html.Partial("~/Views/Home/_MobileAppsPartial.cshtml")
+</div>
+
+<div class="container">
+    @{ Html.RenderPartial("Partners", Model); }
+</div>
+
+    
+@section Scripts {
+    <script type="text/javascript"
+            src="https://maps.googleapis.com/maps/api/js?key=@Awpbs.Web.App.Config.GoogleApiKey">
+    </script>
+
+    <script>
+    $(document).ready(function () {
+        map = new google.maps.Map(document.getElementById('map-canvas'), {
+            zoom: @Model.DefaultMapZoom,
+            center: { lat: @Model.MapCenterLocation.Latitude, lng: @Model.MapCenterLocation.Longitude }
+        });
+
+        // venues pins
+        @foreach (var venue in Model.Venues)
+        {
+            <text>
+            if (true)
+            {
+                var latLng = new google.maps.LatLng(@venue.Latitude,@venue.Longitude);
+                var marker = new google.maps.Marker({ position: latLng, map: map, title: '@venue.Name'});
+                google.maps.event.addListener(marker, 'click', function() {
+                    window.location='@BybUrlHelper.BuildVenueProfileUrl(venue.ID)';
+                });
+            }
+            </text>
+        }
+    });
+    </script>
+}

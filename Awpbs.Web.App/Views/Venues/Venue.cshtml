@@ -1,0 +1,89 @@
+﻿@model Awpbs.VenueWebModel
+@{
+    ViewBag.Title = Model.Name;
+    if (BybUrlHelper.IsInIFrame == true)
+    {
+        Layout = "~/Views/Shared/_LayoutIFrame.cshtml";
+    }
+}
+
+@section SocialMetaData
+{
+    <meta property="og:title" content="@ViewBag.Title">
+    <meta property="al:ios:url" content="snookerbyb://venues/@Model.ID">
+    <meta property="al:android:url" content="snookerbyb://venues/@Model.ID">
+    <meta name="apple-itunes-app" content="app-id=1032563817, app-argument=https://snookerbyb.com/venues/@Model.ID">
+}
+
+<h1 class="text-center">@Model.Name</h1>
+
+<div class="container">
+    <div class="row text-center" style="font-size:21px;margin-bottom:20px;margin-top:20px;">
+        <p>
+           Address:
+            @if(Model.HasAddress)
+            {
+                <span>@Model.Address</span>
+            }
+            else
+            {
+                <span>unknown</span>
+            }
+        </p>
+        <p>
+            Phone number:
+            @if (Model.HasPhoneNumber)
+            {
+                <a href="tel:@Model.PhoneNumberHtml">@Model.PhoneNumber</a>
+                @*<span>@Model.PhoneNumber</span>*@
+            }
+            else
+            {
+                <span>unknown</span>
+            }
+        </p>
+        <p>
+            Website:
+            @if (Model.HasWebsite)
+            {
+                <a target="_blank" href="@Model.Website">@Model.Website</a>
+            }
+            else
+            {
+                <span>unknown</span>
+            }
+        </p>
+        <p>
+            @if (Model.NumberOf10fSnookerTables == null && Model.NumberOf12fSnookerTables == null)
+            {
+                <span>tables: unverified</span>
+            }
+            else
+            {
+                if (Model.NumberOf10fSnookerTables != null)
+                {
+                    <span style="margin-left:10px;margin-right:10px">10' tables: <strong>@Model.NumberOf10fSnookerTables.Value</strong></span>
+                }
+                if (Model.NumberOf12fSnookerTables != null)
+                {
+                    <span style="margin-left:10px;margin-right:10px">12' tables: <strong>@Model.NumberOf12fSnookerTables.Value</strong></span>
+                }
+            }
+        </p>
+
+        <p>
+            @if (Model.IsInvalid)
+            {
+                <span>Invalid entry or closed-down</span>
+            }
+            else if (Model.LastContributorID > 0)
+            {
+                <span>Verified on @Model.LastContributorDate.Value.ToString("MMM d, yyyy")</span>
+            }
+            else
+            {
+                <span>Not verified yet</span>
+            }
+        </p>
+    </div>
+</div>

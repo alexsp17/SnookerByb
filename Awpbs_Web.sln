@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "Awpbs.Common2", "Awpbs.Common2\Awpbs.Common2.shproj", "{325EC0A0-06CB-4E8F-86B3-AC44B625FFB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Awpbs.Web.Data", "Awpbs.Web.Data\Awpbs.Web.Data.csproj", "{C5FFD08B-709B-456C-BBD0-DC6D5543FEE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Awpbs.Web.Api", "Awpbs.Web.Api\Awpbs.Web.Api.csproj", "{022A35B3-3D83-4EBB-9533-298C5D7962BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Awpbs.Web.App", "Awpbs.Web.App\Awpbs.Web.App.csproj", "{D1A47D10-A3E2-4697-8CF7-D976F2AFBCC7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatabaseSeeder", "DatabaseSeeder\DatabaseSeeder.csproj", "{47C1043D-4905-476F-9545-B769511AAE81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotificationsTester", "NotificationsTester\NotificationsTester.csproj", "{A8DE5211-2B02-46F3-8749-07E1188DC78C}"
+EndProject
+Global
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		Awpbs.Common2\Awpbs.Common2.projitems*{a8de5211-2b02-46f3-8749-07e1188dc78c}*SharedItemsImports = 4
+		Awpbs.Common2\Awpbs.Common2.projitems*{325ec0a0-06cb-4e8f-86b3-ac44b625ffb6}*SharedItemsImports = 13
+		Awpbs.Common2\Awpbs.Common2.projitems*{c5ffd08b-709b-456c-bbd0-dc6d5543fee7}*SharedItemsImports = 4
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5FFD08B-709B-456C-BBD0-DC6D5543FEE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5FFD08B-709B-456C-BBD0-DC6D5543FEE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5FFD08B-709B-456C-BBD0-DC6D5543FEE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5FFD08B-709B-456C-BBD0-DC6D5543FEE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{022A35B3-3D83-4EBB-9533-298C5D7962BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{022A35B3-3D83-4EBB-9533-298C5D7962BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{022A35B3-3D83-4EBB-9533-298C5D7962BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{022A35B3-3D83-4EBB-9533-298C5D7962BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1A47D10-A3E2-4697-8CF7-D976F2AFBCC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1A47D10-A3E2-4697-8CF7-D976F2AFBCC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1A47D10-A3E2-4697-8CF7-D976F2AFBCC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1A47D10-A3E2-4697-8CF7-D976F2AFBCC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47C1043D-4905-476F-9545-B769511AAE81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47C1043D-4905-476F-9545-B769511AAE81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47C1043D-4905-476F-9545-B769511AAE81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47C1043D-4905-476F-9545-B769511AAE81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8DE5211-2B02-46F3-8749-07E1188DC78C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8DE5211-2B02-46F3-8749-07E1188DC78C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8DE5211-2B02-46F3-8749-07E1188DC78C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8DE5211-2B02-46F3-8749-07E1188DC78C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

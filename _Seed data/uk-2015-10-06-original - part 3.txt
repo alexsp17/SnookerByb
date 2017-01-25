@@ -1,0 +1,7 @@
+ID	Snooker?	Name	Country	Latitude	Longitude	10' tables	12' tables	Address	Phone number	Website	POI id
+	1	Rileys Bootie	GBR			0	13	"443D Stanley Road, Bootle, Merseyside, L20 5DN"		www.rileys.co.uk	
+	1	Rileys Liverpool	GBR			0	6	"Grand Central, Bolton Street, Liverpool, L3 5LX"		www.rileys.co.uk	
+	1	Rileys Maidstone	GBR			0	5	"30-32 Lower Stone Street, Maidstone, Kent, ME15 6LX"		www.rileys.co.uk	
+	1	Rileys Pretswich	GBR			0	9	"511 Bury New Road, Prestwich, Manchester, M25 3AJ"		www.rileys.co.uk	
+	1	Rileys South Benfleet	GBR			0	6	"669 High Road, South Benfleet, Essex, SS7 5SF"		www.rileys.co.uk	
+	1	Rileys Worcester	GBR			0	8	"Unit 1A Shrubhill Industrial Estate, Shrubhill Road, Worcester, WR4 9EL"		www.rileys.co.uk	

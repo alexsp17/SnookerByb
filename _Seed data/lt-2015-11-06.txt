@@ -1,0 +1,11 @@
+ID	Snooker?	Name	Country	Latitude	Longitude	10' tables	12' tables	Address	Phone number	Website	POI id
+	1	Biliardo KN klubas	LTU					"Ateities g. 48 PC ""Norfa 2a, Vilnius"	852 2773869	http://www.biliardaskn.lt/	
+	1	Black Ball Billiardo Klubas	LTU					"H. Manto g. 31, Klaip?da"	865557772	http://www.blackball.lt	
+	1	Cue Club	LTU					"Žirm?n? g. 2 (žem?lapis), Vilnius"	8 656 32 332	www.cueclub.lt	
+	1	Country biliardo klubas	LTU					"P. Lukšio g. 18, VILNIUS"	(5) 2104113	http://www.country-biliardas.com/	
+	1	Amerigo	LTU					"Viršuliški? g. 40, Vilnius"		http://www.amerigo.lt	
+	1	Pool House	LTU					"Žirm?n? g. 68A, Vilnius"	8 656 50 014	www.poolhouse.lt	
+	1	Kaliptolijaus Pramogos	LTU					"H. Manto g. 27, LT-92234 Klaip?da"		www.kapitolijus.lt	
+	1	Entry	LTU					K?stu?io g.71 Kaunas	8 37 225430		
+	1	UNDIN?	LTU					"Jonavos 40, Kaunas "	8 686 22337		
+	1	Neo Kaunas	LTU					"Savanori? pr. 350, Kaunas"	(837) 31 11 14	http://www.neokaunas.lt	

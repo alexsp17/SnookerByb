@@ -1,0 +1,43 @@
+﻿@model Awpbs.VenueWebModel
+
+<div class="thumbnail text-center">
+    <p style="margin-top:10px;"><a href="@BybUrlHelper.BuildVenueProfileUrl(Model.ID)">@Model.Name</a></p>
+    @if (Model.DistanceInMeters > 0)
+    {
+        <p><span>Distance:</span><span style="font-weight:bold">@Model.Distance.ToString()</span></p>
+    }
+    
+    <p>
+        @if (Model.NumberOf10fSnookerTables == null && Model.NumberOf12fSnookerTables == null)
+        {
+            <span>tables: unverified</span>
+        }
+        else
+        {
+            if (Model.NumberOf10fSnookerTables != null)
+            {
+                <span style="margin-left:10px;margin-right:10px">10' tables: <strong>@Model.NumberOf10fSnookerTables.Value</strong></span>
+            }
+            if (Model.NumberOf12fSnookerTables != null)
+            {
+                <span style="margin-left:10px;margin-right:10px">12' tables: <strong>@Model.NumberOf12fSnookerTables.Value</strong></span>
+            }
+        }
+    </p>
+    <p>
+    @if (Model.IsInvalid)
+    {
+        <span>Invalid entry or closed-down</span>
+    }
+    else if (Model.LastContributorID > 0)
+    {
+        <span>Verified by the community</span>
+    }
+    else
+    {
+        <span>Not verified yet</span>
+    }
+    </p>
+    
+
+</div>

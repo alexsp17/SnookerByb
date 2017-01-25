@@ -1,0 +1,50 @@
+ID	Snooker?	Name	Country	Latitude	Longitude	10' tables	12' tables	Address	Phone number	Website	POI id
+	1	Enniskillen Snooker Hall	GBR			0	9	"Old Henry Street, Enniskillen, Fermanagh BT74 7JX, United Kingdom"	028 6632 5585	http://www.zodiacbingoenniskillen.co.uk/	
+	1	Lisnaskea Snooker Hall	GBR			0	8	"Main St, Enniskillen BT92 0JD, United Kingdom"	028 6772 1568		
+	1	Fairgreen Snooker Club	GBR			0	12	"2A Shillington St, Portadown, Craigavon BT62 3PF, United Kingdom"	028 3835 1190		
+	1	Crumlin Snooker Club	GBR			0	5	"13 Main Street, Crumlin BT29 4UP, United Kingdom"	028 9445 3945		
+	1	West Heath Snooker Club	GBR			0	10	"Alvechurch Road Lightning Way, Birmingham Area, Birmingham B31 3PH, United Kingdom"	0121 475 8437	http://www.westheathsnooker.com/	
+	1	Tamworth Cue Sports Leisure Club	GBR			0	13	"32 Victoria Road, Tamworth, Staffordshire B79 7HS, United Kingdom"	01827 57995	http://thecueball.co.uk/cuesports-clubs/west-midlands/819-tamworth-cue-sports-leisure-club.html	
+	1	Strategy 147	GBR			0	1	"13-15 Manchester Road, Barnoldswick BB18 5NZ, United Kingdom"	01282 816943		
+	1	Alexandra Snooker Club	GBR			0	8	"5 Holme Street, Nelson BB9 9SS, United Kingdom"	01282 696837		
+	1	Frame 3 Snooker Club	GBR			0	12	"Unit 3 Swan Lane Mill, Higher Swan Lane, Bolton, Lancashire BL3 3BJ, United Kingdom"	01204 653242	http://frame3.co.uk/	
+	1	Central Snooker Club	GBR			0	6	"Abden Street, Radcliffe, Manchester M26 3AT, United Kingdom"	0161 723 1237		
+	1	The Snooker Club	GBR			0	12	"Quay West Marina, 23 W Quay Rd, Poole, Dorset BH15 1HX, United Kingdom"	01202 777399	http://ambassadorsnooker.com/	
+	1	Martock Snooker Centre	GBR			0	5	"Stapleton Road, Martock TA12 6HH, United Kingdom"	01935 826122	http://martocksnooker.com/	
+	1	147 Snooker Centre	GBR			0	13	"12-14 St. Benedicts Court, Huntingdon PE29 3PN, United Kingdom"	01480 411641		
+	1	Penarth Snooker Club	GBR			0	8	"Marriot House, Penarth Road, Cardiff, South Glamorgan CF11 8TT, United Kingdom"	029 2070 2783	http://www.penarthroadsnookerclub.co.uk/	
+	1	South Wales Snooker Centre	GBR			0	10	"Clydesmuir Industrial Estate, Clydesmuir Road, Cardiff CF24 2QS, United Kingdom"	029 2049 5213		
+	1	Brackla Snooker Centre	GBR			0	16	"18 Coytrahene Clo, Brackla Industrial estate, Bridgend CF31 2AX, United Kingdom"	01656 657900	http://www.bracklasnooker.webs.com/	
+	1	Cue Snooker Club	GBR			0	8	"Cardiff Road, Aberdare CF44 6RD, United Kingdom"	01685 883544		
+	1	The Sportsman Snooker Club	GBR			0	7	"Chapel Hill, Braintree CM7 3QZ, United Kingdom"	01376 344160		
+	1	Harlow War Memorial Institute	GBR			0	6	"15 Garden Terrace Rd, Harlow CM17 0AT, United Kingdom"	01279 866242		
+	1	Halstead Snooker Centre	GBR			0	4	"5 Second Ave, Halstead CO9 2SU, United Kingdom"	01787 476960		
+	1	Hinckley Snooker Club	GBR			0	13	"9 Waterloo Road, Hinckley LE10 0QJ, United Kingdom"	01455 251041		
+	1	Attleborough Snooker & Social	GBR			0	8	"57 Highfield Road, Nuneaton CV11 4PW, United Kingdom"	024 7637 1713		
+	1	Hotshot Snooker Club	GBR			0	6	"Phoenix House, Castle Street, Tipton DY4 8HP, United Kingdom"	0121 522 3516		
+	1	Dibdale Snooker Club	GBR			0	9	"Dibdale Rd, Dudley DY1 2TF, United Kingdom"	01384 451905		
+	1	Pockets Snooker Club	GBR			0	11	"9 Church Street, Kidderminster DY10 2AD, United Kingdom"	01562 740291		
+	1	The Hot Shots Snooker Club	GBR			0	7	"100 Crosswells Road, Oldbury, West Midlands B68 8HH, United Kingdom"	0121 544 7172	http://www.hotshotssnookerclub.co.uk/	
+	1	147 Snooker Club	GBR			0	3	"157 Queensferry Road, Rosyth, Dunfermline KY11 2PP, United Kingdom"	01383 428700		
+	1	Shandon Snooker Services	GBR			0	3	"99 Slateford Road, Edinburgh, Midlothian EH11 1QY, United Kingdom"	0131 313 2069		
+	1	Crescent Snooker Club	GBR			0	8	"11 Jackson Street, Penicuik, Midlothian EH26 9BQ, United Kingdom"	01968 674530		
+	1	Top O. The Toon	GBR			0	4	"11A Clerk Street, Loanhead, Midlothian EH20 9DP, United Kingdom"	0131 440 4452		
+	1	Chatham Pool & Snooker Club	GBR			0	2	"7A Military Road, Chatham ME4 4JA, United Kingdom"	01634 813152		
+	1	The Victoria Snooker Centre	GBR			0	9	"7 Camden Road, Tunbridge Wells TN1 2PS, United Kingdom"	01892 525833		
+	1	The Master's Snooker Club	GBR			0	8	"3-7 Russell Street, Wishaw ML2 7AL, United Kingdom"	01698 350767		
+	1	The Davis Snooker Club	GBR			0	18	"57 New Road, Ayr KA8 8DA, United Kingdom"	01292 284758		
+	1	Lucky Break	GBR			0	15	"26-30 Glasgow Road, Clydebank, Dunbartonshire G81 1SE, United Kingdom"	0141 941 2052		
+	1	Executive Snooker Club	GBR			0	9	"175 Saracen Street, Glasgow, Lanarkshire G22 5JN, United Kingdom"	0141 336 3566		
+	1	Reardon Snooker Centre	GBR			0	12	"1060-1078 Pollokshaws Road, Glasgow G41 3EB, United Kingdom"	0141 632 0007	http://www.reardonsnookerandpool.com/	
+	1	Red Triangle Snooker Club	GBR			0	12	"4 St Mungos Road, Cumbernauld, Glasgow G67 1QP, United Kingdom"	01236 738906		
+	1	Cue World	GBR			0	10	"Bridge House, 225 Victoria Street South, Grimsby, South Humberside DN31 1BD, United Kingdom"	01472 311002	http://www.cueworld.co.uk/	
+	1	Ray Edmonds Snooker Centre	GBR			0	19	"1st Floor, 84 Freeman Street, Grimsby DN32 7AG, United Kingdom"	01472 362300	http://www.rayedmondssnooker.co.uk/	
+	1	Folkestone Snooker Club	GBR			0	3	"Rendezvous Street, Folkestone, Kent CT20, United Kingdom"	01303 223364	http://www.folkestonesnookerclub.co.uk/	
+	1	Jeff Cundy Snooker Centre	GBR			0	5	"The Jeff Cundy Snooker Centre, 1 Pavillion Row, Scunthorpe, North Lincolnshire DN15 7RD, UK"	01724 865750		
+	1	Felixstowe Snooker Club	GBR			0	13	"Sea Road, Felixstowe IP11 2DH, United Kingdom"	01394 276012		
+	1	Shooters Pool & Lounge Bar	GBR			0	2	"20A Kirkgate, Wakefield WF1 1SP, United Kingdom"	01924 375594		
+	1	St.Michaels Snooker Club	GBR			0	13	"1A Alverthorpe Road, Wakefield, West Yorkshire WF2 9NW, United Kingdom"	01924 290402		
+	1	The New Triangle Pool Club	GBR			0	2	"36 Smyth Street 2nd Floor, (At the side of Bengali Palace), Wakefield, United Kingdom WF1 1ED, United Kingdom"	01924 366119	https://www.facebook.com/pages/The-New-Triangle/695332713847657?fref=ts	
+	1	East Leeds Snooker Centre	GBR			0	16	"Sandleas Way, Leeds LS15 8AW, United Kingdom"	0113 232 6046	http://www.eastleedssnookerclub.co.uk/	
+	1	International Morley Snooker Centre	GBR			0	5	"Snooker Centre/Commercial St, Morley, Leeds, West Yorkshire LS27 9BU, United Kingdom"	0113 252 3351		
+	1	Northern Snooker Centre	GBR			0	28	"92 Kirkstall Road, Leeds LS3 1LT, United Kingdom"	0113 243 3015	http://www.northernsnookercentre.co.uk/	

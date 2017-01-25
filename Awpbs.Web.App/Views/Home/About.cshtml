@@ -1,0 +1,76 @@
+﻿@{
+    ViewBag.Title = "About Snooker Byb";
+}
+
+@section SocialMetaData
+{
+<meta property="og:title" content="Snooker Byb - Team" />
+<meta property="og:description" content="Snooker Byb – Where people connect around the game of snooker." />
+<meta property="og:type" content="article" />
+<meta property="og:image" content="http://www.snookerbyb.com/images/snooker-byb-screens-1.png" />
+<!-- documentation: https://developers.facebook.com/docs/sharing/webmasters#markup-->
+}
+
+<div class="container text-center" style="background-color:transparent">
+    <h1>Byb</h1>
+
+    <div class="container text-center">
+        <div class="row">
+            Snooker Byb – Where people connect around the game of snooker.
+        </div>
+    </div>
+
+    <h1>Team</h1>
+
+    <div class="addthis_sharing_toolbox"></div>
+
+    <div class="row">
+        <div class="col-sm-6 col-md-6">
+            @{Html.RenderAction("MiniSnookerProfile", "Players", new { athleteID = 16, extraText = "Alex, aka Alejandro, software developer by trade, snooker player at least once a week, never knew snooker existed until Mike showed up in Portland. A weekly snooker-beer-tea meeting with Miguel at a local pub has become a long-running tradition of many years.", nameIfNotFound = "Alejandro" });}
+        </div>
+
+        <div class="col-sm-6 col-md-6">
+            @{Html.RenderAction("MiniSnookerProfile", "Players", new { athleteID = 12, extraText = "Mike is one crazy programmer dude, startup style, who at some point in time played Russian Pyramid in a remote Siberian city, but progressively evolved to a weekly snooker match against Alejandro, played in Portland, Oregon.", nameIfNotFound = "Mike" });}
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-sm-6 col-md-6">
+            @{Html.RenderAction("MiniSnookerProfile", "Players", new { athleteID = 15, extraText = "Serginho is a genius user experience designer who works for a huge corporation in Redmond, WA. But what he really likes to do is make Snooker Byb look great.", nameIfNotFound = "Sergio" });}
+        </div>
+
+        <div class="col-sm-6 col-md-6">
+            @{Html.RenderAction("MiniSnookerProfile", "Players", new { athleteID = 21, extraText = "Ruta is a kick-ass accountant, and she is nice. She lets Mike go to his snooker matches every week and she does a lot of good things behind the scenes.", nameIfNotFound = "Ruta" });}
+        </div>
+    </div>
+
+    <div class="container text-center">
+        <div class="row">
+            <h1>From the Team</h1>
+            @Html.Partial("_MessageFromTheTeam")
+        </div>
+    </div>
+
+</div>
+
+<div class="container text-center">
+    <div>
+        <h1>Contact</h1>
+
+        <p>
+            <strong>Suggestions / questions?</strong>
+            We'd be happy to hear from you if you have ideas on how to make Snooker Byb better: 
+            <a href="mailto:team@snookerbyb.com" target="_top">team@snookerbyb.com</a>
+        </p>
+
+        <p>
+            <strong>Bugs / issues?</strong>
+            It's work in progress, please let us know about any software bugs!
+            <a href="mailto:team@snookerbyb.com" target="_top">team@snookerbyb.com</a>
+        </p>
+
+        <p>
+            Feel free to send us a friend request on the Snooker Byb mobile app!
+        </p>
+    </div>
+</div>

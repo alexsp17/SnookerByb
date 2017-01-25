@@ -1,0 +1,47 @@
+﻿@model Awpbs.Web.App.Models.CommunityModel
+
+<div id="topContainer" class="container">
+    <h1>Snooker Community of @Model.CommunityName2</h1>
+
+    <div class="btn-group">
+        <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Select your city <span class="caret"></span>
+        </button>
+        <ul class="dropdown-menu">
+            <li><a href="@BybUrlHelper.BuildUrl(Model.Country)">All</a></li>
+            <li role="separator" class="divider"></li>
+            @foreach (var metro in Model.Metros)
+            {
+                <li><a href="@BybUrlHelper.BuildUrl(metro)">@metro.Name</a></li>
+            }
+        </ul>
+    </div>
+
+    @if (Model.Metro != null)
+    {
+        <a href="~/@Model.Country.UrlName" style="margin-left:15px;">All of @Model.Country.LocalizedName</a>
+    }
+
+    <ul class="nav nav-tabs nav-justified" style="margin-top:30px;margin-bottom:20px;">
+
+        @if (Model.IsFeed)
+        {
+            <li role="presentation"><a href="@Model.UrlPlayers">Players</a></li>
+            <li role="presentation" class="active"><a href="@Model.UrlFeed">Feed</a></li>
+            <li role="presentation"><a href="@Model.UrlVenues">Venues</a></li>
+        }
+        else if (Model.IsPlayers)
+        {
+            <li role="presentation" class="active"><a href="@Model.UrlPlayers">Players</a></li>
+            <li role="presentation"><a href="@Model.UrlFeed">Feed</a></li>
+            <li role="presentation"><a href="@Model.UrlVenues">Venues</a></li>
+        }
+        else if (Model.IsVenues)
+        {
+            <li role="presentation"><a href="@Model.UrlPlayers">Players</a></li>
+            <li role="presentation"><a href="@Model.UrlFeed">Feed</a></li>
+            <li role="presentation" class="active"><a href="@Model.UrlVenues">Venues</a></li>
+        }
+    </ul>
+    
+</div>

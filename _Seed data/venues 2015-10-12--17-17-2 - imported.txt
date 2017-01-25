@@ -1,0 +1,112 @@
+ID	Snooker	Name	Country	Latitude	Longitude	10' tables	12' tables	Address	Phone number	Website	POI id
+1896	1	Annex Billiards Club	CAN	43.6654322	-79.4083095			507 Bloor St W, Toronto, ON M5S 1Y2, Canada	(416) 972-6588	 	ChIJx_YfAZQ0K4gRgnF6D4XPzLY	
+1897	1	Bigwigs Billiards	CAN	44.0769514	-79.4269744			1220 Stellar Dr, Newmarket, ON L3Y 7B9, Canada	(905) 868-9500	http://www.bigwigs.ws/	ChIJC9wL7J_NKogReUw6gxGtyLc	
+1898	1	Brass Monkey Bar & Billiards	CAN	45.3248566	-75.7795627			250 Greenbank Rd, Nepean, ON K2H 8X4, Canada	(613) 820-4889	http://www.brassmonkeybilliards.com/	ChIJnYzgmlsHzkwRPfNNPXmgQrA	
+1899	1	Captain’s Snooker Club	CAN	43.5998834	-79.5931409			966 Dundas St E, Mississauga, ON L4Y 4H5, Canada	(905) 272-0162	http://www.captainsnooker.com/	ChIJS8aKLr1HK4gRgeoywQAWPuU	
+1900	1	Century Billiards	CAN	43.6971978	-79.7481314			252 Queen St E, Brampton, ON L6V 1C1, Canada	(905) 457-0069	 	ChIJEQ5C0_MVK4gRjdcNUeDZXfw	
+1901	1	Danny Greens	CAN	43.6817484	-79.3316502			1218 Danforth Ave, Toronto, ON M4J 1M6, Canada	(416) 462-3733	 	ChIJeYCLz3zM1IkR-pi65raCoyQ	
+1902	1	Dunlop Billiards	CAN	44.3760951	-79.718125			445 Dunlop St W, Barrie, ON L4N 1C3, Canada	(705) 733-0200	 	ChIJkTubv0e9KogRQcLm5B7IOOk	
+1903	1	Formac Billiards	CAN	43.3365072	-79.8177758			1400 Plains Rd E, Burlington, ON L7R 3P8, Canada	(905) 333-0305	https://www.facebook.com/FormacBilliards	ChIJRxxNVf1hK4gRmbBaAxvYnrs	
+1904	1	Frederick Mall Billiards	CAN	43.4572411	-80.4733525			385 Frederick Street, Kitchener, ON N2H 2P2, Canada	(519) 745-4355	http://www.frederickbilliards.ca/	ChIJXdLWaLz0K4gRiNiKTYnmVl0	
+1905	1	High Ball Billiards	CAN	46.314592	-79.4613638			236 2nd Ave W, North Bay, ON P1B 3K9, Canada	(705) 495-2255	 	ChIJYw6AYZmqKU0RzKm3PCGZ1nQ	
+1906	1	Kanata Q	CAN	45.2995514	-75.8851487			442 Hazeldean Rd, Ottawa, ON K2L 1V2, Canada	(613) 831-0031	https://sites.google.com/site/thekanataq/	ChIJaboIXB8iVUARs4l4TY-gfz8	
+1907	1	Lloyd’s Smoke Shop	CAN	44.742454	-81.140954			570 Berford St, Wiarton, ON N0H 2T0, Canada	(519) 534-1445	https://www.facebook.com/LloydsSmokeShop	ChIJH1mUB-PJLE0RdedG9i8hFgA	
+1908	1	M & J Billiards	CAN	43.2426873	-79.789534			225 Parkdale Av N, Hamilton, ON L8H 5X4, Canada	(905) 545-8816	 	ChIJqz4gSSGZLIgRSCbWd_UxzT8	
+1909	1	Main Billiard Lounge	CAN	43.2437041	-79.8235781			1101 Main St E, Hamilton, ON L8M 1N7, Canada	(905) 545-4155	 	ChIJue3w012ZLIgRwHyORipCiLw	
+1910	1	Master Q Billiards & Lounge	CAN	43.8577792	-79.3557177			20 Apple Creek Blvd #4, Markham, ON L3R 5Z1, Canada	(905) 307-8828	https://www.facebook.com/pages/Master-Q-Billiard-Lounge/133053710052544	ChIJuwj1ed3U1IkRFDq2Ouo9JjI	
+1911	1	Monte Carlo Billiards	CAN	43.6135205	-79.5778058			1590 Dundas St E, Mississauga, ON L4X, Canada	(905) 897-9784	http://montecarlobilliards.com/	ChIJsZwZ6_NHK4gRLKF6s0gGB2g	
+1912	1	Orange Monkey Bar & Billiards	CAN	45.4082825	-75.71878			250 City Centre, Ottawa, ON K1R 6K7, Canada	(613) 230-2850	http://www.orangemonkeybilliards.com/	ChIJL2UZT0YEzkwRmfduPYSf81s	
+1913	1	Pappas Billiards	CAN	44.3061415	-78.3202288			407 George N, Peterborough, ON K9H 3R4, Canada	(705) 742-9010	 	ChIJ5WMHQOuM1YkRAYWt7qQlNx8	
+1914	1	Petrina’s Taps & Billiards	CAN	43.858621	-79.023949			21 Harwood Ave S, Ajax, ON L1S 2B8, Canada	(905) 686-7474	http://www.petrinas.com/	ChIJT2qBvOTf1IkRshzNV8L_Eic	
+1915	1	Plaza Bowl & Billiards	CAN	46.5207442	-80.9313711			1799 Garden St, Sudbury, ON P3A 5E7, Canada	(705) 566-0201	http://www.sudburyplazabowl.com/	ChIJ-2XY8pYAL00RHVjVRbcCd34	
+1916	1	Royal Canadian Legion #6	CAN	44.480643	-81.14273			86 River St, Tara, ON, Canada	(519) 934-9992	http://www.tl.locator.ca/	ChIJabTyQjjoKYgRl1fJzlU2BqQ	
+1917	1	Royal Canadian Legion # 60	CAN	43.3336052	-79.8124864			828 Legion Rd, Burlington, ON L7S 1T6, Canada	(905) 639-6060	http://www.legion.ca/	ChIJP33vfh6eLIgRvdrXVCVEiQQ	
+1918	1	Royal Canadian Legion # 121	CAN	43.354984	-80.314341			4 Veterans Way, Cambridge, ON N1R 3K7, Canada	(519) 621-5850	http://www.legion.ca/	ChIJVcTbFbF3LIgRYDPyX9MhyqU	
+1919	1	Royal Canadian Legion #126	CAN	43.3981091	-80.3561853			334 Westminster Dr N, Cambridge, ON N3H 1S5, Canada	(519) 653-6971	http://www.legion.ca/	ChIJQZyKGPKJK4gRCLyO0gDvv-Y	
+1920	1	Royal Canadian Legion #266	CAN	43.6655679	-79.4929073			3591 Dundas St W, York, ON M6S 2T1, Canada	(416) 760-9190	http://www.on.legion.ca/	ChIJpVBjy5Q2K4gRJtotEgxoiRA	
+1921	1	Royal Canadian Legion #272	CAN	43.427198	-80.316755			26 Schofield St, Cambridge, ON N3C 1Y3, Canada	(519) 658-2842	http://www.legion.ca/	ChIJnyaRoPyIK4gRmU4GwM4FelE	
+1922	1	Royal Canadian Legion #530	CAN	43.4662597	-80.5217337			19 Regina St N, Waterloo, ON N2J 2Z9, Canada	(519) 886-4790	http://www.rclbr530.com/	ChIJLfn_3K70K4gRJBd5iR78E9M	
+1923	1	Royal Canadian Legion #560	CAN	44.2515549	-76.4866614			734 Montreal St, Kingston, ON K7K 3J4, Canada	(613) 548-4570	http://www.legion.ca/	ChIJZcfh2ber0kwRx5STibTDWWU	
+1924	1	Senior Center – Brampton	CAN	43.7169572	-79.7183906			1A Knightsbridge Rd, Brampton, ON L6T 4B7, Canada	(905) 792-7422	http://www.brampton.ca/EN/residents/community-centres/knightsbridge-senior-centre/Pages/Welcome.aspx	ChIJeWkj7ec9K4gR7Fy8BJNitZU	
+1925	1	Senior Center – Guelph	CAN	43.5602536	-80.2703409			683 Woolwich St, Guelph, ON N1H 3Z1, Canada	(519) 823-1291	http://gwsa-guelph.ca/	ChIJ9dUkj4OaK4gRQmDTuDw7qpg	
+1926	1	Senior Center – Hamilton	CAN	43.224704	-79.862198			780 Upper Wentworth St, Hamilton, ON L9A 4V5, Canada	(905) 546-2541	http://www.sackvillehill.ca/	ChIJD3CDQU2aLIgRkU2P87iRhGY	
+1927	1	Senior Center – Oakville	CAN	43.4427729	-79.6794181			263 Kerr St, Oakville, ON L6K 3B4, Canada	(905) 815-5966	http://www.oakville.ca/	ChIJWyRZmPZcK4gRi8uFvsoQEM8	
+1928	1	Senior Center – Richmond Hill	CAN	43.8737179	-79.4383234			10100 Yonge St, Richmond Hill, ON L4C 1T8, Canada	(905) 737-1818	http://www.richmondhill.ca/	ChIJdehqFE0qK4gR4tOlRBp0a8E	
+1929	1	Q-Ball Billiards	CAN	43.577245	-80.261275			468 Woodlawn Rd E, Guelph, ON N1E 1B9, Canada	(519) 823-0926	http://qballbilliardsguelph.com/	ChIJOxe4QG-aK4gR_VrO9tEKx3U	
+1930	1	Rack Em Up Billiards	CAN	45.0441167	-74.7497527			1916 Pitt St, Cornwall, ON K6J 5H3, Canada	(613) 933-9362	 	ChIJb2ERx8gZzEwRIii3Wc4yfMQ	
+1931	1	Rack Q Café	CAN	42.8359305	-80.3033988			65 Norfolk St S, Simcoe, ON N3Y 2W1, Canada	(519) 426-9945	 	ChIJXYWwGdxNLIgRsSdM6rnXrGg	
+1932	1	Raxx	CAN	44.2415254	-76.5686666			665 Development Dr, Kingston, ON K7M 4W6, Canada	(613) 634-3337	http://www.raxx.ca/	ChIJaTZIFvis0kwRgHzEmpW2WEg	
+1933	1	Shooters Snooker & Sports Club	CAN	43.7421465	-79.3146093			1448 Lawrence Ave E, North York, ON M4A 2V6, Canada	(416) 750-7787	 	ChIJK0DVm4zN1IkRDZWH3Wf5E4Q	
+1934	1	Simcoe Billiards	CAN	42.8367448	-80.3026828			37 Sydenham St, Simcoe, ON N3Y 1R6, Canada	(519) 426-0991	 	ChIJYxBUkN5NLIgRNw3k6MtEFzc	
+1935	1	Star Billiards	CAN	42.9809312	-81.2500457			120 York St, London, ON N6A 1A9, Canada	(519) 432-9011	 	ChIJHYB75x3yLogRyrrP16ARKtQ	
+1936	1	Stevie D’s	CAN	43.2527193	-79.9385384			1829 Main St W, Hamilton, ON L8S 1H6, Canada	(905) 523-7403	http://www.steviedsatwhitneybilliard.com/	ChIJawp8nr-ELIgR1uzfcoiT3Hc	
+1937	1	Strokers Billiards	CAN	42.9691975	-81.2806184			390 Springbank Dr, London, ON N6J 4Y9, Canada	(519) 641-6067	 	ChIJGzKfKaXxLogRjvBMMXOFMBU	
+1938	1	The Corner Bank	CAN	43.73104	-79.2883761			925 Warden Ave, Toronto, ON M1L 4C5, Canada	(647) 503-3339	http://thecornerbank.ca/index.html	ChIJRzddiwnO1IkRxVAtEDyaw0I	
+1939	1	The Crooked Cue	CAN	43.5526458	-79.584287			75 Lakeshore Rd E, Mississauga, ON L5G 4S7, Canada	(905) 271-7665	http://www.crookedcue.ca/	ChIJQRbH6nJGK4gRUxmg2mySkTo	
+1940	1	VIP Billiard Club	CAN	43.6588619	-79.3818484			385 Yonge St, Toronto, ON M5B 1S1, Canada	(416) 977-1011	http://www.vipbilliardsclub.com/	ChIJfQwCYbU0K4gRDnGk5jYG76w	
+1941	1	Walshee’s Billiards	CAN	43.359119	-80.314036			52 Main St, Cambridge, ON N1R 1V4, Canada	(519) 623-8332	 	ChIJi4h6XLZ3LIgRDTa1z6swyH0	
+1942	1	147 Snooker Club St Laurent	CAN	45.542696	-73.644542			8883 Bd St Laurent, Montréal, QC H2N 1M2, Canada	(514) 508-1383	 	ChIJx1aW6-YYyUwR12vCTSILiQ8	
+1943	1	Billard Centre-Ville	CAN	48.4278365	-71.0664077			68 Rue Racine E, Chicoutimi, QC G7H 1P6, Canada	(418) 693-1676	 	ChIJtziM0E4nwEwRXb1uWWxRBcw	
+1944	1	Billard Heriot	CAN	45.8819129	-72.4826314			412 Rue Heriot, Drummondville, QC J2B 1B5, Canada	(819) 472-8181	http://www.billardheriot.com/	ChIJ_wInJ2wRyEwRDLkJ0kEXqSI	
+1945	1	Billard La Citadelle	CAN	45.6441445	-73.8194375			213 Boulevard René A. Robert, Sainte-Thérèse, QC J7E 4L1, Canada	(450) 979-5033	http://www.billardlacitadelle.com/	ChIJ8xX3tMAnyUwR4L5RQfbcggs	
+1946	1	Billard O tips	CAN	45.340984	-73.2737091			87 Boulevard St Luc, Saint-Luc, QC J2W 1E2, Canada	(450) 359-7665	 	ChIJazH5AeKjyUwRjEJsztEMFK4	
+1947	1	Billard Terminus	CAN	45.397134	-75.8362527			181 Rue Principale, Gatineau, QC J9H 6A6, Canada	(819) 684-7071	http://www.terminus.ca/	ChIJ22Fo7YwBzkwRDOKsUCVQFqI	
+1948	1	Billard Terminus	CAN	45.4679145	-75.7404842			84C rue Jean-Proulx, Gatineau, QC J8Z 1W1, Canada	(819) 595-7070	http://www.terminus.ca/	ChIJHxbYH7MczkwReVAUGwJ6tzc	
+1949	1	Club Bilard Le Patriote	CAN	45.5741488	-73.8777545			215 Rue St Laurent #205, Saint-Eustache, Québec J7P 4W4, Canada	(450) 623-9060	http://www.billardlepatriote.com/	ChIJmY1nto4lyUwR7P5Gs7jP0_k	
+1950	1	Club De Billard L’Ivoire	CAN	45.4036076	-74.0366229			2555 Rue Dutrisac, Vaudreuil-Dorion, QC J7V 8H1, Canada	(450) 455-0569	 	ChIJT8hiQjM2yUwR7TSkbDlJV4I	
+1951	1	Dooly’s Granby	CAN	45.407326	-72.742249			460 Rue Desjardins S, Granby, Québec J2G 8N7, Canada	(450) 777-1116	http://www.doolysquebec.com/	ChIJR2hP517OyUwR7Y6QTCjM-go	
+1952	1	International Billard	CAN	48.4117476	-71.2551336			2400 Rue Saint Dominique, Jonquière, QC G7X 6K8, Canada	(418) 695-6000	 	ChIJOa4B8iEpwEwRXnUJJN9OY0Q	
+1953	1	La Bande Au Coin	CAN	45.5020075	-73.5107517			49 Rue Green, Saint-Lambert, QC J4P 1S2, Canada	(450) 672-8081	http://www.labandeaucoin.com/	ChIJP88kudAayUwRS8-VXNl4ksE	
+1954	1	Le Salon de billard de Montreal	CAN	45.5478929	-73.5928507			6505 Rue des Écores, Montréal, QC H2G 2J8, Canada	(514) 593-0694	http://www.billard-montreal.com/	ChIJF4BqU0UZyUwR22RuVCoFSLg	
+1955	1	Le Skratch Brossard	CAN	45.474618	-73.474696			3 Rue de la Place du Commerce, Brossard, QC J4W 3E7, Canada	(450) 466-7903	http://www.leskratch.com/	ChIJk8hjJnAFyUwRKtyBZD680W4	
+1956	1	Le Skratch Lasalle	CAN	45.437097	-73.6249012			7803 Boulevard Newman, LaSalle, QC H8N 1X7, Canada	(514) 595-7665	http://www.leskratch.com/	ChIJHarVUjsRyUwR31-IIYPjJqI	
+1957	1	Le Skratch Laval	CAN	45.5426327	-73.7491305			965 Boulevard Curé-Labelle, Laval, QC H7V 2V7, Canada	(450) 686-7665	http://www.leskratch.com/contact.php	ChIJ4djDlgAjyUwRlIto6TQHDD0	
+1958	1	Le Skratch Repentigny	CAN	45.7178106	-73.4719065			155 Rue Notre-Dame, Repentigny, QC J6A 7G5, Canada	(450) 657-2345	http://www.leskratch.com/	ChIJDzY1oyPkyEwRJ94SjHZUI2Y	
+1959	1	Le Skratch West Island	CAN	45.505452	-73.8229724			11841 Boul de Pierrefonds, Montréal, QC H9A 1A1, Canada	(514) 683-5000	http://www.leskratchwestisland.com/	ChIJOf97alc7yUwRBMnL-wgWljg	
+1960	1	Le Tapis Vert	CAN	46.791337	-71.286587			2323 Boulevard du Versant N, Québec, QC G1N, Canada	(418) 683-1587	http://tapisvertstefoy.ca/	ChIJUeJxMOCWuEwR6lSAtL4R1PU	
+1961	1	Salon De Billard Le Gentilhomme	CAN	45.5587979	-73.8923111			117 Rue Saint Eustache, Saint-Eustache, QC J7R 2L4, Canada	(450) 983-2300	 	ChIJCw8FE34lyUwRDKsDybYhCz0	
+1962	1	Salon De Billard Maximum	CAN	45.5014892	-73.423589			5245 Boulevard Cousineau, Saint-Hubert, QC J3Y 6J8, Canada	(450) 462-5757	 	ChIJOetm4EgEyUwRPErgb7OERC0	
+1963	1	Nick’s Pool Room & Restaurant	CAN	50.458587	-104.6118522			2176 7th Ave, Regina, SK S4R 1C4, Canada	(306) 522-2666	 	ChIJWU0vkVoeHFMR8KyK76qdA2I	
+1964	1	Pacific Billiards	CAN	52.1368697	-106.6618516			609 1st Ave N, Saskatoon, SK S7K 1X7, Canada	(306) 665-0009	http://pacific-billiards.com/	ChIJF71Yhdz2BFMRK1kmeC4urSs	
+1965	1	Snooker Shack	CAN	52.1151183	-106.5973093			3421 8 St E, Saskatoon, SK S7H 0W5, Canada	(306) 374-2100	http://snookershack.ca/	ChIJvZnTkVjxBFMRIQFwiLwTnSE	
+1966	1	Dooly’s	CAN	46.0626614	-64.8110918			679 Coverdale Rd, Riverview, NB E1B 3K7, Canada	(506) 384-7665	http://www.doolys.ca/	ChIJPVknfKW5oEwRWKCYmYm07Pg	
+1967	1	Dooly’s	CAN	45.9392674	-66.6598768			1211 Prospect St, Fredericton, NB E3B 3B9, Canada	(506) 455-7765	http://www.doolys.ca/	ChIJVZbcrT8ipEwRRWxFGKetEyo	
+1968	1	Dooly’s	CAN	45.287	-66.0284			120 McDonald St, Saint John, NB E2J 1M5, Canada	(506) 657-7668	http://www.doolys.ca/	ChIJpxAYX6Gzp0wR6e4PfwKzosY	
+1969	1	Golden Mile Billiards	CAN	45.2526864	-66.1017653			730 Wilson St, Saint John, NB E2M 3V2, Canada	(506) 635-7665	 	ChIJVahMRMK0p0wR3d7_ZqVusWI	
+1970	1	Valley Sands Entertainment Center	CAN	45.4066245	-65.9677639			221 Hampton Rd, Quispamsis, NB E2E 4L8, Canada	(506) 847-9614	http://www.valleysands.com/	ChIJqWMB3qCsp0wR0CC3tfrs-Dg	
+1971	1	Almon Billiards	CAN	44.6560222	-63.5990893			6050 Almon St, Halifax, NS B3K, Canada	(902) 454-7665	http://www.almonbilliards.ca/	ChIJDwoG6HkhWksRUuf2k5QZtG0	
+1972	1	Burnside Snooker Club	CAN	44.6977727	-63.5783169			201 Brownlow Ave, Dartmouth, NS B3B 1W2, Canada	(902) 468-1549	 	ChIJVX2qcIQhWksRxQ2gSQsK1Uw	
+1973	1	Anavets Assiniboia Unit #283	CAN	49.881092	-97.3091139			3584 Portage Ave, Winnipeg, MB R3K 0Z8, Canada	(204) 837-6708	http://anaf283.com/	ChIJ6Rn6PWUM6lIR8xDGfa-Ld-o	
+1974	1	Bourbon Street Billiards	CAN	49.8904058	-97.1488154			241 Vaughan St, Winnipeg, MB R3C, Canada	(204) 957-1293	http://www.bourbonstbilliards.com/	ChIJW7vsR_1z6lIRvCodwEEL37s	
+1975	1	Fort Rouge Legion	CAN	49.8687781	-97.1371328			426 Osborne Street, Winnipeg, MB R3L 2A3, Canada	(204) 453-4254	http://www.legion.ca/	ChIJXySyX6Z26lIRqmkfhS0njqM	
+1976	1	Norwood Legion	CAN	49.8813416	-97.1226868			134 Marion St, Winnipeg, MB R2H 0T4, Canada	204-233-2329	http://norwoodstbonifacelegion.ca/	ChIJW5eLzzpx6lIRVbxydbwK904	
+1977	1	St James Legion	CAN	49.8792124	-97.2098898			1755 Portage Ave, Winnipeg, MB R3J 0E6, Canada	(204) 888-2767	http://www.rclstjames04.mb.ca/	ChIJo8Ir3GJz6lIRFKHrqnu9Ocs	
+1978	1	Anavets Unit 26	CAN	49.2255898	-123.0899963			727 E 49th Ave, Vancouver, BC V5W 2H3, Canada	(604) 321-3023	http://www.anavets26.com	ChIJVykdVBV0hlQR_Wb6479ARX8	
+1979	1	Dogwood Bowling & Billiards	CAN	49.0488321	-122.2950568			33550 South Fraser Way, Vancouver, BC V2S 5G7, V2S 5G7, Canada	(604) 859-2695	 	ChIJb2IYqgV2hlQRAQJlcq_NzeI	
+1980	1	East End Billiards	CAN	49.2811954	-123.0578034			2305 E Hastings St, Vancouver, BC V5L 1V6, Canada	(604) 251-4071	 	ChIJdQLQhhhxhlQRagNnCnRjLho	
+1981	1	Guys & Dolls	CAN	49.2633569	-123.1007219			2434 Main St, Vancouver, BC V5T 3E2, Canada	(604) 879-4433	 	ChIJ-7SH0OFzhlQRoX97JiHhEzc	
+1982	1	High-Break Billiards	CAN	49.1779342	-123.1253928			Suite 140, 4731 Garden City Rd, Richmond, BC V6X 3M7, Canada	(778) 331-7388	 	ChIJSf1dwzp1hlQRgUn4K7TziLQ	
+1983	1	Kennedy Seniors’ Rec Centre	CAN	49.1626509	-122.896622			11933 88 Ave, Delta, BC V4C 3C9, Canada	(604) 594-2717	http://www.delta.com/	ChIJtV2LdgjZhVQRhmntYDxUAVU	
+1984	1	Terminal City Club	CAN	49.2863639	-123.1152511			837 W Hastings St, Vancouver, BC V6C 2X1, Canada	(604) 681-4121	http://www.tcclub.com/	ChIJH0xQYIJxhlQRV_-e0T6zqmo	
+1985	1	The Attic	CAN	49.1749405	-122.8902865			9461 120 St, Delta, BC V4C 6S2, Canada	(604) 930-8875	http://www.atticbilliards.ca/	ChIJgXUpxKzZhVQRjWDkvt7qbx0	
+1986	1	The Village Inn Pub	CAN	49.251185	-122.90181			9304 Salish Ct, Burnaby, BC V3J 7J8, Canada	(604) 421-0369	http://www.lvbg.ca/	ChIJp81gmzB4hlQRuahY0sPxK1E	
+1987	1	Seniors Centre – Century House	CAN	49.2120757	-122.925845			620 Eighth St, New Westminster, BC V3M 3S6, Canada	(604) 519-1066	http://www.centuryhouseassociation.com/	ChIJv7KrH9l3hlQRhKmz9NZH23M	
+1988	1	Seniors Centre – Confederation	CAN	49.2823785	-123.0004526			4585 Albert St, Burnaby, BC V5C 2G6, Canada	(604) 294-1936	http://www.burnaby.ca/confederation55+	ChIJh1cGBbZwhlQRaKiR3Aszwf0	
+1989	1	Seniors Centre – Dogwood Pavillion	CAN	49.2546237	-122.8479838			624 Poirier Street, Coquitlam, BC V3J 6B1, Canada	(604) 927-6098	http://coquitlam.ca/dogwood	ChIJA6GPgYp4hlQRbG4VvGHVfjo	
+1990	1	Seniors Centre – Edmonds Community	CAN	49.2206484	-122.9474757			7433 Edmonds St, Burnaby, BC V3N 1B2, Canada	(604) 297-4838	http://www.burnaby.ca/edmonds	ChIJJ2hb3ch3hlQR9sCCPfJs9cA	
+1991	1	Seniors Centre – Kennedy	CAN	49.1626509	-122.896622			11933 88 Ave, Delta, BC V4C 3C9, Canada	(604) 594-2717	http://www.delta.com/	ChIJtV2LdgjZhVQRhmntYDxUAVU	
+1992	1	Seniors Centre-Kyle Center	CAN	49.2759376	-122.8577131			125 Kyle St, Port Moody, BC V3H, Canada	(604) 469-4561	 	ChIJTwoLTP14hlQR2I_OoC6P6ss	
+1993	1	Seniors Centre – Langley Recreation	CAN	49.0974328	-122.6509724			20605 51b Ave, Langley, BC V3A 9H1, Canada	(604) 530-3020	http://lsrs.ca/	ChIJcWqBxsvPhVQRuXci4UYtbNw	
+1994	1	Seniors Centre – Minoru	CAN	49.1637976	-123.1409003			7660 Minoru Gate, Richmond, BC V6Y 1R9, Canada	(604) 238-8450	http://www.richmond.ca/parksrec/seniors/minoruplace/minoru.htm	ChIJMZpTwckKhlQRLo8eqk6P07M	
+1995	1	Seniors Centre – Pitt Meadows	CAN	49.2209227	-122.6914699			19065 119B Avenue, Pitt Meadows, BC V3Y 0E6, Canada	(604) 457-4771	http://rmssseniors.org/join-us/contact-us/	ChIJpwAvMDzUhVQRuVWQCi5fCIs	
+1996	1	Seniors Centre – Ridge Meadows	CAN	49.223527	-122.600932			12150 224 St, Maple Ridge, BC V2X 6B6, Canada	(604) 467-4993	http://rmssseniors.org/	ChIJ-aNPlaDUhVQRIf1Hz9s9ap8	
+1997	1	Seniors Centre – Wilson Centre	CAN	49.2598096	-122.7766005			2150 Wilson Ave, Port Coquitlam, BC V3C 6J5, Canada	(604) 927-7970	http://www.portcoquitlam.ca/Recreation_and_Culture/Facilities___Amenities/Port_Coquitlam_Recreation_Complex.htm	ChIJV-V7KKt4hlQR4I5xzw04JtE	
+1998	1	Boston Billiards & Lounge	CAN	50.033302	-110.704589			767 6 St SW, Medicine Hat, AB T1A 4J7, Canada	(403) 526-3090	 	ChIJ6e_r4uUsE1MRflAC28p26FY	
+1999	1	Finnagan’s Bar Bistro & Billiards	CAN	53.5990896	-113.4241881			13560 Fort Road Northeast, Edmonton, AB T5A 1C5, Canada	(780) 415-4488	http://www.finnagans.com/	ChIJpxovsrA8oFMRECSwBsu8Du4	
+2000	1	Leather Pocket Billiards	CAN	51.0855046	-114.0524187			3715 Edmonton Trail NE, Calgary, AB T2E 3P3, Canada	(403) 289-6408	http://leatherpocket.ca/?tribe_events=pacific-vending-league-3	ChIJ452ZXQtlcVMRMW21J5XzFBA	
+2001	1	McNally’s High Run Club	CAN	53.5379885	-113.4155428			4926 98 Ave NW, Edmonton, AB T6B 2L8, Canada	(780) 440-2233	http://www.highrunclub.com/	ChIJEw7lvrwioFMRsSgYQhEmB1I	
+2002	1	Mike’s Family Billiards	CAN	51.081878	-114.010465			2020 32 Ave NE, Calgary, AB T2K 5X8, Canada	(403) 274-0726	 	ChIJbbCDA6RlcVMRa2UxrMcupXM	
+2003	1	Shotz Billiard Club & Lounge	CAN	49.6971427	-112.8297007			1120 2 Ave S, Lethbridge, AB T1J 0E2, Canada	(403) 394-7727	http://shotz.ca/	ChIJPabu8cmHblMR0zwTpFIDVLg	
+2004	1	The Corner Pocket	CAN	52.241382	-113.815627			50 Ave, Red Deer, AB T4R 1W5, Canada	(403) 343-6262	 	ChIJAf9yvr5WdFMRjD0yw2L1C2E	
+2005	1	The Royal Canadian Legion	CAN	51.0464754	-114.0620348			116 7 Ave SE, Calgary, AB T2G 0H5, Canada	(403) 269-5548	http://www.legion.ca/	ChIJJUoW4f1vcVMRMbljVfi-1QU	
+2006	1	The Royal Canadian Legion	CAN	50.9737255	-114.0745308			Horton Rd SW, Calgary, AB T2V 2X4, Canada	(403) 255-5772	 	ChIJ-eZczSJxcVMR0UAiCQWaTps	

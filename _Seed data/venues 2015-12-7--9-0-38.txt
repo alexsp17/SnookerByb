@@ -1,0 +1,134 @@
+ID	Snooker	Name	Country	Latitude	Longitude	10' tables	12' tables	Address	Phone number	Website	POI id
+2060	1	Billard-Center	DEU	52.5552	13.4337		1	Jacobsohnstraße 18, 13086 Berlin, Germany	030 4719009	 	ChIJ-zUdafFNqEcRRUktPTWb4ng	
+2061	1	Billard House Berlin	DEU	52.5047491	13.4511247		3	Rudolfstraße 1-8, 10245 Berlin, Germany	030 20056856	http://www.billardhouse.com/	ChIJnf61mFBOqEcRFWZoSQFbCx4	
+2062	1	Pansold Poolparadies	DEU	52.53191	13.5025598		3	Siegfriedstraße 80, 10365 Berlin, Germany	030 5578418	http://www.poolparadies-berlin.de/	ChIJBRv3diBMqEcRPJI3S3NiGuc	
+2063	1	Billardsalon Q-Ball-Libre	DEU	52.5392749	13.4026872		1	Kremmener Str. 9, 10435 Berlin, Germany	030 4491166	http://www.q-ball-libre.de/	ChIJ91-hlflRqEcRqJvl4_pMoR4	
+2064	1	Merkur Spielothek	DEU	52.45001	13.30377		1	Asternpl. 2A, 12203 Berlin, Germany	030 8437032	http://www.merkur-spielothek.de/	ChIJbToSRftaqEcRpU1a4sNhfAY	
+2065	1	Billard Lounge Berlin	DEU	52.53048	13.43471		8	Hufelandstraße 38, 10407 Berlin, Germany	030 4247448	 	ChIJhQYBdg5OqEcR7ThKMfbBSW4	
+2066	1	Merkur Spielothek	DEU	52.4993282	13.3246134		1	Lietzenburger Str. 86, 10719 Berlin, Germany	030 8838747	http://www.merkur-spielothek.de/	ChIJq8eO8PpQqEcR4yUu7MwphQ4	
+2067	1	Billard International Berlin	DEU	52.4993282	13.3246134		3	Knesebeckstraße 38-49, 10719 Berlin, Germany	030 883391221	http://www.billard-international.de/	ChIJjywe3_pQqEcRjweYAjsWVkI	
+2068	1	Billardaire	DEU	52.4884271	13.3654347		3	Billardsalon Monumentenstr. 35, 10829 Berlin, Germany	030 7841177	http://www.billardaire.de/	ChIJ4x0zSXEjZUERcU91bh7bSkA	
+2069	1	Ballhaus	DEU	52.5266488	13.3968106		5	Auguststraße 24, 10117 Berlin, Germany	030 2829295	http://www.ballhaus.de/	ChIJXe3VaOZRqEcRDQfjbd4zLac	
+2070	1	Berliner Snookerclub - BSV	DEU	52.462	13.46675		4	Boschweg 13, 12057 Berlin, Germany	0173 9948648	http://www.snooker-in-berlin.net/	ChIJheHXyEpOqEcRc04DJhq8Eq4	
+2071	1	BFC Fortuna Berlin von 1977 e.V.	DEU	52.4838207	13.4475338		2	Kiehlufer 75, 12059 Berlin, Germany	030 33843738	http://www.bfc-fortuna.de/	ChIJu6wO2KdPqEcRqdjbBRD0OWM	
+2072	1	Hanniball Sport & Billard Bar	DEU	52.4554197	13.3853688		3	Tempelhofer Damm 227, 12099 Berlin, Germany	030 25940834	http://www.billardsportcenter.de/	ChIJqeA-9UhFqEcRy3AjDn1Muq0	
+2073	1	Trauminsel	DEU	52.386038	13.4017579		1	Zescher Strasse 3-5, 12307 Berlin, Germany	 	http://www.trauminsel-berlin.de/	ChIJM5gCAopEqEcRasrHIxcSrV8	
+2074	1	Billard-Company	DEU	52.4922	13.45152		1	Bouchestraße 12, 12435 Berlin, Germany	030 5347134	http://www.billard-company.de/	ChIJb96y-qpPqEcRS2AE2PDYIQg	
+2075	1	Billardcenter Weißensee	DEU	52.5552	13.4337		1	Jacobsohnstraße 18, 13086 Berlin, Germany	030 4719009	 	ChIJ-zUdafFNqEcRRUktPTWb4ng	
+2076	1	BillardTreff65	DEU	52.5510973	13.3538325		2	Seestraße 50, 13347 Berlin, Germany	030 40059884	http://www.billardtreff65.de/	ChIJkeGTt9VTqEcR03awjiMcNqs	
+2077	1	Billard-Café Break	DEU	52.58029	13.34448		4	Thyssenstraße 7, 13407 Berlin, Germany	030 4148023	http://www.billardcafe-break.de/	ChIJI50od71TqEcRIEF84zDsUuU	
+2078	1	Pool Position	DEU	52.536808	13.2227688		3	Am Juliusturm 31, 13599 Berlin, Germany	030 30398930	http://www.billardsalon-spandau.de/	ChIJ28DKsl5WqEcRXIe-3gp_4wE	
+2079	1	Scheris Inn	DEU	52.5350674	13.271483		1	Wernerwerkdamm 26, 13629 Berlin, Germany	030 23365116	http://www.scheris-inn.com/	ChIJybJLvcdWqEcRtaQHm11PgOo	
+2080	1	Tanzcafé Angel´s	DEU	52.6048117	12.337945		1	Märkischer Platz 2, 14712 Rathenow, Germany	03385 498798	 	ChIJsUWXAIjRqEcRqKXYFb69q_Y	
+2081	1	Panorama	DEU	52.4138787	12.5214581		2	Magdeburger Landstraße 7, 14770 Brandenburg an der Havel, Germany	03381 890332	 	ChIJ7U_vtdzAqEcRXwmINxobkG0	
+2082	1	Hanniball	DEU	52.413134	12.504678		1	Am Neuendorfer Sand 2, 14770 Brandenburg an der Havel, Germany	03381 8909894	http://www.billardsportcenter.de/	ChIJK3q-VM7AqEcRKOAlOmwZ7Og	
+2083	1	Frankfurter Hütte	DEU	52.3514826	14.5427437		1	Bergstraße 166, 15230 Frankfurt (Oder), Germany	0335 6800770	http://www.frankfurter-huette.de/preise/	ChIJ2wvarmiYB0cRXYx0zIcZ29I	
+2084	1	Schwarzer Peter	DEU	52.3527219	14.5361319		1	Moskauer Str. 80, 15234 Frankfurt (Oder), Germany	0335 63000	 	ChIJ10eF_2eYB0cRItx1kGLOjQ4	
+2085	1	Billard Verein Strausberg	DEU	52.5352942	13.8166916		3	Bahnhofstraße 15, 15345 Petershagen, Germany	03341 4113797	http://billard-verein-strausberg.npage.de/	ChIJkZY-cZ8zqEcRzTWBs76A5O4	
+2086	1	Pro Pool & Dance Hall	DEU	52.2841469	13.6206088		1	Schütte-Lanz-Straße 2a, 15711 Königs Wusterhausen, Germany	0173 6334860	http://www.propoolhall.de/	ChIJuUOL-UM-qEcRSpOjERrZISE	
+2087	1	Zum Snooker	DEU	52.6770779	13.5937468		4	Bahnhofspl. 11, 16321 Bernau bei Berlin, Germany	03338 758364	 	ChIJ8ZQqd_KzqUcRYLUzRu0WeaQ	
+2088	1	Snookerverein Oranienburg	DEU	52.75199	13.20269		3	Germendorfer Allee 20, 16515 Oranienburg, Germany	 	 	ChIJE4U78dkGqUcR7AfPs1HtW8c	
+2089	1	Spielothek Club 68	DEU	52.98485	13.33987		1	Dammhaststraße 68, 16792 Zehdenick, Germany	03307 311701	 	ChIJK2icYc0KqUcRvEx8sRQxzUg	
+2090	1	Spielhalle Club no.1 Neuruppin	DEU	52.9289813	12.8112781		1	Karl-Marx-Straße 103, 16816 Neuruppin, Germany	03391 2687	http://www.kulturhaus-neuruppin.de/	ChIJt_Mu8LA9qUcRZxRWZTtiF6U	
+2091	1	Snooker-Tempel NB e. V.	DEU	53.5389033	13.2599681		4	Nonnenhofer Str. 60, 17033 Neubrandenburg, Germany	0395 4213767	 	ChIJk4HmikPDq0cRwVRZNtzUIDA	
+2092	1	Playhaus Prenzlau	DEU	53.32024	13.85693		2	Kietzstraße 20, 17291 Prenzlau, Germany	03984 805027	 	ChIJsdZXp7InqkcRXy4xf0cFyB0	
+2093	1	Spielo Sauzin	DEU	54.03507	13.78481		1	Wolgaster Str. 26, 17440 Sauzin, Germany	03836 200416	 	ChIJlzd1WyoHq0cRFssYWd_eMgo	
+2094	1	Bowling-Center Schwerin KW GmbH	DEU	53.6105199	11.3827029		1	Rogahner Str. 50, 19061 Schwerin, Germany	0385 611111	http://www.bowlingcenter-schwerin.de/	ChIJ6WSdLpjZrUcRMm_cUNGsAOU	
+2095	1	Spielparadies Lenzen	DEU	53.09349	11.4814		1	Berliner Str. 61, 19309 Lenzen (Elbe), Germany	038792 1273	 	ChIJ4eGzNwr2rkcRSxVq9Ue3y9Y	
+2096	1	Spielothek	DEU	50.37272	11.78708		1	Sieggrubenstraße 2, 95180 Berg, Germany	09293 800843	http://www.merkur-spielothek.de/	ChIJ5Qo-prIVoUcRF56qv1T_zQI	
+2097	1	Merkur Spielothek	DEU	53.575229	10.0340694		3	Hamburger Str. 23, 22083 Hamburg, Germany	040 22667560	http://www.merkur-spielothek.de/	ChIJfR-zEMyOsUcR-C3VaUkUY_8	
+2098	1	B7 Billiard Café	DEU	53.4621919	9.983831		2	Küchgarten 21, 21073 Hamburg, Germany	040 71663324	http://www.billards-b7.de/	ChIJmVSf6rqRsUcRIXkrv61Hszk	
+2099	1	Merkur Spielothek	DEU	53.24723	10.40632		2	Grapengießerstraße 44, 21335 Lüneburg, Germany	04131 49191	http://www.merkur-spielothek.de/	ChIJTb48KM_dsUcR3JoK7AKf7Do	
+2100	1	1. PSC Lüneburg e. V.	DEU	53.2491263	10.4230097		3	Pulverweg 6, 21337 Lüneburg, Germany	01520 1440770	http://www.psc-lueneburg.de/	ChIJu1_q6NndsUcRIxBi9L7q_2Q	
+2101	1	alpa bowl STADE	DEU	53.57884	9.49444		2	Rudolf-Diesel-Straße 3, 21684 Stade, Germany	04141 66606	http://www.alpa-bowl.de/	ChIJz7Hm8iB7sUcRNeOD7N_1u0o	
+2102	1	Billard-Cafe TRIO	DEU	53.5827827	10.0795182		9	Holzmühlenstraße 68, 22041 Hamburg, Germany	040 6936064	http://www.trio-hamburg.de/	ChIJA9qhYPuLsUcR7gJM3LbMb5M	
+2103	1	Snookerclub Hamburg e. V.	DEU	53.5885838	10.0553744		10	Bramfelder Str. 102b, 22305 Hamburg, Germany	040 69208308	http://www.snookerclub-hamburg.de/	ChIJWfoqSUSJsUcRVmD3PY-HpwE	
+2104	1	Queue Billard HH-Barmbek	DEU	53.5580418	9.9007097		3	Baurstraße 2, 22605 Hamburg, Germany	040 64567979	http://queuebillard-hamburg.de/	ChIJl6RHVLqFsUcRSd6xbTyO_zI	
+2105	1	Hamburg Flames	DEU	53.7130255	10.0005109		6	Ulzburger Strasse 310, 22846 Norderstedt, Germany	040 32595929	http://www.restaurant-flame.de/	ChIJdcNShComskcRrTZiZb70pD8	
+2106	1	Spielparadies Schenefeld	DEU	53.6021622	9.837433		3	Kiebitzweg 2, 22869 Schenefeld, Germany	040 8391941	 	ChIJsXl321KBsUcRJp6OnGBuVNw	
+2107	1	BC Break Lübeck e. V.	DEU	53.8705769	10.6615971		5	Artlenburger Str. 15, 23556 Lübeck, Germany	0451 47927707	http://www.bcb-luebeck.de/	ChIJiyER2z8MskcRslPjZ5J5-sc	
+2108	1	Dohses Spielcenter	DEU	54.1309241	10.6158742		1	Elisabethstraße 74, 23701 Eutin, Germany	04521 2758	http://www.dohses-spielcenter.de/	ChIJd_F1eo1vskcRfEEQ-G35WLw	
+2109	1	Snookerclub Malente e. V.	DEU	54.1682	10.56357		1	Ringstraße 25, 23714 Malente, Germany	 	 	ChIJ_cgzkNJlskcRvZ-eCGhKIkA	
+2110	1	Green´s	DEU	53.949204	10.305961		1	Esmarchstraße 8, 23795 Bad Segeberg, Germany	04551 993011	http://www.greens-badsegeberg.de/	ChIJt2hPJ8s_skcR9-qQZ4cxf2s	
+2111	1	Spielparadies Gägelow	DEU	53.9009973	11.382616		3	Marktstraße 1, 23968 Gägelow, Germany	03841 643424	 	ChIJ_1REBHu_rUcRWYb2_9BVL9c	
+2112	1	Snookerclub Kiel e. V.	DEU	54.325577	10.084429		7	Wittland 2, 24109 Kiel, Germany	0431 7802910	http://www.scsc-int.com/	ChIJ0d-oL8xVskcR9HXjj3eVQUE	
+2113	1	1. PBC Neumünster e. V.	DEU	54.0718437	9.9833641		3	Hinter der Kirche 3, 24534 Neumünster, Germany	04321 43298	http://dirk-stuehmer.de/	ChIJu3LIcclLskcR5RjZTu30e3k	
+2114	1	Manhatten Spielcenter	DEU	54.4781199	9.54401		1	Thorshammer 2, 24866 Busdorf, Germany	04621 855473	http://www.loewenplay.de/	ChIJ2W_fO0sLs0cRvqntQOPG6m8	
+2115	1	Löwenplay	DEU	54.3293288	9.6233518		1	Schleswiger Chaussee 269-277, 24768 Rendsburg, Germany	06721 1550	http://www.loewenplay.de/	ChIJ_yUnJbGms0cRiSyjsCXzKuU	
+2116	1	1. BU Flensburg (Cafe Kö Flensburg)	DEU	54.7849139	9.430704		1	Rathausstraße 22, 24937 Flensburg, Germany	0461 141000	http://www.sh-landestheater.de/	ChIJmesQlb1Cs0cR2ZaJkd6PD9w	
+2117	1	Flensburger Snooker Club	DEU	54.7819802	9.4429075		3	Sandberg 2, 24937 Flensburg, Germany	0461 27000	http://www.cafekö.de/	ChIJJcOUvJBCs0cRy5q7RisR_C8	
+2118	1	Flora-Bowling Elmshorn	DEU	53.7573476	9.6590531		1	Friedenstraße 5, 25335 Elmshorn, Germany	04121 85556	http://www.rocknbowl.de/	ChIJPb6_ZSHUs0cRZV5qadKETOM	
+2119	1	Rock n Bowl	DEU	53.7472564	9.6915011		1	Hamburger Str. 182, 25337 Elmshorn, Germany	04121 71077	http://www.rocknbowl.de/	ChIJiTp7Y0XUs0cR1n_x7KKhF1M	
+2120	1	P.B.C. The Gamblers Itzehoe	DEU	53.92484	9.50659		4	Leuenkamp 4, 25524 Itzehoe, Germany	04821 7796160	http://www.the-gamblers.de/	ChIJETXlcPbEs0cRCLClk2u6RtQ	
+2121	1	Spiel und Billardsalon Drews	DEU	54.6196009	8.9657382		1	Markt 17, 25821 Bredstedt, Germany	04671 5447	http://www.drewsonline.de/	ChIJix2_g6WEtEcRcApuWYcCKKk	
+2122	1	Snookerclub Niebüll e.V.	DEU	54.7941826	8.8233249		1	Gotteskoogstraße 54, 25899 Niebüll, Germany	04661 2147	 	ChIJb4IHhkCWtEcRCxr-3W6PImM	
+2123	1	"Gaststätte ""Old Pieten"""	DEU	54.9085342	8.3098216		1	Kjeirstraße 1, 25980 Sylt, Germany	04651 7217	 	ChIJJXdyCI7etEcR8g6ImltYn6s	
+2124	1	Richter´s Billard und Dart Center	DEU	53.15291	8.21788		1	Nadorster Str. 87, 26123 Oldenburg, Germany	0441 87484	http://www.billardunddarts.de/	ChIJb386Wf7etkcRD_pULYXz-t4	
+2125	1	Bowling Center Oldenburg	DEU	53.13803	8.2304444		1	Emsstraße 18, 26135 Oldenburg, Germany	0441 52050	http://www.bc-ol.de/	ChIJZ32ITRfftkcR8Qd3XvjLQ-Y	
+2126	1	Billard & Dartsportcenter Shoot - Out	DEU	53.494224	8.021285		2	Berliner Str. 14, 26452 Sande, Germany	 	http://shoot-out-sande.de/	ChIJyzkjnGGNtkcRGAQi7xPEw6U	
+2127	1	Shooters	DEU	53.3812491	7.2097508		1	Auricher Str. 95, 26721 Emden Stadt, Germany	04921 40440	http://www.shooters-emden.de/	ChIJeyqEJ5o5tkcRNRjr5Oj-nP4	
+2128	1	Planet Bowl	DEU	53.08381	7.38727		1	Deverweg 13, 26871 Papenburg, Germany	04961 666671	http://planetbowl.de/papenburg/	ChIJA-Wp-dKzt0cR4c138e_ePDw	
+2129	1	Billard-Casino Queue Ostrhauderfehn	DEU	53.1388	7.61246		1	Hauptstraße 61, 26842 Ostrhauderfehn, Germany	04952 4686	 	ChIJfeLA0jCrt0cRCfjOrGkGv2U	
+2130	1	ESV Nordenham	DEU	53.47441	8.47952		1	Zum Weserstrand 2, 26954 Nordenham, Germany	04731 21071	http://www.esvclubhaus.de/	ChIJZQRf_Cu4tkcR-7zX-5UZ9q8	
+2131	1	Snooker-Saloon	DEU	53.54868	8.57574		3	Gasstraße 14, 27568 Bremerhaven, Germany	 	 	ChIJE6HCVRuxtkcR7ppXo4U0zjI	
+2132	1	Merkur Spielothek	DEU	53.5616773	8.5858343		2	Hafenstraße 175, 27568 Bremerhaven, Germany	0471 57175	http://www.spielothek.de/	ChIJw2wmu628Y0ER_6kfTb3l3Gs	
+2133	1	Hardball-Cafe	DEU	53.04608	8.63496		2	Cramerstraße 183, 27749 Delmenhorst, Germany	04221 13813	http://www.hardball-cafe.de/	ChIJaXn6Rg_VsEcRuGGi0uo-EXY	
+2134	1	Pool & Snooker Society	DEU	53.0468247	8.8188779		3	Kattenturmer Heerstraße 28, 28277 Bremen, Germany	0421 875968	http://www.loungewarmup.de/	ChIJnQCR_B3YsEcRYH0NboZeE0c	
+2135	1	Snooker-Bremen	DEU	53.0468247	8.8188779		2	Kattenturmer Heerstraße 28, 28277 Bremen, Germany	0421 875968	http://www.loungewarmup.de/	ChIJnQCR_B3YsEcRYH0NboZeE0c	
+2136	1	Eightball Cafe	DEU	52.98662	8.78521		2	Seckenhauser Str. 1, 28844 Weyhe, Germany	0421 87858560	 	ChIJ41hfwlHXsEcRbqXKduFDKoA	
+2137	1	Café Interpool	DEU	52.621465	10.0708485		1	Bahnhofstraße 14, 29221 Celle, Germany	05141 485222	 	ChIJIR358lQ9sEcRVADARqpk4RU	
+2138	1	Bowling Center Soltau	DEU	52.988	9.86101		1	Lüneburger Str. 103, 29614 Soltau, Germany	05191 5050	http://www.bowling-center-soltau.de/	ChIJmV5ZSam0sUcRW65KUhkjx8k	
+2139	1	Pool Billard Sport Club Triangel Soltau e.V.	DEU	52.98424	9.829		1	Am Güterbahnhof 8, 29614 Soltau, Germany	05191 71039	http://www.triangel-soltau.de/	ChIJRZwjS0uzsUcRUDjA2pbnMWY	
+2140	1	Playhouse-Spielothek	DEU	52.988761	10.0888477		1	Wilhelm-Bockelmann-Straße 41, 29633 Munster, Germany	05192 88437	http://www.loewenplay.de/	ChIJW8zeTWHLsUcRkNok8KvLK0U	
+2141	1	Playhouse-Spielothek	DEU	52.98894	10.08454		1	Wilhelm-Bockelmann-Straße 41, 29633 Munster, Germany	05192 88437	http://www.loewenplay.de/	ChIJW8zeTWHLsUcRkNok8KvLK0U	
+2142	1	Merkur Spielothek	DEU	52.3775107	9.7326311		1	Goseriede 6, 30159 Hannover, Germany	0511 1318461	http://www.merkur-spielothek.de/	ChIJ89F3yKR0sEcRqPxu3HamhAo	
+2143	1	Piccolis Roadhouse	DEU	52.3800565	9.733278		2	Nikolaistraße 2-4, 30159 Hannover, Germany	0511 7011888	http://www.piccolis-roadhouse.de/	ChIJIXIEZKR0sEcR2Oys9euE3MY	
+2144	1	Break Point	DEU	52.395886	9.7583495		8	Lister Kirchweg 86, 30177 Hannover, Germany	0511 3942208	http://www.breakpoint-hannover.de/	ChIJS0NnqVJzsEcRPMm-FXVej1g	
+2142	1	Merkur Spielothek	DEU	52.3775107	9.7326311		1	Goseriede 6, 30159 Hannover, Germany	0511 1318461	http://www.merkur-spielothek.de/	ChIJ89F3yKR0sEcRqPxu3HamhAo	
+2145	1	Queens-Club	DEU	52.36623	9.86324		3	Lohweg 2, 30559 Hannover, Germany	0511 34008293	http://www.queens-club.de/	ChIJK87aTf0LsEcR8MtxlHuu3wI	
+2146	1	SnooBi	DEU	52.4252513	9.8275495		3	Varrelheidering 1-3, 30659 Hannover, Germany	0511 6151913	http://www.snoobi.de/	ChIJu7MIfwANsEcRnUQvWsXeAMI	
+2147	1	King Play	DEU	52.3703503	9.7562114		1	Marienstraße 91, 30171 Hannover, Germany	0511 853824	 	ChIJYwF-GkwLsEcRZe46wrNIuAI	
+2148	1	Flippothek	DEU	52.16109	9.94933		1	Steuerwalder Str. 22, 31137 Hildesheim, Germany	05121 2063542	http://www.flippothek.de/	ChIJc-vl1_2uukcRs0W53vbPyVY	
+2149	1	Spielothek Freizeitcenter GmbH	DEU	52.1548566	9.9551655		1	Osterstraße 39, 31134 Hildesheim, Germany	05121 204749	 	ChIJq8GxqACvukcRJkwA7vryGQA	
+2150	1	Casino Flippothek Nordstemmen	DEU	52.15871	9.96582		1	Bismarckpl. 10, 31135 Hildesheim, Germany	05121 999659	 	ChIJc-vl1_2uukcRkuM8QyG13TU	
+2151	1	Billard-Cafe Blue Heaven	DEU	52.20998	8.60292		1	Lübbecker Str. 149, 32257 Bünde, Germany	05223 8198004	 	ChIJk1lE0S0QukcR7ySeri9HDgU	
+2152	1	1. Pool Billard Club Minden	DEU	52.2909438	8.9199034		2	Hellingstraße 7-23, 32423 Minden, Germany	0571 3851777	http://www.bowling-minden.de/	ChIJx9_PDqh2ukcR9FUZws5YSxw	
+2153	1	Play & Win	DEU	52.2098959	8.8718729		1	Am Autohof 9, 32457 Porta Westfalica, Germany	05731 1560475	http://www.playandwin-entertainment.de/	ChIJ8-j2txFyukcRLYTB6GkfP6g	
+2154	1	Bowlingcenter New Orleans	DEU	51.7467713	8.7579084		3	Hohenloher Weg 2, 33102 Paderborn, Germany	05251 8781120	http://www.bowlingcenter-new-orleans.de/	ChIJ8RYaz3pMukcRWzNmoXq_guE	
+2155	1	Playothek	DEU	51.6740994	8.3488871		1	Woldemei 19, 59555 Lippstadt, Germany	02941 4508	http://www.10-stars-casino.de/?playothek=true	ChIJYz5Y6VrSu0cRxOdaLjvKXgY	
+2156	1	United Pool	DEU	51.91461	8.37366		4	Georgstraße 6, 33330 Gütersloh, Germany	05241 9090765	http://www.unitedpool.de/	ChIJ1Uuxd-olukcRQCEAonTZaaA	
+2157	1	Interpool	DEU	52.0271705	8.5327581		3	Feilenstraße 31, 33602 Bielefeld, Germany	0521 172803	 	ChIJz_EUvhM9ukcR9Z_3FXfftcg	
+2158	1	Vereinsheim 1. SBC Bielefeld e. V.	DEU	52.00686	8.5927		12	Reichenberger Str. 40, 33605 Bielefeld, Germany	0521 2388490	http://www.snookersport.de/	ChIJHXrbF9M9ukcR8rsUFq4SwPU	
+2159	1	Rainbow Spielothek	DEU	52.00805	8.4269		3	Bielefelder Str. 42, 33803 Steinhagen, Germany	05204 89507	http://www.big-cash.de/	ChIJb1xJSK8jukcREhiHlgRa9Is	
+2160	1	Merkur Spielothek	DEU	51.3170536	9.4924552		2	Rainer-Dierichs-Platz 3, 34117 Kassel, Germany	0561 16668	http://www.merkur-spielothek.de/	ChIJeaFWbEo_u0cRNiyFpD0QqqE	
+2160	1	Merkur Spielothek	DEU	51.3170536	9.4924552		1	Rainer-Dierichs-Platz 3, 34117 Kassel, Germany	0561 16668	http://www.merkur-spielothek.de/	ChIJeaFWbEo_u0cRNiyFpD0QqqE	
+2161	1	Magic Casino	DEU	51.217137	9.4149506		1	Frankfurter Str. 31, 34925 Edermünde, Germany	05665 4079083	http://www.magic-casino.de/	ChIJ1x-Vb7i-cUERpZBp8DoI8Lk	
+2162	1	The Highbreak Snooker-Café	DEU	51.4970925	9.3860472		2	Am Anger 7, 34369 Hofgeismar, Germany	05671 40342	 	ChIJM3zyrsoZu0cRSfQu0vOnmDg	
+2163	1	Spielothek Nr. 1	DEU	51.4899653	9.1397279		1	Paderborner Tor 124, 34414 Warburg, Germany	05641 740115	 	ChIJvdqz22YPu0cRfwoiR7DdLaU	
+2164	1	Game Land Breuna	DEU	51.402473	9.186196		1	Otto-Hahn-Straße 6, 34466 Wolfhagen, Germany	05606 533090	http://www.gameland.eu/	ChIJ1QTW0v4Nu0cRMDkYEQ3Fpkc	
+2165	1	Billardfreunde Marburg	DEU	50.815325	8.769184		2	Elisabethstraße 9, 35037 Marburg, Germany	06421 161869	http://billardfreunde.de/	ChIJoT24pIVivEcRTc7U_Un8TBs	
+2166	1	Bingo Spielothek	DEU	50.80326	8.7772323		3	Bei St. Jost 21, 35039 Marburg, Germany	06421 26746	 	ChIJM63kR4orckERKji1omwOVYE	
+2167	1	Straight Pool	DEU	50.5863035	8.7078915		3	Grünberger Str. 140, 35394 Gießen, Germany	0641 4941350	http://www.billard-giessen.com/	ChIJNW4amKBYvEcRA1mdDiFnDRI	
+2168	1	Big Ben (SC Gießen 1990)	DEU	50.5804427	8.6771313		3	Ludwigstraße 23, 35390 Gießen, Germany	0641 990	http://www.uni-giessen.de/	ChIJgftw8-9YvEcR1MZxENU6--c	
+2169	1	Magic Casino Herborn	DEU	50.6784088	8.2997096		1	Hauptstraße 102, 35745 Herborn, Germany	02772 646056	 	ChIJw3CjKoc_vEcR1vHNiukeiGI	
+2170	1	Merkur Spielothek	DEU	50.5544945	9.7152332		2	Alte Ziegelei 10, 36100 Petersberg, Germany	0661 67926309	http://www.merkur-spielothek.de/	ChIJ2S0cy-82o0cRwixTMjUh23c	
+2171	1	Domino Spielothek	DEU	50.9978843	9.7314083		1	Lessingstraße 2, 36199 Rotenburg an der Fulda, Germany	06623 43320	 	ChIJy9mwODqrpEcRyfavngis2BA	
+2172	1	Merkur Spielothek	DEU	51.54015	9.93294		4	Weender Landstraße 13, 37073 Göttingen, Germany	0551 486507	http://www.merkur-spielothek.de/	ChIJjz6oK8HUpEcR1AEupmwHBtw	
+2173	1	Spieloase Eschwege	DEU	51.1934061	10.0339298		1	Niederhoner Str. 52, 37269 Eschwege, Germany	 	 	ChIJh3I5XsG5pEcRgem-m0PfWj8	
+2174	1	Kleeblatt Billardcafe	DEU	51.3890784	10.3302106		1	Breitenhölzer Str. 2, 37327 Leinefelde-Worbis, Germany	03605 502828	 	ChIJhwszQw_opEcRqANNSbMAZhU	
+2175	1	Kaiser`s Sport & Freizeitcenter	DEU	51.72624	10.25337		1	Auenstraße 8, 37520 Osterode am Harz, Germany	05522 76386	 	ChIJKTnECiMlpUcR329UB4YOgqo	
+2176	1	BowlingCenter	DEU	51.78421	9.39307		1	Zur Lüre 47A, 37671 Höxter, Germany	05271 697869	http://www.fussballarena-hoexter.de/	ChIJbx_co7DlukcRqCT2xC0tJTk	
+2177	1	Billard Sport Braunschweig e.V.	DEU	52.29136	10.59951		2	Am Feuerteich 10, 38104 Braunschweig, Germany	 	http://www.billard-sport-braunschweig.de/	ChIJNdMiMYv0r0cRYep3HGttlVU	
+2178	1	Bowling am Schützenplatz	DEU	52.2823	10.51749		2	Hamburger Str. 50, 38114 Braunschweig, Germany	0531 2321027	http://www.strike24.com/	ChIJzXOOVI_2r0cRv79rZxC_GZw	
+2179	1	PBC Braunschweig	DEU	52.2669672	10.5225916		1	Hagenbrücke 1, 38100 Braunschweig, Germany	0531 28762147	http://www.pbc-braunschweig.de/	ChIJpyQIGx72r0cR0CHjtVsw_-Y	
+2180	1	Bowling-Center Stöckheim	DEU	52.2166393	10.5292149		2	Senefelderstraße 4, 38124 Braunschweig, Germany	0531 610100	http://bowlingcenter-stoeckheim.de/	ChIJFwA0UkFfpUcRkM8kYe-GiqU	
+2181	1	Spielothek LAS VEGAS	DEU	52.3297019	10.6689952		1	Berliner Str. 66, 38165 Lehre, Germany	05308 990154	 	ChIJ-_oT0MqMr0cRaOV1NVjlftM	
+2182	1	Vegas Night	DEU	52.1650895	10.5188433		2	Frankfurter Str. 6, 38304 Wolfenbüttel, Germany	 	http://www.big-cash.de/	ChIJDUUBwZVepUcRF1UG13D6pnE	
+2183	1	Riley Snooker Club Gifhorn e. V.	DEU	52.48886	10.54442		3	Cardenap 2, 38518 Gifhorn, Germany	05371 54949	http://rsc-gifhorn.jimdo.com/	ChIJVXt1uSzvr0cRkB_JSbdpTig	
+2184	1	Spielcenter	DEU	51.91807	10.42225		2	Wittenstraße 1, 38640 Goslar, Germany	05321 304488	 	ChIJf9ZDK75ApUcRqVfYfTE4fQQ	
+2185	1	Löwen Play Casino	DEU	51.94761	10.14054		1	Am Zainer Berg 4, 38723 Seesen, Germany	05384 907006	http://www.loewenplay.de/	ChIJPUEsu0FKpUcRAPxctj9_m-k	
+2186	1	Snookerclub Magdeburg e.V.	DEU	52.113427	11.614477		3	Ackerstraße 29, 39112 Magdeburg, Germany	0170 2805743	http://www.snooker-magdeburg.de/	ChIJ5adbV-v1pUcRGEztlE81zs0	
+2187	1	Spiel-Center	DEU	52.129554	11.638432		2	Allee Center Magdeburg, Ernst-Reuter-Allee 11, 39104 Magdeburg, Germany	0391 5096375	http://www.gamestop.de/	ChIJEy_9q1dfr0cRpiAEjByHA2w	
+2188	1	Cafe Billard-Forum	DEU	51.2244032	6.7953059		2	Kölner Str. 67, 40211 Düsseldorf, Germany	0211 36779672	http://www.billardforumcafe.de/	ChIJX8JQES7KuEcR49VQ7rpT524	
+2189	1	Merkur Spielothek	DEU	51.2279775	6.7890546		1	Am Wehrhahn 17, 40211 Düsseldorf, Germany	0211 364918	http://www.merkur-spielothek.de/	ChIJUzTCwSXKuEcReLvrdHcPtgo	
+2190	1	Billardzentrum Düsseldorf	DEU	51.233068	6.7190874		1	Schiessstraße 3, 40549 Düsseldorf, Germany	0211 503040	http://www.billardzentrum-duesseldorf.de/	ChIJEdMMAty1uEcRlvCC0YefAdY	

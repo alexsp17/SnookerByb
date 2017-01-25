@@ -1,0 +1,11 @@
+﻿{
+    “applinks”: {
+        “apps”: [],
+        “details”: [
+            {
+                “appID”: “ABC-Team-Id.com.my.bundle.id“,
+                “paths”: [ “/”, “*” ]
+            }
+        ]
+    }
+}

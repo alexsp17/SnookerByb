@@ -1,0 +1,44 @@
+﻿@model Awpbs.GameHostWebModel
+@{
+    ViewBag.Title = "Byb Invite";
+    if (BybUrlHelper.IsInIFrame == true)
+    {
+        Layout = "~/Views/Shared/_LayoutIFrame.cshtml";
+    }
+}
+
+@section SocialMetaData
+{
+    <meta property="og:title" content="@ViewBag.Title">
+    <meta property="al:ios:url" content="snookerbyb://invites/@Model.GameHostID">
+    <meta property="al:android:url" content="snookerbyb://invites/@Model.GameHostID">
+    <meta name="apple-itunes-app" content="app-id=1032563817, app-argument=https://snookerbyb.com/invites/@Model.GameHostID">
+}
+
+<h1 class="text-center">Invitation for a Snooker Game</h1>
+
+<div class="container">
+    <div class="row text-center" style="font-size:21px;margin-bottom:20px;margin-top:20px;">
+        <p>
+            Invitation by: 
+            <span><a href="/players/@Model.HostPersonID">@Model.HostPersonName</a></span>
+        </p>
+        <p>
+            On:
+            <span>hidden</span>
+        </p>
+        <p>
+            At:
+            <span><a href="/venues/@Model.VenueID">@Model.VenueName</a></span>
+        </p>
+
+        <p>Open Snooker Byb mobile app to see the rest.</p>
+    </div>
+</div>
+
+<hr />
+
+<div class="container">
+    @Html.Partial("~/Views/Home/_MobileAppsPartial.cshtml")
+</div>
+

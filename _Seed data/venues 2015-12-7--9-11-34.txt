@@ -1,0 +1,136 @@
+ID	Snooker	Name	Country	Latitude	Longitude	10' tables	12' tables	Address	Phone number	Website	POI id
+2191	1	Sport Arena Factory	DEU	51.1960896	6.4189044		1	Wehnerstraße 1, 41068 Mönchengladbach, Germany	02161 837083	http://www.bowlingxxl.de/	ChIJbT8ewmaruEcRF9ln9nUqSeU	
+2192	1	Spielothek	DEU	51.1668326	6.4494923		1	Süd, 41236 Mönchengladbach, Germany	02166 41447	http://www.spielothek.de/	ChIJTTjul-S9cUEROztsYT4sKgA	
+2193	1	Billard Gemeinschaft Dormagen Delrath	DEU	51.1233318	6.7833698		3	Johannesstraße 8, 41542 Dormagen, Germany	 	 	ChIJEQUW6eM0v0cRNqgbDDeSL-I	
+2194	1	contact billard-bistro	DEU	51.2689043	7.1487471		1	Uellendahler Str. 70-72, 42107 Wuppertal, Germany	0202 2750375	http://contact-billard.de/	ChIJfWGrF7vXuEcRwTXTDMHmVmI	
+2195	1	Billard Sport Center Match	DEU	51.2629522	7.1776432		3	Friedrich-Engels-Allee 238, 42285 Wuppertal, Germany	0202 4784222	http://billard-match.de/	ChIJZ7fTutDXuEcRXyUCbV5bprY	
+2196	1	Barmer Billard Freunde 1929 e.V.	DEU	51.25797	7.14305		8	Neumarktstraße 38, 42103 Wuppertal, Germany	0202 4938521	http://www.bsv-wuppertal.de/	ChIJ72AKna3XuEcRKrf3dOY51I8	
+2197	1	Billard-Haus-Solingen	DEU	51.1887085	7.0404868		3	Obenitterstraße 21, 42719 Solingen, Germany	0212 23388033	http://www.billard-haus.de/	ChIJETv6sJDTuEcRMIGP7PUgfS0	
+2198	1	Die Kugel	DEU	51.16702	7.0784		1	Katternberger Str. 24A, 42655 Solingen, Germany	0212 202348	 	ChIJdb-_hOS9cUERc0-hVtIJQQs	
+2199	1	Rack n Roll	DEU	51.180964	7.183931		1	Daniel-Schürmann-Straße 41, 42853 Remscheid, Germany	02191 2093511	http://www.rack-n-roll.de/	ChIJBy4lMm8quUcRnmTMOifipxI	
+2200	1	Crown 77	DEU	51.3743	7.72858		2	Westfalenstraße 77, 58636 Iserlohn, Germany	02371 6620	http://www.durable.de/	ChIJZe_AFm1BuUcRt7HlnLvByv4	
+2201	1	Billard Cafe Tatoo I	DEU	51.5075338	7.4740398		1	Ernst-Mehlich-Straße 13, 44141 Dortmund, Germany	0231 551234	http://www.tatoo-billard-cafe.de/	ChIJ92R8a2cXuUcRThWzAm_XFTY	
+2202	1	1. SC Dortmund	DEU	51.50508	7.405		4	Beratgerstraße 36, 44149 Dortmund, Germany	0176 34517434	http://www.snooker-dortmund.de/	ChIJOSHiIwkZuUcR27Jzx4E5QaA	
+2203	1	Manhattan-Sportsbar	DEU	51.5096015	7.377755		1	Martener Str. 359, 44379 Dortmund, Germany	0231 9416233	http://manhattan-sportsbar-hamm.de/	ChIJSZc45zsZuUcRmNHdWbIsG2Q	
+2204	1	INTERPOOL Dortmund	DEU	51.5096015	7.377755		2	Martener Str. 359, 44379 Dortmund, Germany	0231 9416233	http://manhattan-sportsbar-hamm.de/	ChIJSZc45zsZuUcRmNHdWbIsG2Q	
+2205	1	Impoolsiv	DEU	51.5886394	7.3350922		1	Friedrichstraße 52, 44581 Castrop-Rauxel, Germany	02305 6383580	http://www.impoolsiv.de/	ChIJdY7ZVvocuUcRhHamXDoRtto	
+2206	1	1. Snookerclub Essen e.V. (Snooker´s)	DEU	51.45587	6.98419		6	Haedenkampstraße 71, 45143 Essen, Germany	0201 238395	http://www.snooker-essen.de/	ChIJn4SA35LCuEcRm3VSUOMq2GE	
+2207	1	Snooker Club 147 Essen e. V.	DEU	51.4480364	6.995203		4	Münchener Str. 59, 45145 Essen, Germany	0201 47972759	http://www.snooker147-essen.de/	ChIJ6yHL08PCuEcRut058oeBuqQ	
+2208	1	BC Walkabout	DEU	51.45958	7.07193		11	Hängebank 4, 45307 Essen, Germany	0201 761032	http://www.walkabout-billard.de/	ChIJYaiVgXfduEcRCJN83aAfeGE	
+2209	1	Joes Bowlingcenter (Rhein-Ruhr-Zentrum)	DEU	51.4371854	6.9543675		1	Humboldtring 21, 45472 Mülheim an der Ruhr, Germany	0208 3777977	http://www.joes-superbowling.de/	ChIJc2OGlFPCuEcRLrditdsvUcQ	
+2210	1	Spielstuben	DEU	51.4718841	6.9498476		1	Marktstraße 4, 45355 Essen, Germany	0201 651242	 	ChIJr3lY8HPCuEcRtCMmX0NRUIk	
+2210	1	Spielstuben	DEU	51.4718841	6.9498476		1	Marktstraße 4, 45355 Essen, Germany	0201 651242	 	ChIJr3lY8HPCuEcRtCMmX0NRUIk	
+2211	1	Spieltreff	DEU	51.6921223	7.4670118		1	Kreisstraße 11, 59379 Selm, Germany	02592 23656	 	ChIJ30XS1dMFuUcRonvcW5a1A48	
+2212	1	Merkur Spielothek	DEU	51.49913	7.0077		3	Altenessener Str. 443, 45329 Essen, Germany	0201 355188	http://www.merkur-spielothek.de/	ChIJN-DHS2rouEcRvSV3k-75vVY	
+2213	1	Snooker House	DEU	51.46921	6.84692		1	Marktstraße 7, 46045 Oberhausen, Germany	0208 856448	http://www.snooker-house.de/	ChIJA-ZttTvAuEcRPhVbH-ZZ1ZE	
+2214	1	15reds Snookerakademie	DEU	51.476779	6.834805		5	Ruhrorter Str. 9b, 1. Obergeschoss Hinterhaus, 46049 Oberhausen, Germany	0177 4473800	http://www.15reds.de/	ChIJa2e0ARnAuEcRKAfpJ1A2O90	
+2215	1	Capitol	DEU	51.8385022	6.6365791		4	Moltkestraße 16, 46397 Bocholt, Germany	02871 15525	 	ChIJLUNqkX59uEcRocbuvjxOdlY	
+2216	1	Billardgarage	DEU	51.8295849	6.253282		1	Parkring 1, 46446 Emmerich am Rhein, Germany	02822 5377956	 	ChIJHwzG-4p3x0cRJzpG7NdFUWM	
+2217	1	Soccer Welt Dinslaken	DEU	51.5486854	6.8220473		1	Gabelstraße 33, 46147 Oberhausen, Germany	0208 2997914	http://www.soccerworld-oberhausen.de/	ChIJOZL2AbaUuEcR-wOtNRQArS0	
+2218	1	Doubletouch	DEU	51.44115	6.75441		2	Auf der Höhe 18, 47059 Duisburg, Germany	0203 316219	http://www.doubletouch.de/	ChIJMWWk_wO_uEcRltBR9Hj65BU	
+2219	1	Interpool Moers	DEU	51.4578667	6.6144065		2	Zum Schürmannsgraben 12 A, 47441 Moers, Germany	02841 170888	http://www.interpool-moers.de/	ChIJzyTiJSG9uEcRYL6-VTdyrrM	
+2220	1	Moerser Snookerclub e.V.	DEU	51.45561	6.6667		4	Franz-Haniel-Straße 26, 47443 Moers, Germany	0160 2103997	http://www.moerser-snookerclub.de/	ChIJe8MhdLS9uEcRnIgKRynMeXY	
+2221	1	Billard-Sport-Freunde Goch 1939 e. V.	DEU	51.679984	6.1565522		1	Gartenstraße 9, 47574 Goch, Germany	 	http://www.billard-in-goch.de/	ChIJoY6baTJux0cRnBvI7wyJyfs	
+2222	1	Merkur Spielothek	DEU	51.3289104	6.5599075		1	Hochstraße 60, 47798 Krefeld, Germany	02151 22065	http://www.merkur-spielothek.de/	ChIJiRr54f-vuEcREVxYdhcKLyA	
+2223	1	PBF Krefeld 81 e. V.	DEU	51.3385673	6.5754307		2	Von-Beckerath-Platz 4, 47799 Krefeld, Germany	02151 5162590	http://www.abjoedden.de/	ChIJ3w81zq66uEcRmvbhLhT9qhs	
+2224	1	Bowling Center Bode	DEU	51.3170834	6.5763581		1	Kölner Str. 234, 47805 Krefeld, Germany	02151 314116	http://www.bowlingcenter-krefeld.de/	ChIJZaOm9hCwuEcR-wh6w0xYUhk	
+2225	1	Billard Bistro Pavillon	DEU	51.96078	7.62289		2	Aegidiimarkt 5, 48143 Münster, Germany	0251 519155	http://www.billard-pavillon.de/	ChIJV2xU_sO6uUcRcZ7Q3U56D7Y	
+2226	1	Pool Hall	DEU	51.9499115	7.6341328		3	Hafenstraße 64, 48153 Münster, Germany	0251 2017642	http://www.pool-hall.de/	ChIJLa2byNa6uUcRus1mHY12FKk	
+2227	1	Pool-Point	DEU	51.8785896	8.2193399		2	Hans-Böckler-Straße 29-35, 33442 Herzebrock-Clarholz, Germany	05245 8353200	http://www.tennis-point.de/	ChIJd1H_5-uGuUcRh4bnNS51U5Y	
+2228	1	Billardcafe Litfass	DEU	52.14739	7.33685		1	Leerer Str. 9, 48565 Steinfurt, Germany	02551 919090	 	ChIJt7yoO5M1uEcRdtrFCgbTQmg	
+2229	1	Snooker & Pool-Center Gronau	DEU	52.193814	7.012416		4	Sunderhook 1, 48599 Gronau (Westfalen), Germany	 	http://www.dinklerprinz.com/	ChIJ5dxnbcs_uEcRYnHojKiN6oQ	
+2230	1	Skyline	DEU	52.30206	8.0059301		2	Eversburger Str. 38, 49090 Osnabrück, Germany	0541 9109600	http://www.billardcafe-skyline.de/	ChIJqfOtan3muUcRqVghFzVF-Kw	
+2231	1	Alpha Spielothek Diepholz	DEU	52.60952	8.36989		1	Auf dem Esch 71, 49356 Diepholz, Germany	05441 2822	 	ChIJe_GE7LlNt0cRex_jhz1bKMI	
+2232	1	Triangel Billiard-Pub	DEU	52.2765	7.71608		1	Oberer Markt 5A, 49477 Ibbenbüren, Germany	05451 49306	http://www.pubtriangel.de/	ChIJJR5naDLFuUcRohV492EGhzo	
+2233	1	Billard Palast	DEU	52.4069091	7.9801073		1	Kuhstraße, 49565 Bramsche, Germany	 	 	ChIJLU5MtUjguUcRZ49vjo-gTpc	
+2234	1	Merkur Spielothek	DEU	50.98157	6.84242		1	Venloer Str. 1410, 50829 Köln, Germany	0221 98740582	http://www.merkur-spielothek.de/	ChIJ3bHYK4Iwv0cR0r1Zv3G6XZU	
+2235	1	Billard Cafe Schneider	DEU	50.9438211	6.9422335		1	Kaiser-Wilhelm-Ring 30, 50672 Köln, Germany	0221 125001	http://www.billard-cafe-schneider.de	ChIJh6ybf5g9YkERvHdlkl2d2-E	
+2236	1	Giga-Center	DEU	50.9369153	6.9388924		3	Hohenzollernring 7-11, 50672 Köln, Germany	0221 65026444	http://www.giga-byte.info/	ChIJ51RLNQElv0cRCD2-aZMZWKU	
+2237	1	Kölner-Snooker Club e.V.	DEU	50.951874	6.902806		8	Vogelsanger Str. 284, 50825 Köln, Germany	0221 5461254	http://www.psg-koeln.de/	ChIJUxhGizYlv0cRyxwfVWf0zfE	
+2238	1	Cologne Cue Club	DEU	50.9699376	6.972813		1	Barbarastraße 3-9, 50735 Köln, Germany	0221 16914471	http://www.cologne-cue-club.de/	ChIJSVr3IIolv0cRr1OgpJWv8rw	
+2239	1	West Bowling	DEU	50.939426	6.910121		2	Melatengürtel 21, 50933 Köln, Germany	0221 95424411	http://www.westbowling.de/	ChIJz9TeECQlv0cRUsyXzdpQ0RE	
+2240	1	Dabi	DEU	50.8812269	7.0748554		2	Kaiserstraße 86, 51145 Köln, Germany	02203 295808	 	ChIJT4jIVq0gv0cRdEe8nQYF0JY	
+2241	1	Magic Casino	DEU	50.9170402	7.0502045		1	Lina-Bommer-Weg 5, 51149 Köln, Germany	02203 1031980	http://www.magic-casino.de/	ChIJH8DRgwMnv0cRh1Y3B5LaGxE	
+2242	1	Billard Casino	DEU	50.9584124	7.1705403		1	Overather Str. 56, 51429 Bergisch Gladbach, Germany	02204 911793	http://www.casino-bensberg.de/	ChIJcT4Qy9fZvkcR3P9aap4oEx8	
+2243	1	Billard Center Pool & Blues	DEU	50.98674	7.11354		1	Britanniahütte 10, 51469 Bergisch Gladbach, Germany	02202 459526	http://www.bgbc-blues-brothers.de/	ChIJH9AwiSAov0cRcxMKcCl7T1M	
+2244	1	Billard- und Dart-Sportcenter Table No 1	DEU	50.99507	7.56993		4	Friedrichstaler Str. 39, 51645 Gummersbach, Germany	02261 978346	http://www.table-no1.de/	ChIJre20gT-2vkcRpz0tIxtam14	
+2245	1	Merkur Spielothek	DEU	50.7780476	6.0887682		1	Peterstraße 70, 52062 Aachen, Germany	0241 404630	http://www.merkur-spielothek.de/	ChIJS_z5iWaZwEcRqG83ylF5ZJM	
+2246	1	EBC Eschweiler Billard Center	DEU	50.8172426	6.2882966		1	Königsbenden 24, 52249 Eschweiler, Germany	02403 830068	http://www.eschweiler-billard-center.de/	ChIJ-ROj-PVgv0cRV6JB10e_PQ4	
+2247	1	Billiard Center	DEU	50.76615	7.17531		1	Kölnstraße 4, 53757 Sankt Augustin, Germany	02241 203999	http://www.billardcenter-hangelar.de/	ChIJd_WhSTfnvkcRlcJFGWcvidU	
+2248	1	Billard Arena	DEU	50.7526022	7.0595641		2	Christian-Lassen-Straße 9, 53117 Bonn, Germany	 	 	ChIJpcJUO9ThvkcRoysfoj7URME	
+2249	1	1. Snooker Club Bad Neuenahr-Ahrweiler e.V.	DEU	50.5399404	7.146579		2	Mittelstraße 108, 53474 Bad Neuenahr-Ahrweiler, Germany	02641 25504	http://www.htc-badneuenahr.de/	ChIJ31UXwHz5vkcRwugIlCDKufE	
+2250	1	Billard-Center Andres GmbH	DEU	50.76615	7.17531		7	Kölnstraße 4, 53757 Sankt Augustin, Germany	02241 203999	http://www.billardcenter-hangelar.de/	ChIJd_WhSTfnvkcRlcJFGWcvidU	
+2251	1	SC-Freeball	DEU	50.70328	6.66378		4	Blatzheimer Str. 14, 53909 Zülpich, Germany	 	 	ChIJp1tfSRsTv0cRrwSfkO-Xlt8	
+2252	1	Billard Café Royal	DEU	49.7529838	6.6340054		1	Karl-Marx-Straße 16, 54290 Trier, Germany	0651 73248	 	ChIJOZsg2Zh8lUcRQ8iTy0Q6FRI	
+2253	1	Billard-Centrum-Bogart´s	DEU	50.022008	8.2353882		4	Rheinallee 179, 55120 Mainz, Germany	06131 681605	http://www.bistro-bogarts.de/	ChIJrY9T-GSWvUcRaTUqxIuLG6g	
+2254	1	Phoenixbowling	DEU	49.967673	8.240875		1	Am Schleifweg 15, 55128 Mainz, Germany	06131 9320204	http://www.phoenixbowling.de/	ChIJDUFrjIiVvUcRqL2T9Vjldqk	
+2255	1	1. Pool Snooker Club Rhein-Nahe e.V.	DEU	49.9720141	7.8804018		6	Mäuseturminsel, 55411 Bingen, Germany	 	http://www.bingen.de/tourismus/kulturufer/tor-zum-uneso-welterbe/park-am-maeuseturm/der-binger-maeuseturm	ChIJMcjfBo7lvUcRRaWXuuU2hfg	
+2256	1	Greyhound Billard & Lounge	DEU	49.98374	7.52132		1	Schlossstraße 7, 55469 Simmern (Hunsrück), Germany	06761 9677513	 	ChIJs2muUFIOvkcR1V-wt8mZgbQ	
+2257	1	Blaue Grotte	DEU	49.7427665	7.3956933		1	Staufenbergstraße 4, 55743 Fischbach, Germany	06784 2392	 	ChIJbQa9Fp73lUcRzZoCZC0DXjE	
+2258	1	Magic Palace	DEU	50.38062	7.5757		2	Friedrich-Mohr-Straße 2, 56070 Koblenz, Germany	0261 890592	http://www.magic-casino.de/	ChIJIQTmIzBjvkcRNstl6pVIlOQ	
+2259	1	Billardcenter FAB	DEU	50.35763	7.57496		1	Moselweißer Str. 117, 56073 Koblenz, Germany	01573 9419193	http://billardteam-fab.de/	ChIJKWNRYFJjvkcRtSDIIfPqThI	
+2260	1	Eldorado	DEU	50.4238872	7.5738127		1	Hauptstraße 105, 56170 Bendorf, Germany	02622 3126	http://eldorado-bendorf.de/	ChIJZa7Hv6JivkcRENjdXpD1zaw	
+2261	1	1. Snooker-Club Mayen-Koblenz	DEU	50.3914547	7.6378906			Sebastian-Kneipp-Straße 12, 56179 Vallendar, Germany	0261 6710113	http://www.tennisschule-letzelter.de/	ChIJbwpiPAF9vkcROPRkaheLyac	
+2262	1	Freizeit Zentrum Wirges	DEU	50.4707723	7.7941369		1	Schillerstraße 5, 56422 Wirges, Germany	02602 934672	http://www.wwc-wirges.de/	ChIJuw_0LcSBvkcRpjo5drckbd4	
+2263	1	Spiel-Insel	DEU	50.7669783	7.6766082		1	Marktstraße 1, 57577 Hamm (Sieg), Germany	02682 966728	http://www.vossautomaten.de/	ChIJnR1uUFq9vkcR2umQ4_F4vWU	
+2264	1	Spiel-Station	DEU	50.4336778	7.4250568		1	Koblenzer Str. 88, 56626 Andernach, Germany	02632 308015	 	ChIJU-k1CiNgvkcRh9h_fF3O2iU	
+2265	1	Spiel-Insel	DEU	50.8349089	7.9882561		1	Bühlstraße 2, 57080 Siegen, Germany	0271 3510216	 	ChIJ25wTozEcvEcRQpuH2NGjf2M	
+2266	1	Spiel In	DEU	50.6594651	7.8209622		2	Schwanenpassage, Wilhelmstraße 4, 57627 Hachenburg, Germany	02662 942503	http://www.spiel-in.de/	ChIJf4-lVdOdvkcRJ72oem8n6x4	
+2267	1	Snookerclub Hagen e. V.	DEU	51.3531324	7.4297292		3	Hammerstraße 10C, 58135 Hagen, Germany	02331 941869	http://www.cfc-hagen.de/	ChIJD6g4-E07uUcRT7uqtEj89zE	
+2268	1	"Gaststätte ""Keglerheim"""	DEU	51.32398	7.35005		1	Hagener Str. 78, 58285 Gevelsberg, Germany	02332 913332	http://keglerheim-gevelsberg.de/	ChIJefAFnq0luUcRlm-11ehFoX8	
+2269	1	Clublokal Fabrik	DEU	51.3739077	7.7111482		1	Arnsberger Str. 12, 58636 Iserlohn, Germany	02371 154319	 	ChIJ6fpTXRpBuUcRg21TqSYKub0	
+2270	1	Pirates Billardcafe	DEU	51.371792	7.687374		1	Alexanderhöhe 4, 58644 Iserlohn, Germany	02371 1595153	http://www.billardcafe-pirates.de/	ChIJyzrIWOZAuUcRan27Dl-Qv00	
+2271	1	Bowling bei Bert	DEU	51.6598951	8.3638198		1	Windmüllerstraße 4, 59557 Lippstadt, Germany	02941 283283	http://www.bowling-bei-bert.de/	ChIJ2SU0URPSu0cRq5qORwbE6kA	
+2272	1	Manhattan Sportsbar	DEU	51.5282414	7.6926561		1	Kranenkamp 39, 59423 Unna, Germany	02303 986287	 	ChIJpeo9RrJsuUcRyifYoNVL9lg	
+2273	1	Löwenplay Arnsberg	DEU	51.44454	7.96845		1	Stembergstraße 39, 59755 Arnsberg, Germany	02932 9319826	http://www.loewenplay.de/	ChIJQ7R7MyNnuUcRgmrKgXnv8LM	
+2274	1	Löwenplay Meschede	DEU	51.34699	8.28251		1	Ruhrstraße 9, 59872 Meschede, Germany	0291 59923	http://www.loewenplay.de/	ChIJu9Le0izmu0cRS9s07WHtLsw	
+2275	1	Spielothek Freienohl	DEU	51.45235	7.96302		1	Apothekerstraße 4, 59755 Arnsberg, Germany	02932 940760	 	ChIJY4_8Ax9nuUcRafD7nLI9Ppc	
+2276	1	Merkur Spielothek	DEU	50.1097893	8.6744497		2	Neue Mainzer Str. 24, 60311 Frankfurt am Main, Germany	069 233231	http://www.merkur-spielothek.de/	ChIJGZdqeqkOvUcR4MOeytuTILY	
+2277	1	Merkur Spielothek	DEU	50.1060006	8.6677324		2	Kaiserstraße 63, 60329 Frankfurt am Main, Germany	069 236137	http://www.merkur-spielothek.de/	ChIJizs4u6oOvUcRtC5ovBSm3L0	
+2278	1	Billard Treff Bornheim	DEU	50.1310961	8.7164077		6	Inheidener Str. 67, 60385 Frankfurt am Main, Germany	069 451258	http://www.billard-ffm.de/	ChIJS7qfofEOvUcRtXw8jlbdUJA	
+2279	1	Free & Play	DEU	50.1257759	8.6391143		2	Ginnheimer Str. 14, 60487 Frankfurt am Main, Germany	069 779657	 	ChIJlX4sCGwJvUcREMe1NXT0C2g	
+2280	1	BC Frankfurt 1912	DEU	50.14148	8.75035		2	Borsigallee 45, 60388 Frankfurt am Main, Germany	06109 36780	http://www.bcfrankfurt.de/	ChIJefHDXksOvUcRhkYRPJomVeQ	
+2281	1	Club Rusticana	DEU	50.2948401	8.50453		1	Häuser Weg 15, 61267 Neu-Anspach, Germany	06081 7448	http://www.club-rusticana.de/	ChIJFXTJ5QWsvUcRkQXB2IFdamk	
+2282	1	Empire - Billard - Salon	DEU	50.2232583	8.624291		1	Louisenstraße 123, 61348 Bad Homburg vor der Höhe, Germany	06172 20467	http://empirebadhomburg.de/	ChIJt9aXar0HvUcRM6EJ7QgEBI0	
+2283	1	BSV Bad Homburg e. V.	DEU	50.32882	8.52648		2	Achtzehnmorgenweg 8, 61250 Usingen, Germany	06081 447000	http://www.bsv-bauservice.de/	ChIJBVVu7n6rvUcRoMUmQJM5amY	
+2284	1	Billard Bistro	DEU	50.1062604	8.7672517		1	Schloßstraße 20, 63065 Offenbach am Main, Germany	069 80907400	 	ChIJd6dvFgQOvUcRX_JtNg6v94M	
+2285	1	Billard Bistro Dreieich	DEU	49.9805684	8.7428867		1	Herrenwiesenweg 4, 63303 Dreieich, Germany	06074 61237	 	ChIJx2QwqHltvUcRPoPnem_aOJ4	
+2286	1	Billard Center Steinheim	DEU	50.11732	8.90156		5	Karl-Kirstein-Straße 2, 63456 Hanau, Germany	06181 63942	http://www.billardcentersteinheim.de/	ChIJiXd4ccQWvUcRh77gLHfht_I	
+2287	1	Spielhalle	DEU	50.0752223	8.8559427		2	Königsberger Str. 2, 63179 Obertshausen, Germany	06104 972128	http://www.merkur-spielothek.de/	ChIJG_-Ie_ITvUcRdLL8WqiAWf0	
+2288	1	Gelnhäuser Billardclub 1962	DEU	50.1728979	9.2207941		4	Schützenstraße, 63589 Linsengericht, Germany	06051 73417	http://www.schuetzenverein-geislitz.de/	ChIJTQgh9GElvUcRguBj_jei1_w	
+2289	1	Bowling 2000	DEU	49.9771055	9.1448713		1	Luitpoldstraße 9, 63739 Aschaffenburg, Germany	06021 5822800	http://www.funfabrikbowl.de/	ChIJSUoBzfpHvUcRVJy69L0OgUQ	
+2290	1	E2	DEU	50.0491	9.04774		1	Industriegebiet Süd E 2, E 2, 63755 Alzenau, Germany	06188 9144388	 	ChIJnWXgjcI-vUcRnFYEm0XD6oI	
+2291	1	Max Spielothek	DEU	49.82705	9.54419		1	Max-Braun-Straße 2, 97828 Marktheidenfeld, Germany	0931 15697	 	ChIJBdqjbIa6okcR4ITkj_dimOc	
+2292	1	K-60 Billard Lounge	DEU	49.87911	8.64268		2	Kasinostraße 60, 64293 Darmstadt, Germany	06151 9184488	http://www.k-60.de	ChIJvXJugotwvUcRvTGZtUFurtI	
+2293	1	Merkur Spielothek	DEU	49.96304	8.66995		1	Im Geisbaum 17B, 63329 Egelsbach, Germany	06103 2022886	http://www.merkur-spielothek.de/	ChIJMalekrVzvUcRbuC9zXYWVSM	
+2294	1	Billard-Bistro Chevalier	DEU	49.6527216	8.6370685		1	Darmstädter Str. 95, 64646 Heppenheim (Bergstraße), Germany	06252 77512	 	ChIJQRSoZNTZl0cRKufuSmRdweU	
+2295	1	City Billard GmbH	DEU	50.0786562	8.2328967		1	Dotzheimer Str. 27, 65185 Wiesbaden, Germany	0611 9102640	http://www.billard-club-wiesbaden-2000.de/	ChIJpYRoHHW-vUcRtxGxwNTcr8s	
+2296	1	"Cosmos Bowling, Fun Fabrik"	DEU	50.0485554	8.2307661		2	Hagenauer Str. 9, 65203 Wiesbaden, Germany	0611 601325	http://www.funfabrik.de/	ChIJHyyDqweWvUcRLnKjpuZZP1M	
+2297	1	Vereinsheim 1.SC Breakers Rüsselsheim	DEU	49.9761019	8.4394098		8	Rudolf-Glauber-Weg 8, 65428 Rüsselsheim am Main, Germany	06142 174692	http://www.scbreakers.de/	ChIJCYtmRb6evUcRbSPovy5pTL8	
+2298	1	Billardcenter Mainspitz	DEU	50.0105909	8.4385438		6	Anton-Flettner-Straße 22, 65479 Raunheim, Germany	06142 998398	http://www.billardbistro-mainspitze.de/	ChIJU-gsAjCfvUcRCm-itQXzW-s	
+2299	1	Buchheit Spielothek	DEU	49.2373226	6.9990459		1	Futterstraße 15, 66111 Saarbrücken, Germany	0681 3799346	 	ChIJAZBOE6i2lUcRAYnFlFLTmM0	
+2300	1	Miro	DEU	49.2191207	7.011673		1	Saargemünder Str. 107, 66119 Saarbrücken, Germany	0681 855553	 	ChIJw4db5zu0lUcRIINgy60Wi_s	
+2301	1	Billardcafé Insel	DEU	49.2799716	7.1182713		1	Hobelsstraße 5, 66386 St. Ingbert, Germany	06894 39572	http://www.billard-insel.de/	ChIJrXVkbDjIlUcRFgawdubLy5w	
+2302	1	Billard-Cafe Insel	DEU	49.2799716	7.1182713		1	Hobelsstraße 5, 66386 St. Ingbert, Germany	06894 39572	http://www.billard-insel.de/	ChIJrXVkbDjIlUcRFgawdubLy5w	
+2303	1	Billard Bistro Bexbach	DEU	49.3470707	7.2569892		1	Bahnhofstraße 11, 66450 Bexbach, Germany	06826 9319934	http://www.bistro-billard-bexbach.de/	ChIJZSjavFbElUcRsHOJQhaiZRM	
+2304	1	BSV Bexbach	DEU	49.3560225	7.2553745		4	Frankenholzer Str. 33, 66450 Bexbach, Germany	06826 53227	 	ChIJYRCdkF7ElUcRIN4dWQnwJ7k	
+2305	1	Clubheim PBC Fortuna Bexbach	DEU	49.35381	7.26292		2	Verdistraße 16, 66450 Bexbach, Germany	 	 	ChIJ2UHViFjElUcR7JUuTL_K9hI	
+2306	1	1. Snookerclub Schwalbach	DEU	49.30408	6.81572		4	Hauptstraße 201A, 66773 Schwalbach, Germany	06834 4019498	http://www.sc-schwalbach.de/	ChIJ24HnADmvlUcR3ETPKt23rtQ	
+2307	1	Bowling Hill	DEU	49.511	8.4843		2	Zum Herrenried 16, 68169 Mannheim, Germany	0621 301061	http://www.bowling-hill.de/	ChIJD0PSeXjOl0cRmDwBDqEKvX0	
+2308	1	Billard-Cafe Mundenheim	DEU	49.46176	8.4313		1	Altriper Straße 95, 67065 Ludwigshafen am Rhein, Germany	0621 571714	http://muchachos-ludwigshafen.de/	ChIJ8ctevYjLl0cRDY2UlZtPByk	
+2309	1	1. Snookerclub Rhein-Pfalz e. V.	DEU	49.3333833	8.4431197		2	Am Rübsamenwühl 2, 67346 Speyer, Germany	 	 	ChIJc7b5Y4W2l0cRERq5L-2CDoE	
+2310	1	Bowling-Billard-Center Oneway	DEU	49.33877	8.42855		2	Wormser Landstraße 196, 67346 Speyer, Germany	06232 698936	http://www.oneway-bowling.de/	ChIJkdyRziu0l0cRWlFV5iO5XVg	
+2311	1	Cafe KÖ	DEU	49.322775	8.194332		1	Goethestraße 66, 67435 Neustadt an der Weinstraße, Germany	06327 888	 	ChIJ1xK58klJlkcRkQrmQTo8YR8	
+2312	1	Cafe Pyramide	DEU	49.6278839	8.3525906		1	Am Wolfsgraben 3, 67547 Worms, Germany	06241 34407	 	ChIJlVLaWHoslkcRvlp45UJ9Ra4	
+2313	1	Cafe Alte Schule	DEU	49.79761	8.3436		1	Marktplatz 1, 67583 Guntersblum, Germany	06131 5702578	http://www.aldschul.de/	ChIJ2xqd26aGvUcRxn5X7Y9b5lU	
+2314	1	Merkur Spielothek	DEU	49.4428274	7.7729268		1	Eisenbahnstraße 32, 67655 Kaiserslautern, Germany	0631 73071	http://www.merkur-spielothek.de/	ChIJ6WfJ3McSlkcRlhwgqrJhiiY	
+2315	1	Billard-Cafe Memory	DEU	49.44592	7.76173		1	Mühlstraße 43, 67659 Kaiserslautern, Germany	0631 97690	http://www.billardcafe-memory.de/	ChIJCzI5hrsSlkcREUA_XeBLqMQ	
+2316	1	Billard Sport Zentrum Effet	DEU	49.50651	8.49869		2	Zielstraße 16, 68169 Mannheim, Germany	0621 303662	http://billard-mannheim.de/	ChIJNX_cfmPOl0cR28kXmINs8qA	
+2317	1	Snookerworld Mannheim	DEU	49.50952	8.51984		7	Heppenheimer Str. 23, 68309 Mannheim, Germany	0621 72739377	http://www.snookerworld-mannheim.de/	ChIJ6XC53FrOl0cRiipQa4Qki58	
+2318	1	Snooker Club Heidelberg e.V.	DEU	49.37769	8.58769		2	Scheffelstraße 79, 68723 Schwetzingen, Germany	 	http://snookerclub-heidelberg.de/	ChIJc2KFxIXHl0cR8a6a1cu6fDA	
+2319	1	Billard-World	DEU	49.3864	8.67883		1	Im Bosseldorn 23, 69126 Heidelberg, Germany	06221 372438	http://www.billard-world.de/	ChIJqzjIBMDAl0cReFNWB4dQQ-M	
+2320	1	Billard Sport Center Royal	DEU	49.5492634	8.6713256		1	Karlsberg 10, 69469 Weinheim, Germany	06201 183484	http://billard-sport-royal.de/	ChIJ0edr_D3bl0cRTY7mCZ3a628	
+2321	1	Billard Café 7	DEU	48.7698871	9.1803448		1	Wilhelmstraße 12, 70182 Stuttgart, Germany	0711 232951	http://www.billardcafe7.de/	ChIJJ81wNrPEmUcRIsHF21LOSv0	
+2322	1	Billards-Fellbach	DEU	48.8120784	9.2613929		1	Stuttgarter Str. 106, 70736 Fellbach, Germany	0711 6458888	http://www.billards-fellbach.de/	ChIJjTwTx5TFmUcRmi2_6kdrshY	
+2323	1	Empire Fellbach	DEU	48.8120784	9.2613929		6	Stuttgarter Str. 106, 70736 Fellbach, Germany	0711 6458888	http://www.billards-fellbach.de/	ChIJjTwTx5TFmUcRmi2_6kdrshY	
+2324	1	die Drei	DEU	48.7026343	9.0295709		1	Tilsiter Str. 12, 71065 Sindelfingen, Germany	 	http://www.billiard-diedrei.de/	ChIJOQS-CT7emUcRc_EIVAkcdbo	

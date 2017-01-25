@@ -1,0 +1,103 @@
+﻿@model Awpbs.NewsfeedItemWebModel
+
+<!-- image -->
+<div style="float:left;margin-left:0px;margin-right:20px;width:100px;">
+    @if (Model.ItemType != Awpbs.NewsfeedItemTypeEnum.Score)
+    {
+        <a href="~/players/@Model.AthleteID">
+            <img style="width:100px;height:100px;" src="@Awpbs.ImageUrlHelper.MakeUrlForWebProfile(Model.AthletePicture)" />
+        </a>
+    }
+    else
+    {
+        <span style="width:100px;">.</span>
+    }
+</div>
+
+<div class="newsfeed-item-content" style="float:left;">
+    <!-- date -->
+    <div>
+        <span style="font-size:small">@Model.Time.ToShortDateString()</span>
+    </div>
+
+    <!-- name(s) -->
+    @if (Model.ItemType == Awpbs.NewsfeedItemTypeEnum.Score)
+    {
+        <div>
+            <a class="simple-button" href="@BybUrlHelper.BuildPlayerProfileUrl(Model.AthleteID)">@Model.AthleteName</a>
+            <span class="gray-text">vs.</span>
+            <a class="simple-button" href="@BybUrlHelper.BuildPlayerProfileUrl(Model.Athlete2ID)">@Model.Athlete2Name</a>
+        </div>
+    }
+    else
+    {
+        <div>
+            <a class="simple-button" href="@BybUrlHelper.BuildPlayerProfileUrl(@Model.AthleteID)">@Model.AthleteName</a>
+        </div>
+    }
+
+    <!-- content -->
+    @if (Model.ItemType == Awpbs.NewsfeedItemTypeEnum.Result)
+    {
+        <div>
+            <span>Recorded a break of <strong>@Model.Text</strong></span>
+        </div>
+    }
+    else if (Model.ItemType == Awpbs.NewsfeedItemTypeEnum.Score)
+    {
+        <div>
+            <span>Recorded a score <strong>@Model.Text</strong></span>
+        </div>
+    }
+    else if (Model.ItemType == Awpbs.NewsfeedItemTypeEnum.Post)
+    {
+        <div>
+            <span class="gray-text">Posted "</span><span>@Model.Text</span><span>"</span>
+        </div>
+    }
+    else if (Model.ItemType == Awpbs.NewsfeedItemTypeEnum.GameHost)
+    {
+        <div>
+            <span class="gray-text">Invites to play snooker</span>
+        </div>
+        <div>
+            <span class="gray-text">On </span>
+            @if (Model.TimeOfEventLocal != null)
+            {
+                <span>@Model.TimeOfEventLocal.Value.ToShortDateString() - @Model.TimeOfEventLocal.Value.ToShortTimeString()</span>
+            }
+        </div>
+    }
+    else if (Model.ItemType == Awpbs.NewsfeedItemTypeEnum.NewUser)
+    {
+        <div>
+            <span class="gray-text">New community member</span>
+        </div>
+    }
+
+    <!-- venue -->
+    @if (string.IsNullOrEmpty(Model.VenueName) == false && Model.VenueID > 0)
+    {
+        <p>
+            <span class="gray-text">@@ </span>
+            <a class="simple-button-notbold" href="@BybUrlHelper.BuildVenueProfileUrl(@Model.VenueID)">@Model.VenueName</a>
+        </p>
+    }
+
+</div>
+
+<div style="float:left;">
+    <div>
+        <span>@Model.LikesCount </span><span class="gray-text" style="font-size:small">likes</span>
+    </div>
+    <div>
+        @if (Model.CommentsCount > 0)
+        {
+            <a class="simple-button-red" data-toggle="modal" data-target="#modalDialogComments">@Model.CommentsCount comments</a>
+        }
+        else
+        {
+            <span>@Model.CommentsCount </span><span class="gray-text" style="font-size:small">comments</span>
+        }
+    </div>
+</div>

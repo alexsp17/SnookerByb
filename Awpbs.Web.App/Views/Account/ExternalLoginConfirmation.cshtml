@@ -1,0 +1,33 @@
+﻿@model Awpbs.Web.App.Models.ExternalLoginConfirmationViewModel
+@{
+    ViewBag.Title = "Register";
+}
+<h1>Hi, @Model.Name!</h1>
+
+@using (Html.BeginForm("ExternalLoginConfirmation", "Account", new { ReturnUrl = ViewBag.ReturnUrl }, FormMethod.Post, new { @class = "form-horizontal", role = "form" }))
+{
+    @Html.AntiForgeryToken()
+
+    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+    <p class="text-info">
+        You authenticated with @ViewBag.LoginProvider. Please click "Register" now.
+    </p>
+    <div class="form-group">
+        @Html.HiddenFor(m => m.Email)
+        @*@Html.LabelFor(m => m.Email, new { @class = "col-md-2 control-label" })
+        <div class="col-md-10">
+            @Html.TextBoxFor(m => m.Email, new { @class = "form-control" })
+            @Html.ValidationMessageFor(m => m.Email, "", new { @class = "text-danger" })
+        </div>*@
+    </div>
+    <input type="submit" class="btn btn-default btn-lg" value="Register" />
+    <div class="form-group">
+        <div class="col-md-offset-2 col-md-10">
+            
+        </div>
+    </div>
+}
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

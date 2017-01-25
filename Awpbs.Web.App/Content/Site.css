@@ -1,0 +1,152 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+    font-size:18px;
+}
+
+h1{
+    font-size:40px;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+.navbar {
+    background-color: #252424;/*#3F302E;*/
+}
+
+a {
+    color: #DB1F26;
+}
+
+a:hover {
+    color: #252424;/*#3F302E;*/
+}
+
+.btn-primary {
+    background-color: #DB1F26;
+}
+
+.btn-primary:hover {
+    background-color: #252424;/*#3F302E;*/
+}
+
+.carousel-inner > .item > img {
+    height:600px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 140px;
+    padding-top:20px;
+}
+
+.container-full {
+    padding-left:0;
+    padding-right:0;
+}
+
+@media (max-width: 1024px) {
+    .carousel-inner > .item > img {
+        height: 450px;
+        margin-bottom: 70px;
+    }
+}
+
+footer {
+    background-color: #252424;/*#3F302E;*/
+    color: gray;
+}
+
+.gray-text {
+    color: #939598;
+}
+
+.simple-button {
+    color: black;
+    font-weight: bold;
+}
+
+.simple-button-notbold {
+    color: black;
+    font-weight: normal;
+}
+
+.simple-button-red {
+    font-weight: bold;
+    color: #DB1F26;
+}
+
+
+/*make fonts smaller on mobile*/
+@media (max-width: 568px) {
+    body, .btn, .row {
+        font-size:15px;
+    }
+    h2 {
+        font-size:25px;
+    }
+    h1 {
+        font-size:35px;
+    }
+    
+}
+
+/*format newsfeed*/
+.newsfeed-item {
+    margin-top:20px;
+    margin-bottom:0px;
+    margin-left:0px;
+}
+.newsfeed-item-content {
+    width:350px;
+}
+@media (min-width: 1024px) {
+    .newsfeed-item-content {
+        width:600px;
+    }
+}
+
+/*navbar no collapse*/
+.navbar-collapse.collapse {
+display: block!important;
+}
+.navbar-nav>li, .navbar-nav {
+float: left !important;
+}
+.navbar-nav.navbar-right:last-child {
+margin-right: -15px !important;
+}
+.navbar-right {
+float: right!important;
+}
+
+
+.videoWrapper {
+	position: relative;
+	padding-bottom: 56.25%; /* 16:9 */
+	padding-top: 25px;
+	height: 0;
+}
+.videoWrapper iframe {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}

@@ -1,0 +1,40 @@
+﻿@model Awpbs.Web.App.Models.CommunityModel
+
+@if (Model.Country != null && Model.Country.IsCanada)
+{
+    <hr >
+
+    <div class="row">
+        <div class="col-md-12 text-center">
+            <h3>In partnership with <a href="http://www.snookercanada.ca" target="_blank">Snooker Canada</a></h3>
+            <a href="http://www.snookercanada.ca" target="_blank"><img style="height:150px" src="~/Images/SnookerCanada.jpg" /></a>
+        </div>
+    </div>
+}
+
+@if (Model.Country != null && Model.Country.ThreeLetterCode == "LTU")
+{
+    <hr>
+
+    <div class="row">
+        <div class="col-md-12 text-center">
+            <h3>In partnership with <a href="http://www.lbf.lt/" target="_blank">Lietuvos Biliardo Federacija</a></h3>
+            
+            <a href="http://www.lbf.lt/" target="_blank"><img style="width:350px" src="~/Images/LietuvosBiliardo.png" /></a>
+        </div>
+    </div>
+}
+
+@if (Model.Country != null && Model.Country.IsUSA)
+{
+    <hr>
+
+    <div class="row">
+        <div class="col-md-12 text-center">
+            <h3>We would like to thank <a href="http://www.findsnooker.com">www.findsnooker.com</a> and the people behind the site for their contribution to the U.S. snooker community. Over many years they have managed to collect, verify, and maintain a list of snooker venues in the U.S. Their list helped many snooker players to connect and enjoy the game. Thank you!</h3>
+            <h3>The Snooker Byb's <a href="/about">team</a> is a relative 'newcomer' in the community. We have used findsnooker.com as one of the sources for the list of venues in our database.</h3>
+
+            <h3>Please feel free to contact <a href="/about">us</a> if you have any concerns or interests related to our product or potential partnerships.</h3>
+        </div>
+    </div>
+}

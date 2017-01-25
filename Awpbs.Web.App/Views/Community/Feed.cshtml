@@ -1,0 +1,55 @@
+﻿@model Awpbs.Web.App.Models.CommunityFeedModel
+@{
+    ViewBag.Title = "Snooker community of " + Model.CommunityName2;
+    //ViewBag.Title = "Snooker in " + Model.Country.Name;
+    if (BybUrlHelper.IsInIFrame == true)
+    {
+        Layout = "~/Views/Shared/_LayoutIFrame.cshtml";
+    }
+}
+
+@{ Html.RenderPartial("HeaderPartial", Model); }
+
+<div class="modal fade" id="modalDialogComments" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <h4 class="modal-title" id="myModalLabel">Snooker Byb App</h4>
+            </div>
+            <div class="modal-body">
+                <p>Download Snooker Byb app on your mobile to access comments and other functionality.</p>
+                @Html.Partial("~/Views/Home/_MobileAppsPartial.cshtml")
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="container" >
+    <h2>What's happening:</h2>
+
+    @foreach (var item in Model.Items)
+    {
+        <div class="row newsfeed-item">
+            @{ Html.RenderPartial("NewsfeedItemPartial", item); }
+        </div>
+    }
+
+    @if (Model.Items.Count == 0)
+    {
+        <p>Download Snooker Byb on your mobile to find <strong>amateur snooker players</strong> in @Model.Country.Name and in your city. Invite them for a snooker match, schedule games.</p>
+    }
+</div>
+
+<hr />
+
+<div class="container">
+    @Html.Partial("~/Views/Home/_MobileAppsPartial.cshtml")
+</div>
+
+<div class="container">
+    @{ Html.RenderPartial("Partners", Model); }
+</div>

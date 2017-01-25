@@ -1,0 +1,160 @@
+﻿@model Awpbs.Web.App.Models.HomeViewModel
+
+@{
+    ViewBag.Title = "Snooker Byb - Where people connect around the game of snooker";
+}
+
+@section SocialMetaData
+{
+<meta property="og:title" content="Snooker Byb – Where people connect around the game of snooker." />
+<meta property="og:description" content="Snooker scoreboard. Keep track of your breaks and scores. Find places to play. Connect with other players. Schedule games." />
+<meta property="og:type" content="article" />
+<meta property="og:image" content="http://www.snookerbyb.com/images/snooker-byb-screens-1.png" />
+<!-- documentation: https://developers.facebook.com/docs/sharing/webmasters#markup-->
+}
+
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="~/content/bootstrap-social.css" />
+
+<div id="myCarousel" class="carousel slide" data-ride="carousel" data-interval="2500">
+    <ol class="carousel-indicators">
+        <li data-target="#myCarousel" data-slide-to="0" class="active"></li> 
+        <li data-target="#myCarousel" data-slide-to="1"></li>
+        <li data-target="#myCarousel" data-slide-to="2"></li>
+        <li data-target="#myCarousel" data-slide-to="3"></li>
+        <li data-target="#myCarousel" data-slide-to="4"></li>
+    </ol>
+    <div class="carousel-inner" role="listbox">
+        <div class="item active" style="background-color:#252424;">
+            <img src="~/images/screen-feed.png">
+            <div class="container">
+                <div class="carousel-caption">
+                    <h2>Building a snooker community</h2>
+                </div>
+            </div>
+        </div>
+        <div class="item" style="background-color:#252424;">
+            <img src="~/images/screen-invite.png">
+            <div class="container">
+                <div class="carousel-caption">
+                    <h2>Find and schedule snooker games</h2>
+                </div>
+            </div>
+        </div>
+        <div class="item" style="background-color:#252424;">
+            <img src="~/images/screen-break.png">
+            <div class="container">
+                <div class="carousel-caption">
+                    <h2>Keep track of your scores and breaks</h2>
+                </div>
+            </div>
+        </div>
+        <div class="item" style="background-color:#252424;">
+            <img src="~/images/screen-venues.png">
+            <div class="container">
+                <div class="carousel-caption">
+                    <h2>Find places to play</h2>
+                </div>
+            </div>
+        </div>
+        <div class="item" style="background-color:#252424;">
+            <img src="~/images/screen-find-people.png">
+            <div class="container">
+                <div class="carousel-caption">
+                    <h2>Connect with other players</h2>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<hr>
+
+<div class="text-center">
+    <h1>@Awpbs.Web.Config.ProductName</h1>
+    
+    <p>Keep track of your breaks and scores</p>
+    <p>Find places to play</p>
+    <p>Connect with other players</p>
+    <p>Schedule games</p>
+    
+</div>
+
+<div class="container" style="background-color:transparent">
+    <div class="row text-center" style="margin-top:20px;margin-bottom:20px">
+        <a class="btn btn-primary" href="~/usa">USA</a>
+        <a class="btn btn-primary" href="~/canada">Canada</a>
+        <a class="btn btn-primary" href="~/lietuva">Lietuva</a>
+        <a class="btn btn-primary" href="~/gbr">UK</a>
+        <br/>
+        <div class="btn-group" style="margin-left:15px;margin-top:10px;">
+            <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                Another country <span class="caret"></span>
+            </button>
+            <ul class="dropdown-menu">
+                @foreach (var country in Awpbs.Country.ListWithoutImportance0)
+                {
+                    <li><a href="~/@country.UrlName">@country.Name</a></li>
+                }
+            </ul>
+        </div>
+    </div>
+    <div class="row text-center">
+        <p>Where people connect around the game of snooker.</p>
+    </div>
+</div>
+
+<hr>
+
+<div class="container" style="background-color:transparent">
+    @Html.Partial("_MobileAppsPartial")
+</div>
+
+<hr>
+
+<div class="container text-center" style="background-color:transparent">
+    <div class="row text-center" style="margin-bottom:20px">
+        <h1>Scoreboard</h1>
+        <p>Snooker Byb app includes an easy to use snooker scoreboard. <a href="/scoreboard">Read more...</a></p>
+        <img class="img-responsive" style="padding-left:100px;padding-right:100px;" src="~/Images/scoreboard.png" alt="Snooker scoreboard - Snooker Byb" />
+    </div>
+</div>
+
+<hr>
+
+<div class="container text-center" style="background-color:transparent">
+    <div class="row">
+        @Html.Partial("_MessageFromTheTeam")
+        <p>@Html.ActionLink("The Team", "About")</p>
+
+        <div class="addthis_sharing_toolbox"></div>
+    </div>
+</div>
+
+    @*<div class="text-center">
+            <h1>Sign up for free</h1>
+
+            <p>
+                <button id="buttonFacebook" class="btn btn-lg btn-facebook" style="margin:10px">Sign up with Facebook</button>
+                <a id="buttonSignup" class="btn btn-lg btn-default" style="margin:10px">Sign up with email</a>
+                <a id="buttonLogin" class="btn btn-lg btn-default" style="margin:10px">Log in</a>
+            </p>
+
+            <p>Snooker Byb team: please use iPhone or Android applications for now. Web functions are coming soon.</p>
+        </div>
+
+        @section Scripts {
+            <script>
+            $(document).ready(function () {
+                $('#buttonFacebook').click(function () {
+                    alert('Snooker Byb team: Web app functions are coming soon. Please use mobile applications for now.');
+                });
+                $('#buttonSignup').click(function () {
+                    alert('Snooker Byb team: Web app functions are coming soon. Please use mobile applications for now.');
+                });
+                $('#buttonLogin').click(function () {
+                    alert('Snooker Byb team: Web app functions are coming soon. Please use mobile applications for now.');
+                });
+            });
+            </script>
+        }*@

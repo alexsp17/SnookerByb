@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <HasSharedItems>true</HasSharedItems>
+    <SharedGUID>325ec0a0-06cb-4e8f-86b3-ac44b625ffb6</SharedGUID>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration">
+    <Import_RootNamespace>Awpbs.Common2</Import_RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="$(MSBuildThisFileDirectory)Country.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Crypto.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Distance.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Entities\Athlete.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Entities\GameHosts.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Entities\Friendship.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Entities\Metro.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Entities\DeviceToken.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Entities\Comment.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Entities\Post.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Entities\DeviceInfo.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Entities\PushNotification.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Entities\Quote.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Entities\Result.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Entities\ResultType.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Entities\Score.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Entities\Sport.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Entities\Venue.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Entities\VenueEdit.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Enums.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)EnumsSnooker.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Helpers\AccessPin.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Helpers\AgeHelper.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Helpers\DateValidator.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Helpers\EmailAddressHelper.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Helpers\ImageUrlHelper.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Helpers\LoginHelper.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Helpers\NameAbbreviationHelper.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Helpers\PhoneNumberHelper.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Helpers\TraceHelper.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Helpers\_ResultsComparer.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Helpers\_TimeHelper.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Helpers\_TimeValidator.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Location.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)PushNotificationMessage.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Snooker\SnookerBreak.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Snooker\SnookerFrameAnalyzer.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Snooker\SnookerFrameScore.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Snooker\SnookerMatchMetadata.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Snooker\SnookerMatchScore.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Snooker\SnookerOpponent.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Snooker\SnookerVenuePlayed.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)SportsAndResultTypesRepository.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)HourAndMinute.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Versions.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)WebModels\DeviceInfoWebModel.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)WebModels\BybApiAboutWebModel.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)WebModels\FriendRequestWebModel.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)WebModels\GameHostWebModels.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)WebModels\MetroWebModel.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)WebModels\Newsfeed.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)WebModels\PersonWebModels.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)WebModels\POIWebModel.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)WebModels\PushNotificationsWebModels.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)WebModels\RegisterWebModel.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)WebModels\ResultWebModel.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)WebModels\VenueEditWebModel.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)WebModels\VenueWebModel.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)WebModels\FindVenuesWebModel.cs" />
+  </ItemGroup>
+</Project>

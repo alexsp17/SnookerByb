@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:facebook="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#FFF">
+    <com.facebook.login.widget.LoginButton
+        android:id="@+id/theLoginButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="70dp"
+        android:layout_gravity="center_horizontal"
+        facebook:com_facebook_confirm_logout="false"
+        facebook:com_facebook_tooltip_mode="never_display" />
+    <com.facebook.login.widget.ProfilePictureView
+        android:id="@+id/profilePicture"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center_horizontal"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        facebook:com_facebook_preset_size="normal" />
+    <TextView
+        android:id="@+id/greeting"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_gravity="center_horizontal"
+        android:textColor="#333"
+        android:textSize="18sp" />
+    <LinearLayout
+        android:id="@+id/fbCancelOkLinear"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:gravity="center"
+        android:orientation="horizontal">
+        <Button
+            android:id="@+id/CancelButtonFb"
+            android:layout_width="0px"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@color/primaryDark"
+            android:layout_gravity="bottom"
+            android:gravity="center"
+            android:layout_marginRight="1dp"
+            android:text="Cancel" />
+        <Button
+            android:id="@+id/thisIsMeButton"
+            android:layout_width="0px"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@color/byb_button_red"
+            android:layout_gravity="bottom"
+            android:gravity="center"
+            android:layout_marginLeft="1dp"
+            android:text="Yep, this is Me!" />
+    </LinearLayout>
+</LinearLayout>

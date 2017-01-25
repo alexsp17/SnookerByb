@@ -1,0 +1,48 @@
+ID	Snooker	Name	Country	Latitude	Longitude	10' tables	12' tables	Address	Phone number	Website	POI id
+2013	1	Grüner Salon	DEU	51.0703112	13.7472913		1	Eschenstraße 11, 01097 Dresden, Germany	0351 8021229	 	ChIJAY-athfPCUcRmb3H1CGICKI	
+2014	1	Xanadu	DEU	51.07893	13.70986		2	Herbststraße 13, 01139 Dresden, Germany	0351 8480733	http://www.facebook.de/xanadudresden	ChIJzXrt2q_PCUcRbQSib2Wbe8U	
+2015	1	Pool Billardtreffpunkt	DEU	51.0378722	13.8030004		9	Kipsdorfer Str. 100, 01277 Dresden, Germany	0351 3179270	http://www.billardparadies.de/dresden/	ChIJbwiXa5zICUcRDkLBGVXn9eI	
+2016	1	SAX-MAX Snooker e.V. Dresden	DEU	51.02875	13.798516		3	Bodenbacher Str. 81, 01277 Dresden, Germany	0176 22094324	http://www.sax-max.de/	ChIJff-9JSTGCUcR-xSj5ZgRIxw	
+2017	1	Fitness- und Sonnenstudio Neustadt	DEU	51.0236392	14.2134443		2	Bahnhofstraße 29, 01844 Neustadt in Sachsen, Germany	03596 501807	 	ChIJfcbhowiQcUERvA44qTYCMfM	
+2018	1	Bowling Center - Billard Garage	DEU	51.18174	14.42932		1	Steinstraße 9, 02625 Bautzen, Germany	03591 600250	http://www.billardgarage.de/	ChIJBS8RRI9VCEcR07Y3c8FFfw8	
+2019	1	Bowlingtreff Neugersdorf	DEU	50.9760416	14.6164209		1	Am Beerberg 24, 02727 Neugersdorf, Germany	03586 32331	http://www.bowlingtreff.de.tl/	ChIJYZXyVB0bCUcRMF5ZpdTQJUk	
+2020	1	Bowling- Bar	DEU	50.90049	14.7977336		1	Rathenaustraße 15, 02763 Zittau, Germany	03583 794737	http://www.bowlingbar.de/	ChIJAcQck0g9CUcRm9AQzNNwoLU	
+2021	1	Gaststätte	DEU	51.2302	14.8949998		1	Str. der Einheit 13, 02923 Kodersdorf, Germany	035825 5269	http://www.gerichtskretscham-kodersdorf.de/	ChIJPcQAV9LnCEcRsLISO0n4tAo	
+2022	1	Jetlag	DEU	51.61521	14.59631		1	Forster Str. 85, 03159 Döbern, Germany	035600 239733	http://www.jetlag-reisen.de/	ChIJmScKKixjCEcRG17pVcXRjdI	
+2023	1	Freizeitoase am Amtsteich	DEU	51.7593629	14.3407509		2	An der Wachsbleiche 2, 03046 Cottbus, Germany	0355 3817077	http://www.freizeitoase.com/	ChIJlWeraGp0CEcRn6AjkqD85F4	
+2024	1	1. Cottbuser Snookerclub	DEU	51.7583692	14.3265878		2	Wernerstraße 9, 03046 Cottbus, Germany	0355 7296295	 	ChIJ2W1jW2Z0CEcRX6esFF2A3jY	
+2025	1	Snookerschänke	DEU	51.72515	14.33602		1	Uhlandstraße 10, 03050 Cottbus, Germany	0355 4309582	http://www.snookerschaenke.de/	ChIJu1XDmu5zCEcRxZALi29XfgM	
+2026	1	Spielbörse Forster Straße	DEU	51.93152	14.70085		1	Forster Str. 64, 03172 Guben, Germany	03561 433070	 	ChIJw-XtpfLRB0cR4n8fyvp7esA	
+2027	1	B 69	DEU	51.3555239	12.3913509		3	Berliner Str. 69, 04129 Leipzig, Germany	0341 9097950	http://www.b69le.de/	ChIJFd6BlQ_4pkcRwIw8Ov7b9xQ	
+2028	1	Starlight Bowling Leipzig	DEU	51.3189394	12.3182561		1	Diezmannstraße 5, 04207 Leipzig, Germany	0341 4155555	http://www.starlight-bowling.de/	ChIJq05iKxD3pkcRnb6do5EI5Jo	
+2029	1	Billard Akademie Leipzig e. V.	DEU	51.280309	12.3125436		5	Fortunabadstraße 17, 04249 Leipzig, Germany	 	 	ChIJ_S5yLrbwpkcRdLgmwncrlvo	
+2030	1	BiBaBo - Die Billardkneipe	DEU	51.32736	12.3222		1	Engertstraße 36, 04229 Leipzig, Germany	0341 4773350	http://www.bibabo.de/	ChIJ2ZzBrQn3pkcRWcg7WO3MH2Q	
+2031	1	Pool 2000 Leipzig	DEU	51.322446	12.3379646		8	Erich-Zeigner-Allee 64, 04229 Leipzig, Germany	 	http://www.pool2000ev.de/	ChIJYUF5QXT3pkcRBR2h4U0wKCE	
+2032	1	Bowlingbahn Markkleeberg	DEU	51.2702	12.37096		1	Städtelner Str. 80, 04416 Markkleeberg, Germany	0341 3582340	http://www.bowlingcenter.de/	ChIJn-mLxjz6pkcRlfEKwJYKVDQ	
+2033	1	Gasthof Mölbis	DEU	51.189686	12.4750835		1	Str. des Friedens 27, 04579 Espenhain, Germany	034347 50207	http://www.gasthof-moelbis.de/	ChIJXci4_Tr9pkcRZNdKhUvXAUA	
+2034	1	Spielparadies Brandis	DEU	51.3339481	12.6142116		1	Braustraße 34A, 04821 Brandis, Germany	034292 75131	 	ChIJQ8wWkgUAp0cR6I2RoxNA_jw	
+2035	1	Fun-City	DEU	51.47588	11.96236		1	Glauchaer Str. 26, 06110 Halle (Saale), Germany	 	 	ChIJocwh_EpjpkcR9BxtNxvKFWg	
+2036	1	1. Billardclub Halle (Saale) e.V.	DEU	51.401973	12.2486432		2	Dahlienweg 29, 04435 Schkeuditz, Germany	 	 	ChIJo3g9exVfpkcR1g-bZ1-_eyU	
+2037	1	TOP Spielothek	DEU	51.7484668	11.4584853		1	Eislebener Str. 6, 06449 Aschersleben, Germany	03473 914733	 	ChIJCfq0pBLBpUcRv9qW4wHOmLo	
+2038	1	Play Fun Spielothek	DEU	51.7920562	11.141448		1	Breite Str. 39, 06484 Quedlinburg, Germany	0175 4080372	 	ChIJDaFcwteipUcRTTM7zMk8n_E	
+2039	1	Spiel-In	DEU	51.1508888	11.8220255		1	Rosa-Luxemburg-Straße 24, 06618 Naumburg (Saale), Germany	03445 703200	http://www.spiel-in.de/	ChIJ8fmpDV-XpkcRg2XsLLMvTzs	
+2040	1	Spiel-In Gera Südbahnhof	DEU	50.87048	12.07833		1	Sachsenpl. 1, 07545 Gera, Germany	0365 8001710	http://www.spiel-in.de/	ChIJtXGvnmvPpkcRa7t-AAIDtts	
+2041	1	Snooker Billard Bar Jena	DEU	50.92909	11.59873		1	Carl-Born-Straße 19, 07749 Jena, Germany	03641 446747	 	ChIJjWndTK6opkcRn843wBce4SI	
+2042	1	Billiard Oase Zwickau	DEU	50.7312808	12.4471578		1	Werdauer Str. 162, 08060 Zwickau, Germany	0375 5609650	http://www.paradise-island-zwickau.de/	ChIJESxypXksp0cRQ2konhsvzfg	
+2043	1	Spielcenter EL DORADO	DEU	50.7264843	12.4934171		2	Leipziger Str. 45, 08056 Zwickau, Germany	01512 6585637	 	ChIJMchvOVIsp0cRWCDYcPTyjvg	
+2044	1	Tommy´s Sportbar	DEU	50.6907453	12.4631635		1	Neuplanitzer Str. 94, 08062 Zwickau, Germany	0375 7788411	 	ChIJlZDDuMUsp0cRRs4TAFsGN0s	
+2045	1	Spielpark	DEU	50.6175423	12.2990016		1	Burgstraße 22, 08468 Reichenbach im Vogtland, Germany	03765 15981	 	ChIJ8feZjubVoEcRdLrtvUmw-JQ	
+2046	1	Number One Freizeitcentrum	DEU	50.4941781	12.1369767		2	Oberer Steinweg 10, 08523 Plauen, Germany	03741 147140	http://www.number-one-freizeitcenter.de/	ChIJA2W8M40moUcRMWsXfEezLog	
+2047	1	Nummer 4 Billard-Pub	DEU	50.4952716	12.1375573		1	Klosterstraße 4, 08523 Plauen, Germany	03741 130129	http://www.nr4.de/	ChIJ64IMLI0moUcRgkQS_026oYE	
+2048	1	Treff As	DEU	50.4972809	12.1384699		1	Rädelstraße 12, 08523 Plauen, Germany	03741 203600	http://www.billard-plauen.de/	ChIJo1Z9O_MmoUcRtLHaEYKQdbE	
+2049	1	Dr. Bier	DEU	50.4175985	12.1758073		1	Dr.-Friedrichs-Straße 11, 08606 Oelsnitz/Vogtland, Germany	037421 23491	 	ChIJD4dsDIggoUcRDGlgNgUH4-Y	
+2050	1	Billardsalon Donath	DEU	50.8349815	12.8915054		1	Erzbergerstraße 2, 09116 Chemnitz, Germany	0371 305528	http://www.billardsalon-donath.de/	ChIJYxWila1Hp0cR_PAKTsj03MQ	
+2051	1	Café Moskau	DEU	50.8370831	12.925973		1	Str. der Nationen 56, 09111 Chemnitz, Germany	0371 6761003	http://www.cafemoskau-chemnitz.de/	ChIJtSmNwV9Gp0cRARuw-WpwTxg	
+2052	1	1. BC Chemnitz 1952 e. V.	DEU	50.82951	12.94654		1	Bernhardstraße 68, 09126 Chemnitz, Germany	0371 5265293	http://www.cbc.sachsen-billard.de/ueber-uns.html	ChIJJfsKY3lGp0cR35KNXKsggDo	
+2053	1	Snookerclub Limbach/Oberfrohna	DEU	50.8604443	12.7652797		2	Anna-Esche-Gäßchen, 09212 Limbach-Oberfrohna, Germany	03722 87264	http://www.limbach-oberfrohna.de/limbach/content/23/290402115757.asp	ChIJ9xpjPgs5p0cRm_12S7J7sEA	
+2054	1	"Spielothek ""EL DORADO"""	DEU	50.7264843	12.4934171		1	Leipziger Str. 45, 08056 Zwickau, Germany	01512 6585637	 	ChIJMchvOVIsp0cRWCDYcPTyjvg	
+2055	1	Billardcafé & Kampfsportschule Dittersdorf	DEU	50.74958	12.99126		3	Dittersdorfer Str. 30, 09439 Amtsberg, Germany	037209 4238	http://www.bc-dittersdorf.de/	ChIJe3oN9rJPp0cROgzi8glZIts	
+2056	1	Snooker-Club	DEU	50.5795533	13.0009584		1	Karlspl. 4, 09456 Annaberg-Buchholz, Germany	03733 26722	 	ChIJvy7dHAetoEcRFR_QRQ_JMkY	
+2057	1	New Strike	DEU	50.90783	13.31788		1	Chemnitzer Str. 133, 09599 Freiberg, Germany	 	 	ChIJyUraA-lfp0cRF24caizW3qA	
+2058	1	Club Lange	DEU	50.91223	13.3452		1	Lange Str. 27, 09599 Freiberg, Germany	03731 4799931	http://www.fg-irish-sc.de/	ChIJARNfbP5fp0cRa7HHEI7FFe8	
+2059	1	Billard-Pub PIPSY	DEU	50.9510069	13.0744768		1	Chemnitzer Str. 67, 09661 Hainichen , Sachs, Germany	037207 51604	 	ChIJNQ8wRCpop0cR7oPXc3Y0QiA	

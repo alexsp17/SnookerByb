@@ -1,0 +1,87 @@
+﻿@model Awpbs.PersonFullWebModel
+
+@{
+    ViewBag.Title = Model.Name;
+    if (BybUrlHelper.IsInIFrame == true)
+    {
+        Layout = "~/Views/Shared/_LayoutIFrame.cshtml";
+    }
+
+    string strBestBreak = "-";
+    string strBestFrameScore = "-";
+    string strContributions = "-";
+    if (ViewBag.BestResultID > 0)
+    {
+        strBestBreak = Model.SnookerStats.BestPoints.ToString();
+    }
+    if (Model.SnookerStats.BestFrameScore > 0)
+    {
+        strBestFrameScore = Model.SnookerStats.BestFrameScore.ToString();
+    }
+    if (Model.SnookerStats.CountContributions > 0)
+    {
+        strContributions = Model.SnookerStats.CountContributions.ToString();
+    }
+}
+
+@section SocialMetaData
+{
+<meta property="og:title" content="@ViewBag.Title">
+<meta property="og:description" content="Best break: @strBestBreak, Max frame: @strBestFrameScore, Contributions: @strContributions">
+<meta property="og:type" content="profile">
+<meta property="og:image" content="@Model.Picture">
+<meta property="al:ios:url" content="snookerbyb://athlete/@Model.ID">
+<meta property="al:android:url" content="snookerbyb://athlete/@Model.ID">
+<meta name="apple-itunes-app" content="app-id=1032563817, app-argument=https://snookerbyb.com/players/@Model.ID">
+}
+
+<div class="container text-center">
+    <div class="row">
+        <h1>@Model.Name</h1>
+        <div class="caption">
+            <p>@Model.Metro</p>
+        </div>
+        <p>
+            <img src="@Awpbs.ImageUrlHelper.MakeUrlForWebProfile(Model.Picture)" alt="@Model.Name" style="width:150px;height:150px">
+        </p>
+
+        <div>
+            <p>
+            Best break: 
+            @if (ViewBag.BestResultID > 0)
+            {
+                <a href="/Players/Break/@ViewBag.BestResultID" style="font-weight:bold">@strBestBreak</a>
+            }
+            else
+            {
+                <strong>-</strong>
+            }
+            , Max frame: <strong>@strBestFrameScore</strong>
+            , Contributions: <strong>@strContributions</strong></p>
+        </div>
+
+        <div class="container text-center" style="margin-top:10px;margin-bottom:10px;">
+            <div class="addthis_sharing_toolbox"></div>
+        </div>
+
+        <div class="caption">
+            <p>Download Snooker Byb on your mobile to see full profile of this player or invite him/her for a game of snooker.</p>
+        </div>
+    </div>
+</div>
+
+<hr />
+
+<div class="container">
+    @Html.Partial("~/Views/Home/_MobileAppsPartial.cshtml")
+</div>
+
+<hr />
+
+<div class="container text-center">
+    <div class="row">
+        <h1>Example player profile in the app</h1>
+        <img src="~/Images/screengrab1.png" style="width:400px" />
+    </div>
+    
+</div>

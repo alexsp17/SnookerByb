@@ -1,0 +1,311 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{A28EF21B-6C08-489A-AB27-2651670FAC93}</ProjectGuid>
+    <ProjectTypeGuids>{EFBA0AD7-5A72-4C68-AF49-83D382785DCF};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Awpbs.Mobile.Droid</RootNamespace>
+    <AssemblyName>Awpbs.Mobile.Droid</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <AndroidApplication>true</AndroidApplication>
+    <MonoAndroidResourcePrefix>Resources</MonoAndroidResourcePrefix>
+    <AndroidResgenFile>Resources\Resource.Designer.cs</AndroidResgenFile>
+    <AndroidResgenClass>Resource</AndroidResgenClass>
+    <GenerateSerializationAssemblies>Off</GenerateSerializationAssemblies>
+    <AndroidManifest>Properties\AndroidManifest.xml</AndroidManifest>
+    <AndroidUseLatestPlatformSdk>True</AndroidUseLatestPlatformSdk>
+    <MandroidI18n />
+    <JavaMaximumHeapSize>
+    </JavaMaximumHeapSize>
+    <NuGetPackageImportStamp>813d484d</NuGetPackageImportStamp>
+    <TargetFrameworkVersion>v6.0</TargetFrameworkVersion>
+    <AndroidSupportedAbis>armeabi;armeabi-v7a;x86</AndroidSupportedAbis>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>True</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AndroidLinkMode>Full</AndroidLinkMode>
+    <EmbedAssembliesIntoApk>False</EmbedAssembliesIntoApk>
+    <Debugger>Xamarin</Debugger>
+    <DevInstrumentationEnabled>True</DevInstrumentationEnabled>
+    <JavaMaximumHeapSize>1G</JavaMaximumHeapSize>
+    <AndroidEnableMultiDex>True</AndroidEnableMultiDex>
+    <AndroidSigningKeyStore>C:\Awpbs6\_Android keys\Snooker Byb Android Certificate - Debug.keystore</AndroidSigningKeyStore>
+    <AndroidSigningStorePass>snookerbyb</AndroidSigningStorePass>
+    <AndroidUseSharedRuntime>True</AndroidUseSharedRuntime>
+    <BundleAssemblies>False</BundleAssemblies>
+    <AndroidCreatePackagePerAbi>False</AndroidCreatePackagePerAbi>
+    <AotAssemblies>False</AotAssemblies>
+    <EnableLLVM>False</EnableLLVM>
+    <EnableProguard>False</EnableProguard>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <JavaMaximumHeapSize>1G</JavaMaximumHeapSize>
+    <AndroidUseSharedRuntime>false</AndroidUseSharedRuntime>
+    <AndroidKeyStore>True</AndroidKeyStore>
+    <AndroidSigningKeyStore>C:\Awpbs6\_Android keys\snookerbyb.keystore</AndroidSigningKeyStore>
+    <AndroidSigningStorePass>snookerbyb</AndroidSigningStorePass>
+    <DebugType>full</DebugType>
+    <AndroidSigningKeyAlias>snookerbyb</AndroidSigningKeyAlias>
+    <AndroidSigningKeyPass>snookerbyb</AndroidSigningKeyPass>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Mono.Android" />
+    <Reference Include="Mono.Data.Sqlite" />
+    <Reference Include="mscorlib" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.Portable">
+      <HintPath>..\..\packages\Mono.Data.Sqlite.Portable.1.0.3.5\lib\MonoAndroid\System.Data.Portable.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Transactions.Portable">
+      <HintPath>..\..\packages\Mono.Data.Sqlite.Portable.1.0.3.5\lib\MonoAndroid\System.Transactions.Portable.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>..\..\packages\Newtonsoft.Json.7.0.1\lib\portable-net40+sl5+wp80+win8+wpa81\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="ExifLib">
+      <HintPath>..\..\packages\ExifLib.PCL.1.0.1\lib\portable-net45+sl50+win+WindowsPhoneApp81+wp80+Xamarin.iOS10+MonoAndroid10+MonoTouch10\ExifLib.dll</HintPath>
+    </Reference>
+    <Reference Include="Mono.Android.Export" />
+    <Reference Include="System.ComponentModel.Composition" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="Xamarin.Android.Support.v4">
+      <HintPath>..\..\packages\Xamarin.Android.Support.v4.23.0.1.3\lib\MonoAndroid403\Xamarin.Android.Support.v4.dll</HintPath>
+    </Reference>
+    <Reference Include="Xamarin.Facebook">
+      <HintPath>..\..\packages\Xamarin.Facebook.Android.4.7.0.1\lib\MonoAndroid403\Xamarin.Facebook.dll</HintPath>
+    </Reference>
+    <Reference Include="Xamarin.Android.Support.v7.AppCompat">
+      <HintPath>..\..\packages\Xamarin.Android.Support.v7.AppCompat.23.0.1.3\lib\MonoAndroid403\Xamarin.Android.Support.v7.AppCompat.dll</HintPath>
+    </Reference>
+    <Reference Include="Xamarin.Android.Support.Design">
+      <HintPath>..\..\packages\Xamarin.Android.Support.Design.23.0.1.3\lib\MonoAndroid403\Xamarin.Android.Support.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="Xamarin.Android.Support.v7.CardView">
+      <HintPath>..\..\packages\Xamarin.Android.Support.v7.CardView.23.0.1.3\lib\MonoAndroid403\Xamarin.Android.Support.v7.CardView.dll</HintPath>
+    </Reference>
+    <Reference Include="Xamarin.Android.Support.v7.MediaRouter">
+      <HintPath>..\..\packages\Xamarin.Android.Support.v7.MediaRouter.23.0.1.3\lib\MonoAndroid403\Xamarin.Android.Support.v7.MediaRouter.dll</HintPath>
+    </Reference>
+    <Reference Include="XLabs.Ioc">
+      <HintPath>..\..\packages\XLabs.IoC.2.0.5782\lib\portable-net45+netcore45+wp8+MonoAndroid1+MonoTouch1\XLabs.Ioc.dll</HintPath>
+    </Reference>
+    <Reference Include="XLabs.Core">
+      <HintPath>..\..\packages\XLabs.Core.2.0.5782\lib\portable-net45+netcore45+wp8+MonoAndroid1+MonoTouch1\XLabs.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="XLabs.Platform">
+      <HintPath>..\..\packages\XLabs.Platform.2.0.5782\lib\MonoAndroid\XLabs.Platform.dll</HintPath>
+    </Reference>
+    <Reference Include="XLabs.Platform.Droid">
+      <HintPath>..\..\packages\XLabs.Platform.2.0.5782\lib\MonoAndroid\XLabs.Platform.Droid.dll</HintPath>
+    </Reference>
+    <Reference Include="XLabs.Serialization">
+      <HintPath>..\..\packages\XLabs.Serialization.2.0.5782\lib\portable-net45+netcore45+wp8+MonoAndroid1+MonoTouch1\XLabs.Serialization.dll</HintPath>
+    </Reference>
+    <Reference Include="XLabs.Forms">
+      <HintPath>..\..\packages\XLabs.Forms.2.0.5782\lib\MonoAndroid\XLabs.Forms.dll</HintPath>
+    </Reference>
+    <Reference Include="XLabs.Forms.Droid">
+      <HintPath>..\..\packages\XLabs.Forms.2.0.5782\lib\MonoAndroid\XLabs.Forms.Droid.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Net.Http.Extensions">
+      <HintPath>..\..\packages\Microsoft.Net.Http.2.2.29\lib\monoandroid\System.Net.Http.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.Http.Primitives">
+      <HintPath>..\..\packages\Microsoft.Net.Http.2.2.29\lib\monoandroid\System.Net.Http.Primitives.dll</HintPath>
+    </Reference>
+    <Reference Include="Xamarin.Forms.Maps, Version=2.0.0.0, Culture=neutral, PublicKeyToken=null">
+      <HintPath>..\..\packages\Xamarin.Forms.Maps.2.0.0.6482\lib\MonoAndroid10\Xamarin.Forms.Maps.dll</HintPath>
+    </Reference>
+    <Reference Include="Xamarin.Forms.Maps.Android, Version=2.0.0.0, Culture=neutral, PublicKeyToken=null">
+      <HintPath>..\..\packages\Xamarin.Forms.Maps.2.0.0.6482\lib\MonoAndroid10\Xamarin.Forms.Maps.Android.dll</HintPath>
+    </Reference>
+    <Reference Include="Xamarin.GooglePlayServices.Gcm, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+      <HintPath>..\..\packages\Xamarin.GooglePlayServices.Gcm.26.0.0.0\lib\MonoAndroid41\Xamarin.GooglePlayServices.Gcm.dll</HintPath>
+    </Reference>
+    <Reference Include="Xamarin.GooglePlayServices.Maps, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+      <HintPath>..\..\packages\Xamarin.GooglePlayServices.Maps.26.0.0.0\lib\MonoAndroid41\Xamarin.GooglePlayServices.Maps.dll</HintPath>
+    </Reference>
+    <Reference Include="Xamarin.GooglePlayServices.Base">
+      <HintPath>..\..\packages\Xamarin.GooglePlayServices.Base.26.0.0.0\lib\MonoAndroid41\Xamarin.GooglePlayServices.Base.dll</HintPath>
+    </Reference>
+    <Reference Include="Rivets">
+      <HintPath>..\..\Components\rivets-1.0.5.1\lib\android\Rivets.dll</HintPath>
+    </Reference>
+    <Reference Include="Branch-Xamarin-SDK">
+      <HintPath>..\..\packages\Branch-Xamarin-Linking-SDK.1.1.1\lib\MonoAndroid\Branch-Xamarin-SDK.dll</HintPath>
+    </Reference>
+    <Reference Include="Branch-Xamarin-SDK.Droid">
+      <HintPath>..\..\packages\Branch-Xamarin-Linking-SDK.1.1.1\lib\MonoAndroid\Branch-Xamarin-SDK.Droid.dll</HintPath>
+    </Reference>
+    <Reference Include="Refractored.XamForms.PullToRefresh">
+      <HintPath>..\..\packages\Refractored.XamForms.PullToRefresh.1.0.5\lib\MonoAndroid10\Refractored.XamForms.PullToRefresh.dll</HintPath>
+    </Reference>
+    <Reference Include="Refractored.XamForms.PullToRefresh.Droid">
+      <HintPath>..\..\packages\Refractored.XamForms.PullToRefresh.1.0.5\lib\MonoAndroid10\Refractored.XamForms.PullToRefresh.Droid.dll</HintPath>
+    </Reference>
+    <Reference Include="FormsViewGroup">
+      <HintPath>..\..\packages\Xamarin.Forms.2.0.0.6490\lib\MonoAndroid10\FormsViewGroup.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Xamarin.Forms.Core">
+      <HintPath>..\..\packages\Xamarin.Forms.2.0.0.6490\lib\MonoAndroid10\Xamarin.Forms.Core.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Xamarin.Forms.Platform.Android">
+      <HintPath>..\..\packages\Xamarin.Forms.2.0.0.6490\lib\MonoAndroid10\Xamarin.Forms.Platform.Android.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Xamarin.Forms.Platform">
+      <HintPath>..\..\packages\Xamarin.Forms.2.0.0.6490\lib\MonoAndroid10\Xamarin.Forms.Platform.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Xamarin.Forms.Xaml">
+      <HintPath>..\..\packages\Xamarin.Forms.2.0.0.6490\lib\MonoAndroid10\Xamarin.Forms.Xaml.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="RoundedBoxView.Forms.Plugin.Abstractions">
+      <HintPath>..\..\packages\Xam.Plugins.Forms.RoundedBoxView.1.0.0.7\lib\MonoAndroid10\RoundedBoxView.Forms.Plugin.Abstractions.dll</HintPath>
+    </Reference>
+    <Reference Include="RoundedBoxView.Forms.Plugin.Android">
+      <HintPath>..\..\packages\Xam.Plugins.Forms.RoundedBoxView.1.0.0.7\lib\MonoAndroid10\RoundedBoxView.Forms.Plugin.Android.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Resources\Resource.Designer.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Renderers\DatePickerRenderer.cs" />
+    <Compile Include="Renderers\EntryRenderer.cs" />
+    <Compile Include="Renderers\LargeEntryRenderer.cs" />
+    <Compile Include="Renderers\PickerRenderer.cs" />
+    <Compile Include="Renderers\navigationRenderer.cs" />
+    <Compile Include="Renderers\SwitchRenderer.cs" />
+    <Compile Include="SplashActivity.cs" />
+    <Compile Include="Renderers\EditorRenderer.cs" />
+    <Compile Include="MainActivity.cs" />
+    <Compile Include="FacebookActivity.cs" />
+    <Compile Include="Renderers\ButtonRenderer.cs" />
+    <Compile Include="TypefaceUtil.cs" />
+    <Compile Include="Renderers\LabelRenderer.cs" />
+    <Compile Include="Services\Files.cs" />
+    <Compile Include="Services\LocationService.cs" />
+    <Compile Include="Services\LocationServiceGooglePlay.cs" />
+    <Compile Include="Services\MobileNotificationsService.cs" />
+    <Compile Include="Services\ScorePronouncer_Android.cs" />
+    <Compile Include="Services\FacebookService.cs" />
+    <Compile Include="RegistrationIntentService.cs" />
+    <Compile Include="GcmListenerService.cs" />
+    <Compile Include="InstanceIdListenerService.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="packages.config" />
+    <None Include="Resources\AboutResources.txt" />
+    <None Include="Assets\AboutAssets.txt" />
+    <None Include="Properties\AndroidManifest.xml">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\values\strings.xml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\Drawable\add.png" />
+    <AndroidResource Include="Resources\Drawable\arrowRight.png" />
+    <AndroidResource Include="Resources\Drawable\back.png" />
+    <AndroidResource Include="Resources\Drawable\calendar.png" />
+    <AndroidResource Include="Resources\Drawable\clock.png" />
+    <AndroidResource Include="Resources\Drawable\down.png" />
+    <AndroidResource Include="Resources\Drawable\downBlack.png" />
+    <AndroidResource Include="Resources\Drawable\find.png" />
+    <AndroidResource Include="Resources\Drawable\menu2.png" />
+    <AndroidResource Include="Resources\Drawable\personBackground1.png" />
+    <AndroidResource Include="Resources\Drawable\personBlackBackground.png" />
+    <AndroidResource Include="Resources\Drawable\plus.png" />
+    <AndroidResource Include="Resources\Drawable\plusBlack.png" />
+    <AndroidResource Include="Resources\Drawable\profile.png" />
+    <AndroidResource Include="Resources\Drawable\rectangle.png" />
+    <AndroidResource Include="Resources\Drawable\icon.png" />
+    <AndroidResource Include="Resources\Drawable\personWhiteBackground.png" />
+    <AndroidResource Include="Resources\values\Styles.xml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\Drawable\alert1.png" />
+    <AndroidResource Include="Resources\Drawable\alert2.png" />
+    <AndroidResource Include="Resources\Drawable\newsfeed.png" />
+    <AndroidResource Include="Resources\Drawable\like1.png" />
+    <AndroidResource Include="Resources\Drawable\like2.png" />
+    <AndroidResource Include="Resources\Drawable\right1.png" />
+    <AndroidResource Include="Resources\Drawable\right2.png" />
+    <AndroidResource Include="Resources\layout\googleApiText.xml" />
+    <AndroidResource Include="Resources\Drawable\splash.9.png" />
+    <AndroidResource Include="Resources\Drawable\checkmarkRed.png" />
+    <AndroidResource Include="Resources\Drawable\plusBlack2.png" />
+    <AndroidResource Include="Resources\Drawable\speaker60.png" />
+    <AndroidResource Include="Resources\Drawable\SnookerCanada.jpg" />
+    <AndroidResource Include="Resources\Drawable\thinArrow1Left.png" />
+    <AndroidResource Include="Resources\Drawable\thinArrow1Right.png" />
+    <AndroidResource Include="Resources\Drawable\thinArrow2Left.png" />
+    <AndroidResource Include="Resources\Drawable\thinArrow2Right.png" />
+    <AndroidResource Include="Resources\layout\facebookLoginPage.xml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\values\colors.xml" />
+    <AndroidResource Include="Resources\layout\toolbar.axml" />
+    <AndroidResource Include="Resources\values-v21\styles.xml" />
+  </ItemGroup>
+  <Import Project="..\Awpbs.Mobile\Awpbs.Mobile.projitems" Label="Shared" Condition="Exists('..\Awpbs.Mobile\Awpbs.Mobile.projitems')" />
+  <Import Project="..\..\Awpbs.Common2\Awpbs.Common2.projitems" Label="Shared" Condition="Exists('..\..\Awpbs.Common2\Awpbs.Common2.projitems')" />
+  <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
+  <Import Project="..\..\packages\Mono.Data.Sqlite.Portable.1.0.3.5\tools\Mono.Data.Sqlite.Portable.targets" Condition="Exists('..\..\packages\Mono.Data.Sqlite.Portable.1.0.3.5\tools\Mono.Data.Sqlite.Portable.targets')" />
+  <Import Project="..\..\packages\Microsoft.Bcl.Build.1.0.21\build\Microsoft.Bcl.Build.targets" Condition="Exists('..\..\packages\Microsoft.Bcl.Build.1.0.21\build\Microsoft.Bcl.Build.targets')" />
+  <Import Project="..\..\packages\Xamarin.Forms.2.0.0.6482\build\portable-win+net45+wp80+win81+wpa81+MonoAndroid10+MonoTouch10+Xamarin.iOS10\Xamarin.Forms.targets" Condition="Exists('..\..\packages\Xamarin.Forms.2.0.0.6482\build\portable-win+net45+wp80+win81+wpa81+MonoAndroid10+MonoTouch10+Xamarin.iOS10\Xamarin.Forms.targets')" />
+  <Import Project="..\..\packages\Xamarin.Forms.2.0.0.6490\build\portable-win+net45+wp80+win81+wpa81+MonoAndroid10+MonoTouch10+Xamarin.iOS10\Xamarin.Forms.targets" Condition="Exists('..\..\packages\Xamarin.Forms.2.0.0.6490\build\portable-win+net45+wp80+win81+wpa81+MonoAndroid10+MonoTouch10+Xamarin.iOS10\Xamarin.Forms.targets')" />
+  <Target Name="EnsureMonoDataSqlitePortableImported" BeforeTargets="BeforeBuild" Condition="'$(MonoDataSqlitePortableImported)' == ''">
+    <Error Condition="!Exists('..\..\packages\Mono.Data.Sqlite.Portable.1.0.3.5\tools\Mono.Data.Sqlite.Portable.targets')" Text="This project references NuGet package(s) that are missing on this computer. Enable NuGet Package Restore to download them." />
+    <Error Condition="Exists('..\..\packages\Mono.Data.Sqlite.Portable.1.0.3.5\tools\Mono.Data.Sqlite.Portable.targets')" Text="The build restored NuGet packages. Build the project again to include these packages in the build." />
+  </Target>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+     Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <ItemGroup>
+    <BundleResource Include="add.png">
+      <DependentUpon>MainActivity.cs</DependentUpon>
+    </BundleResource>
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <XamarinComponentReference Include="rivets">
+      <Version>1.0.5.1</Version>
+      <Visible>False</Visible>
+    </XamarinComponentReference>
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <AndroidAsset Include="Assets\fonts\Lato-Bold.ttf" />
+    <AndroidAsset Include="Assets\fonts\Lato-Regular.ttf" />
+  </ItemGroup>
+</Project>

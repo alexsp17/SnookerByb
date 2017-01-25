@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <HasSharedItems>true</HasSharedItems>
+    <SharedGUID>9faec170-e7d1-4ccc-9029-74413b55a5ba</SharedGUID>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration">
+    <Import_RootNamespace>Awpbs.Mobile.iOS.Shared</Import_RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="$(MSBuildThisFileDirectory)AppInitCode.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Renderers\DatePickerRenderer.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Renderers\EntryRenderer.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Renderers\LargeEntryRenderer.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Renderers\NavigationPageRenderer.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Renderers\PickerRenderer.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Services\FacebookService.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Services\Files.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Services\KeyChain.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Services\LocationService.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Services\MobileNotificationsService.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Services\ScorePronouncer.cs" />
+  </ItemGroup>
+</Project>
